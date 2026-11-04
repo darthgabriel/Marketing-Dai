@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8">
+<title>SPECIAL DAI · Alianza Banesco</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  @page { size: Letter; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  html, body { background: #fff; color: #0F172A; font-family: "Inter", "Segoe UI", system-ui, sans-serif; }
+  .page { width: 8.5in; height: 11in; padding: 0.4in 0.55in 0.38in; position: relative; page-break-after: always; display: flex; flex-direction: column; }
+  .page:last-child { page-break-after: auto; }
+  .kicker { font-size: 8px; letter-spacing: .2em; text-transform: uppercase; color: #64748b; display: flex; justify-content: space-between; align-items: center; }
+  .kicker .brand { font-weight: 700; color: #0F172A; }
+  .kicker .pg { background: #0F172A; color: #fff; padding: 2px 7px; font-weight: 600; letter-spacing: .14em; }
+  h1 { font-size: 27px; line-height: 1.04; font-weight: 800; letter-spacing: -0.9px; margin: 12px 0 6px; color: #0F172A; }
+  h1 .mut { color: #94a3b8; font-weight: 700; }
+  .subtitle { font-size: 9.5px; color: #475569; line-height: 1.4; max-width: 96%; }
+  .section-label { font-size: 7.5px; letter-spacing: .2em; text-transform: uppercase; color: #64748b; font-weight: 600; margin: 12px 0 5px; display: flex; align-items: center; gap: 7px; }
+  .section-label::before { content: ""; width: 12px; height: 2px; background: #DC2626; }
+  .rule { height: 1px; background: #e2e8f0; margin: 0 0 8px; }
+  table { width: 100%; border-collapse: collapse; font-size: 8.7px; }
+  th { text-align: left; font-size: 7.2px; letter-spacing: .1em; text-transform: uppercase; color: #64748b; font-weight: 600; padding: 4px 0; border-bottom: 1.5px solid #0F172A; }
+  td { padding: 5px 0; border-bottom: 1px solid #eef2f7; vertical-align: top; line-height: 1.3; }
+  td.n, th.n { text-align: right; }
+  .read { font-size: 9px; color: #334155; line-height: 1.45; margin-top: 6px; }
+  .note { font-size: 8px; color: #64748b; margin-top: 5px; line-height: 1.4; }
+  .sources { font-size: 6.8px; color: #94a3b8; line-height: 1.4; margin-top: auto; padding-top: 8px; }
+  .footer { position: absolute; right: 0.55in; bottom: 0.24in; font-size: 7px; letter-spacing: .16em; text-transform: uppercase; color: #cbd5e1; }
+  .logo-row { display: flex; align-items: baseline; gap: 11px; margin: 13px 0 5px; }
+  .lg-special { font-size: 26px; font-weight: 300; letter-spacing: .02em; color: #0F172A; }
+  .lg-dai { font-size: 46px; font-weight: 800; letter-spacing: -1.5px; color: #0F172A; }
+  .lg-strike { position: relative; font-size: 33px; font-weight: 300; color: #cbd5e1; letter-spacing: .02em; }
+  .lg-strike::after { content: ""; position: absolute; left: -3px; right: -3px; top: 52%; height: 4px; background: #D0021B; transform: rotate(-7deg); }
+  .cap-sm { font-size: 8px; color: #64748b; letter-spacing: .04em; }
+  .obj { display: grid; grid-template-columns: 1fr 1fr; gap: 7px; margin-top: 4px; }
+  .obj-card { border: 1px solid #e2e8f0; border-left: 3px solid #0F172A; padding: 7px 10px; }
+  .obj-card.hot { border-left-color: #DC2626; }
+  .obj-n { font-size: 7px; font-weight: 700; color: #fff; background: #0F172A; width: 15px; height: 15px; display: inline-flex; align-items: center; justify-content: center; }
+  .obj-card.hot .obj-n { background: #DC2626; }
+  .obj-t { font-size: 10.5px; font-weight: 700; color: #0F172A; margin: 3px 0 1px; letter-spacing: -0.2px; }
+  .obj-term { font-size: 7px; text-transform: uppercase; letter-spacing: .1em; color: #64748b; font-weight: 600; }
+  .obj-d { font-size: 8.3px; color: #475569; line-height: 1.35; margin-top: 3px; }
+  .obj-kpi { font-size: 8.3px; margin-top: 4px; padding-top: 4px; border-top: 1px dashed #e2e8f0; color: #0F172A; font-weight: 600; }
+  .bad { color: #94a3b8; }
+  .good { color: #0F172A; font-weight: 500; }
+  ul.pts { list-style: none; }
+  ul.pts li { font-size: 8.6px; line-height: 1.4; margin-bottom: 5px; padding-left: 12px; position: relative; color: #334155; }
+  ul.pts li::before { content: ""; position: absolute; left: 0; top: 5px; width: 5px; height: 5px; background: #DC2626; }
+  ul.pts li b { color: #0F172A; }
+  table.cal { font-size: 7.6px; }
+  table.cal th { font-size: 6.6px; padding: 3px 0; }
+  table.cal td { padding: 2.4px 0; line-height: 1.2; vertical-align: top; }
+  .cal-x { display: block; font-size: 6.6px; line-height: 1.2; color: #64748b; margin-top: 1px; font-weight: 400; }
+  table.cal td.d { font-weight: 700; color: #0F172A; white-space: nowrap; }
+  table.cal tr.phase td { background: #0F172A; color: #fff; font-weight: 700; font-size: 6.8px; letter-spacing: .14em; text-transform: uppercase; padding: 3px 6px; }
+  table.gt { font-size: 8.8px; }
+  table.gt td { padding: 6px 0; vertical-align: top; line-height: 1.32; }
+  table.gt td.gd { font-weight: 700; color: #0F172A; white-space: nowrap; letter-spacing: -0.2px; }
+  table.gt .gh { display: block; font-weight: 700; color: #0F172A; }
+  table.gt .gx { display: block; color: #475569; margin-top: 1px; }
+</style></head><body>
+
+<!-- ============================================================ HOJA 1 -->
+<section class="page"><div class="kicker"><span class="brand">DAI MOTORS · HYUNDAI + CHERY MARACAIBO</span><span class="pg">SPECIAL DAI · ALIANZA BANESCO · 1/3</span></div>
+  <h1>Dos firmas. Un mismo cliente.<br><span class="mut">Dai Motors y Banesco: la alianza que te invita.</span></h1>
+  <p class="subtitle">SPECIAL DAI · ALIANZA BANESCO · evento exclusivo de ventas para la cartera de clientes Banesco · 2–7 de noviembre de 2026 · Hyundai y Chery Maracaibo, cada uno en su showroom · <b>acceso solo con pase emitido por Dai Motors · 6 unidades expuestas por marca · 74 en inventario</b> · cierre sábado 7 a las 5 pm.</p>
+
+  <div class="logo-row">
+    <span class="lg-special">SPECIAL</span>
+    <span class="lg-strike">DAYS</span>
+    <span class="lg-dai">DAI</span>
+  </div>
+  <p class="cap-sm">Alianza Banesco · hashtag #SpecialDai · sin keywords de campaña · acceso exclusivo cartera Banesco · una sola lista, dos showrooms.</p>
+
+  <div class="section-label">EL CONCEPTO</div><div class="rule"></div>
+  <ul class="pts">
+    <li><b>Evento cerrado.</b> Banesco contacta a su cartera por sus canales (email, app, asesores de cuenta) y el cliente registra su asistencia. Dai no publicita el evento en ningún medio.</li>
+    <li><b>Pase con código.</b> Cada cliente registrado recibe su Pase Special Dai numerado en la entrada del showroom, el día del evento y contra cédula. Intransferible, con su marca preferida y su turno.</li>
+    <li><b>Precio de evento en sala.</b> El precio va en cartel junto a cada unidad y en el pase. Audiencia cerrada y calificada: no hay fuga de precios ni competencia de público.</li>
+    <li><b>Banco en sala.</b> Banesco opera mesa financiera los 6 días: revisa documentos y aprueba financiamientos en el mismo día.</li>
+    <li><b>Sin publicidad.</b> Todo el presupuesto vive dentro del showroom: catering, montaje, señalética y equipo. La audiencia la pone el banco.</li>
+  </ul>
+
+  <div class="section-label">OBJETIVOS · LO QUE SE COMPROMETE</div><div class="rule"></div>
+  <div class="obj"><div class="obj-card">
+        <span class="obj-n">1</span> <span class="obj-term">Rotación de stock / Sell-through</span>
+        <div class="obj-t">Mover inventario estancado</div>
+        <div class="obj-d">Tucson 9, Accent 190 d y Tiggo 4 Pro Max 360 d entran al empuje con precio de evento visible en sala.</div>
+        <div class="obj-kpi">Meta · ≥ 3 Tucson y ≥ 3 Tiggo 4 vendidas en la semana</div>
+      </div><div class="obj-card">
+        <span class="obj-n">2</span> <span class="obj-term">Cierre de ejercicio / Model-year</span>
+        <div class="obj-t">Liquidar remanentes 2026</div>
+        <div class="obj-d">La cartera Banesco es la audiencia con capacidad crediticia verificada: es quien puede sacar las 2026 antes de la llegada de 2027.</div>
+        <div class="obj-kpi">Meta · 74 unidades de inventario con destino asignado</div>
+      </div><div class="obj-card">
+        <span class="obj-n">3</span> <span class="obj-term">Conversión de confirmaciones / Asistencia</span>
+        <div class="obj-t">Convertir invitación en visita</div>
+        <div class="obj-d">Cada pase emitido genera llamada de confirmación del asesor 48 h antes. La asistencia se mide, no se improvisa.</div>
+        <div class="obj-kpi">Meta · ≥ 60% de pases confirmados asisten al showroom</div>
+      </div><div class="obj-card hot">
+        <span class="obj-n">4</span> <span class="obj-term">Cierre comercial / Deal velocity</span>
+        <div class="obj-t">Cerrar negocios</div>
+        <div class="obj-d">Mesa financiera en showroom: del interés a la firma en la misma visita, sin perder al cliente por gestión externa. Cada vendedor con cuota de ventas del evento.</div>
+        <div class="obj-kpi">Meta · 18 unidades (10 Hyundai + 8 Chery) firmadas en 6 días</div>
+      </div><div class="obj-card">
+        <span class="obj-n">5</span> <span class="obj-term">Gestión de financiamiento / Financing</span>
+        <div class="obj-t">Gestión de financiamiento</div>
+        <div class="obj-d">El banco opera en el showroom durante el evento: valida los documentos y aprueba los financiamientos en el mismo día.</div>
+        <div class="obj-kpi">Meta · banco confirmando y dando aprobación verificable</div>
+      </div><div class="obj-card">
+        <span class="obj-n">6</span> <span class="obj-term">Posicionamiento de marca / Brand equity</span>
+        <div class="obj-t">Dai Motors como banco lo elige</div>
+        <div class="obj-d">Evento con firma Banesco: el cliente asocia Dai Motors con trato preferente, no con descuento de feria.</div>
+        <div class="obj-kpi">Meta · continuidad de la alianza con carteras de otros bancos en 2027</div>
+      </div></div>
+
+  <p class="read"><b>La ventaja estructural: Banesco pre-filtra.</b> La cartera ya pasó por scoring crediticio. El evento no gasta en conseguir visitas — gasta en convertir visitas calientes. Por eso la meta de 18 unidades se sostiene sin publicidad.</p>
+
+  <p class="sources">Fuentes: CRM autoweb Inventario Valorado Dai Motors S.A. (22 oct 2026) · decisiones de Alianza Banesco (23 oct 2026). Metas propuestas — corte final por Gerencia.</p><div class="footer">Dai Motors · Hyundai + Chery Maracaibo · Special Dai Alianza Banesco · 2–7 nov 2026</div></section>
+
+<!-- ============================================================ HOJA 2 -->
+<section class="page"><div class="kicker"><span class="brand">DAI MOTORS · HYUNDAI + CHERY MARACAIBO</span><span class="pg">SPECIAL DAI · ALIANZA BANESCO · 2/3</span></div>
+  <h1 style="font-size:22px">Seis días. Cuatro tandas. Ningún minuto improvisado.</h1>
+  <p class="subtitle">SPECIAL DAI · ALIANZA BANESCO · calendario operativo 23 oct – 9 nov 2026 · <b>Banesco envía la cartera · Dai gestiona confirmaciones, pases y agenda de visitas</b> · tandas cada 2 horas · 10:00, 12:00, 14:00 y 16:00.</p>
+
+  <div class="section-label">CÓMO ENTRA EL CLIENTE · 5 PASOS</div><div class="rule"></div>
+  <ul class="pts">
+    <li><b>1 · Banesco envía.</b> Email + app + asesores de cuenta contactan la cartera elegida (segmento a definir con el banco: antigüedad, monto, actividad).</li>
+    <li><b>2 · El cliente confirma.</b> Responde al canal del banco y queda registrado con nombre y cédula. Dai no contacta a nadie que no venga listado.</li>
+    <li><b>3 · Pase en la entrada.</b> Dai imprime los pases con código numérico, marca preferida y turno. Se entregan el día del evento, en la entrada del showroom, contra cédula. 1 por cliente, intransferible.</li>
+    <li><b>4 · Llamada de confirmación.</b> El asesor asignado llama 48 h antes: confirma día y hora. Sin confirmación, el turno se libera.</li>
+    <li><b>5 · Entrada con pase.</b> Control en recepción: cédula contra lista y entrega del pase. Quien no está en la lista, no hay precio de evento.</li>
+  </ul>
+
+  <div class="section-label">CALENDARIO OPERATIVO</div><div class="rule"></div>
+  <table class="cal"><thead><tr><th style="width:12%">Fecha</th><th style="width:62%">Acción interna · Dai + Banesco</th><th style="width:26%">Quién</th></tr></thead><tbody>
+    <tr class="phase"><td colspan="3">PUESTA A PUNTO · 23–31 OCT</td></tr>
+    <tr><td class="d">Vie 23</td><td>Cierre del plan y del brief con Banesco<span class="cal-x">Definir segmento de cartera y fecha de envío.</span></td><td>Gerencia + banco</td></tr>
+    <tr><td class="d">Lun 26</td><td>Producción de pases (500)<span class="cal-x">Impresión: pase numerado + QR + fechas.</span></td><td>Marketing</td></tr>
+    <tr><td class="d">Mar 27</td><td><b>Banesco envía la cartera</b> — email + app + asesores<span class="cal-x">Registro abierto. Corte de confirmaciones: 1 nov.</span></td><td>Banesco</td></tr>
+    <tr><td class="d">Mié 28</td><td>Cartel de bienvenida en entrada de cada showroom<span class="cal-x">Interno: showroom. Nada de vía pública.</span></td><td>Operaciones</td></tr>
+    <tr><td class="d">Jue 29</td><td>Primer corte de confirmaciones: emisión de pases por orden de registro<span class="cal-x">Pase con marca preferida y turno.</span></td><td>Marketing</td></tr>
+    <tr><td class="d">Vie 30</td><td>Montaje de showroom: banderines, alfombra, cartel de precios de evento, mesa Banesco<span class="cal-x">Precios visibles en sala — audiencia cerrada.</span></td><td>Operaciones</td></tr>
+    <tr><td class="d">Sáb 31</td><td>Segundo y último corte de confirmaciones · lista final por marca y turno<span class="cal-x">Se cierra el listado: no hay inscripción en puerta.</span></td><td>Marketing + banco</td></tr>
+    <tr class="phase"><td colspan="3">EVENTO · 2–7 NOV · TANDAS CADA 2 HORAS, 10 AM – 5 PM</td></tr>
+    <tr><td class="d">Lun 2</td><td>Apertura Alianza Banesco · tandas de 10:00, 12:00, 14:00 y 16:00<span class="cal-x">Entrega de pase en entrada contra cédula · agenda del día por asesor · en ambos concesionarios.</span></td><td>Todos</td></tr>
+    <tr><td class="d">Mar 3 – Vie 6</td><td>Mismo esquema de tandas · mesa Banesco operando todo el día<span class="cal-x">Reporte nocturno: pases atendidos, firmas, pendientes.</span></td><td>Todos</td></tr>
+    <tr><td class="d">Sáb 7</td><td>Cierre 17:00 · última tanda 16:00 · recap interno con la lista final<span class="cal-x">“Lo que quedó” se gestiona por llamada directa.</span></td><td>Todos</td></tr>
+  </tbody></table>
+
+  <div class="section-label">AGENDA DIARIA DEL EVENTO · MISMA RUTINA LOS 6 DÍAS</div><div class="rule"></div>
+  <table class="cal"><thead><tr><th style="width:13%">Hora</th><th style="width:58%">Qué pasa</th><th style="width:29%">Responsable</th></tr></thead><tbody>
+    <tr><td class="d">9:00–10:00</td><td>Unidades lavadas y en posición · precios en cartel · mesa Banesco montada · briefing de 10 min<span class="cal-x">Cada tanda tiene su lista de pases confirmados.</span></td><td>Operaciones + asesores</td></tr>
+    <tr><td class="d">10:00–16:00</td><td><b>Tandas 1, 2 y 3</b> · recepción con cédula y entrega de pase · café de bienvenida · recorrido por zona asignada · test drive · mesa financiera<span class="cal-x">El asesor asignado acompaña todo el recorrido. No se deja al cliente solo.</span></td><td>Asesor de guardia + asesores</td></tr>
+    <tr><td class="d">16:00–17:00</td><td><b>Tanda 4</b> · última tanda · cierre de negocios del día · “solo hoy” aplica hasta las 17:00</td><td>Gerencia + asesores</td></tr>
+    <tr><td class="d">17:00–17:30</td><td>Cierre diario: reporte de pases atendidos, firmas, unidades pendientes y lista de llamadas del día siguiente</td><td>Gerencia</td></tr>
+  </tbody></table>
+
+  <p class="note"><b>Reglas del evento:</b> ninguna pieza de campaña para redes — las cuentas publican su operación diaria, sin mención del evento. El evento no se anuncia fuera de la cartera Banesco. Sáb 7 el evento muere a las 17:00: no se extiende, no se abre domingo.</p>
+  <p class="sources">Fuentes: decisiones de Alianza Banesco (23 oct 2026) · línea de tiempo operativa propuesta — corte por Gerencia y Banesco.</p><div class="footer">Dai Motors · Hyundai + Chery Maracaibo · Special Dai Alianza Banesco · 2–7 nov 2026</div></section>
+
+<!-- ============================================================ HOJA 3 -->
+<section class="page"><div class="kicker"><span class="brand">DAI MOTORS · HYUNDAI + CHERY MARACAIBO</span><span class="pg">SPECIAL DAI · ALIANZA BANESCO · 3/3</span></div>
+  <h1 style="font-size:22px">Todo el presupuesto vive en sala.</h1>
+  <p class="subtitle">SPECIAL DAI · ALIANZA BANESCO · presupuesto, materiales y guiones del equipo · <b>catering, montaje y señalética incluidos</b> · cifras al 23 de octubre de 2026.</p>
+
+  <div class="section-label">PRESUPUESTO · PARTIDAS DEL EVENTO</div><div class="rule"></div>
+  <table><thead><tr><th style="width:46%">Partida</th><th class="n" style="width:14%">Monto</th><th style="width:40%">Detalle</th></tr></thead><tbody>
+    <tr><td><b>1 · Catering</b> — espresso + cápsulas</td><td class="n"><b>$716</b></td><td>2 máquinas $300 + 4 bolsas de cápsulas $416. Galletas y bebidas por alianza, pendientes.</td></tr>
+    <tr><td><b>2 · Banderines</b></td><td class="n"><b>$420</b></td><td>6 × $70 — 4 Chery · 2 Hyundai.</td></tr>
+    <tr><td><b>3 · Tabloide glase</b></td><td class="n"><b>$400</b></td><td>20 impresiones × $20. Con precio visible y QR de confirmación.</td></tr>
+    <tr><td><b>4 · Papelería</b></td><td class="n"><b>$200</b></td><td>500 pases numerados con código.</td></tr>
+    <tr><td colspan="3" style="border-bottom:none"></td></tr>
+    <tr><td><b>Total confirmado</b></td><td class="n"><b>$1.736</b></td><td></td></tr>
+    <tr><td><b>Pendientes</b></td><td class="n">—</td><td>Galletas y bebidas (alianzas), música en vivo, regalos, luces, sonido.</td></tr>
+  </tbody></table>
+  <p class="note">La regla de precio del i10 ($21.000) y las cuotas: solo con unidades reales y solo tras confirmación de la entidad. El precio de evento sí va en cartel dentro del showroom y en el pase — nunca fuera del evento.</p>
+
+  <div class="section-label">MATERIALES · ESPECIFICACIONES</div><div class="rule"></div>
+  <table><thead><tr><th style="width:24%">Material</th><th style="width:44%">Qué lleva</th><th style="width:32%">Dónde va · cantidad</th></tr></thead><tbody>
+    <tr><td><b>Pase Special Dai</b></td><td>Logo SPECIAL <s>DAYS</s> DAI · código numérico · marca preferida · fechas · QR de confirmación</td><td>Entrega en entrada del showroom contra cédula · 500 uds</td></tr>
+    <tr><td><b>Cartel de bienvenida</b></td><td>SPECIAL <s>DAYS</s> DAI + logo Banesco · “Evento exclusivo por invitación”</td><td>Entrada de cada showroom · 2</td></tr>
+    <tr><td><b>Carteles de precio</b></td><td>Modelo + precio de evento + “solo con pase” · sin letra chica</td><td>Junto a cada unidad · 12</td></tr>
+    <tr><td><b>Tabloide glase</b></td><td>Precio de evento por unidad + QR de confirmación · 10×15 in</td><td>Mesa de bienvenida · 20</td></tr>
+    <tr><td><b>Señalética</b></td><td>Flechas zona Hyundai / zona Chery · “mesa financiera” · “entregas”</td><td>Dentro del showroom · 8</td></tr>
+  </tbody></table>
+  <p class="note"><b>Reglas de diseño:</b> tachado rojo siempre — nunca “SPECIAL DAYS” sin tachar · logo Banesco donde el banco lo autorice · nunca se muestra el inventario completo: se exponen 6 por marca y el resto se cierra sobre ficha.</p>
+
+  <div class="section-label">GUIONES DEL EQUIPO · LO QUE SE DICE Y CUÁNDO</div><div class="rule"></div>
+  <table class="gt"><thead><tr><th style="width:17%">Momento</th><th style="width:22%">Quién</th><th>Guion</th></tr></thead><tbody>
+    <tr><td class="gd">Confirmación<br>T-2 días</td><td>Asesor asignado</td><td><span class="gh">“Su pase está listo, lo esperamos el [día] a las [hora].”</span><span class="gx">Se confirma día y turno. Si no puede, se reagenda en el acto — el turno vacío se libera.</span></td></tr>
+    <tr><td class="gd">Recepción</td><td>Asesor de guardia</td><td><span class="gh">“Bienvenido, solo para clientes Banesco.”</span><span class="gx">Cédula contra lista y entrega del pase en la entrada del showroom. Café de bienvenida y asignación de asesor.</span></td></tr>
+    <tr><td class="gd">Recorrido</td><td>Asesor de la marca</td><td><span class="gh">“Hoy el precio es solo para ustedes.”</span><span class="gx">Las 6 unidades de su marca. El precio está en cartel: se habla de cuota, no de descuento.</span></td></tr>
+    <tr><td class="gd">Mesa financiera</td><td>Asesor Banesco</td><td><span class="gh">“Sentados, 15 minutos.”</span><span class="gx">Revisión de documentos y pre-aprobación en el día. Si aprueba, se firma o se programa firma antes de que se vaya.</span></td></tr>
+    <tr><td class="gd">Cierre de tanda</td><td>Gerencia</td><td><span class="gh">“Si hoy no firma, yo lo llamo mañana.”</span><span class="gx">Nadie se va sin dato de contacto y sin quedar en la lista de llamada. El pase se sella al salir.</span></td></tr>
+    <tr><td class="gd">Relance<br>9–11 nov</td><td>Asesor asignado</td><td><span class="gh">“Quedaron unidades del evento — el precio de pase muere el [fecha].”</span><span class="gx">Solo a pases que asistieron y no firmaron. Llamada 1 a 1, sin publicidad.</span></td></tr>
+  </tbody></table>
+
+  <div class="section-label">CÓMO SE MIDE</div><div class="rule"></div>
+  <table><thead><tr><th style="width:44%">Indicador</th><th style="width:28%">Meta</th><th style="width:28%">Fuente</th></tr></thead><tbody>
+    <tr><td>Pases emitidos</td><td>≥ 300</td><td>Listado de emisión</td></tr>
+    <tr><td>Clientes confirmados por llamada (T-2)</td><td>≥ 60% de pases emitidos</td><td>Reporte de asesores</td></tr>
+    <tr><td>Asistencia real a showroom</td><td>≥ 60% de confirmados</td><td>Lista de recepción (pase sellado)</td></tr>
+    <tr><td><b>Firmas en 6 días</b></td><td><b>18 unidades (10 H + 8 C)</b></td><td>CRM · cierre diario</td></tr>
+    <tr><td>Pre-aprobados en mesa Banesco</td><td>≥ 30 durante el evento</td><td>Banesco</td></tr>
+    <tr><td>Cuota por vendedor</td><td>Definida por Gerencia</td><td>Reporte diario 17:30</td></tr>
+  </tbody></table>
+
+  <p class="sources">Fuentes: decisiones de Alianza Banesco (23 oct 2026) · cotizaciones internas y CRM autoweb · metas propuestas — corte final por Gerencia.</p><div class="footer">Dai Motors · Hyundai + Chery Maracaibo · Special Dai Alianza Banesco · 2–7 nov 2026</div></section>
+
+</body></html>

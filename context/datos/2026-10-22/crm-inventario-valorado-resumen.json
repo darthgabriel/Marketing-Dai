@@ -1,0 +1,423 @@
+{
+ "fuente": "CRM autoweb ~ Inventario Valorado | Dai Motors, S.A. (reporte 22 oct 2026)",
+ "notas": [
+  "EN EXHIBICION / EN PLANTA = unidades físicas disponibles para el evento",
+  "TRANSITO = por llegar; PEDIDO indica lote de origen"
+ ],
+ "grupos": [
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "CHERY",
+   "modelo": "ARRIZO 5 PRO 1,5L AT 2027",
+   "n": 5,
+   "dias_promedio": 33.2,
+   "dias_max": 46,
+   "valor_usd": 97887.61
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "CHERY",
+   "modelo": "ARRIZO 5 PRO 1.5L AT",
+   "n": 5,
+   "dias_promedio": 49.2,
+   "dias_max": 74,
+   "valor_usd": 97689.58
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "CHERY",
+   "modelo": "ARRIZO 5 PRO 1.5L MT",
+   "n": 1,
+   "dias_promedio": 78,
+   "dias_max": 78,
+   "valor_usd": 17910.59
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "CHERY",
+   "modelo": "HIMLA D/C 2.4L M/T 2027",
+   "n": 3,
+   "dias_promedio": 32.3,
+   "dias_max": 36,
+   "valor_usd": 90544.12
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "CHERY",
+   "modelo": "TIGGO 2 PRO MAX 1,5L AT 2027",
+   "n": 5,
+   "dias_promedio": 31.6,
+   "dias_max": 36,
+   "valor_usd": 113985.7
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "CHERY",
+   "modelo": "TIGGO 2 PRO MAX 1.5L AT",
+   "n": 5,
+   "dias_promedio": 49.2,
+   "dias_max": 74,
+   "valor_usd": 131149.06
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "CHERY",
+   "modelo": "TIGGO 4 PRO MAX",
+   "n": 6,
+   "dias_promedio": 141.2,
+   "dias_max": 360,
+   "valor_usd": 142692.07
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "CHERY",
+   "modelo": "TIGGO 4 PRO MAX 2027",
+   "n": 3,
+   "dias_promedio": 20,
+   "dias_max": 20,
+   "valor_usd": 71635.71
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "CHERY",
+   "modelo": "TIGGO 9",
+   "n": 1,
+   "dias_promedio": 78,
+   "dias_max": 78,
+   "valor_usd": 43423.67
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "HYUNDAI",
+   "modelo": "ACCENT 1.5L A/T GLS",
+   "n": 9,
+   "dias_promedio": 77.8,
+   "dias_max": 190,
+   "valor_usd": 223041.48
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "HYUNDAI",
+   "modelo": "CRETA 1.5L A/T GLS",
+   "n": 4,
+   "dias_promedio": 36.5,
+   "dias_max": 56,
+   "valor_usd": 119560.75
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "HYUNDAI",
+   "modelo": "GRAND I10 1.2L A/T GL",
+   "n": 6,
+   "dias_promedio": 35.8,
+   "dias_max": 56,
+   "valor_usd": 105513.86
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "HYUNDAI",
+   "modelo": "GRAND I10 1.2L A/T GLS",
+   "n": 2,
+   "dias_promedio": 65.5,
+   "dias_max": 111,
+   "valor_usd": 39068.64
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "HYUNDAI",
+   "modelo": "GRAND I10 1.2L M/T GL",
+   "n": 2,
+   "dias_promedio": 32.5,
+   "dias_max": 34,
+   "valor_usd": 32391.56
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "HYUNDAI",
+   "modelo": "TUCSON 2.0L AT 2WD GLS",
+   "n": 7,
+   "dias_promedio": 48.6,
+   "dias_max": 94,
+   "valor_usd": 268080.18
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "KARRY",
+   "modelo": "KARRY TRUCK CS 1.6L MT",
+   "n": 1,
+   "dias_promedio": 78,
+   "dias_max": 78,
+   "valor_usd": 18286.7
+  },
+  {
+   "estado": "FACTURADO | EN EXHIBICION",
+   "marca": "MITSUBISHI",
+   "modelo": "L200 PICK-UP",
+   "n": 2,
+   "dias_promedio": 15,
+   "dias_max": 15,
+   "valor_usd": 75585.58
+  },
+  {
+   "estado": "FACTURADO | EN PLANTA",
+   "marca": "CHERY",
+   "modelo": "ARRIZO 5 PRO 1.5L MT 2027",
+   "n": 1,
+   "dias_promedio": 23,
+   "dias_max": 23,
+   "valor_usd": 17910.41
+  },
+  {
+   "estado": "FACTURADO | EN PLANTA",
+   "marca": "HYUNDAI",
+   "modelo": "CRETA 1.5L A/T GLS",
+   "n": 2,
+   "dias_promedio": 8,
+   "dias_max": 8,
+   "valor_usd": 62251.68
+  },
+  {
+   "estado": "FACTURADO | EN PLANTA",
+   "marca": "HYUNDAI",
+   "modelo": "GRAND I10 1.2L A/T GLS",
+   "n": 3,
+   "dias_promedio": 10.7,
+   "dias_max": 29,
+   "valor_usd": 58302.94
+  },
+  {
+   "estado": "FACTURADO | EN PLANTA",
+   "marca": "HYUNDAI",
+   "modelo": "GRAND I10 SEDAN 1.2L AT GLS",
+   "n": 2,
+   "dias_promedio": 2,
+   "dias_max": 2,
+   "valor_usd": 40135.97
+  },
+  {
+   "estado": "FACTURADO | EN PLANTA",
+   "marca": "HYUNDAI",
+   "modelo": "TUCSON 2.0L AT 2WD GLS",
+   "n": 2,
+   "dias_promedio": 8,
+   "dias_max": 8,
+   "valor_usd": 78326.58
+  },
+  {
+   "estado": "TRANSITO | EN EXHIBICION",
+   "marca": "KARRY",
+   "modelo": "KARRY TRUCK DC 1.6L M/T",
+   "n": 1,
+   "dias_promedio": 130,
+   "dias_max": 130,
+   "valor_usd": 17010.0
+  },
+  {
+   "estado": "TRANSITO | EN EXHIBICION",
+   "marca": "KARRY",
+   "modelo": "KARRY VAN CARGA 1.2L M/T",
+   "n": 1,
+   "dias_promedio": 130,
+   "dias_max": 130,
+   "valor_usd": 16210.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "CHERY",
+   "modelo": "ARRIZO 5 PRO 1,5L AT 2027",
+   "n": 1,
+   "dias_promedio": 172,
+   "dias_max": 172,
+   "valor_usd": 16450.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "CHERY",
+   "modelo": "ARRIZO 5 PRO 1.5L AT",
+   "n": 13,
+   "dias_promedio": 129.8,
+   "dias_max": 171,
+   "valor_usd": 218225.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "CHERY",
+   "modelo": "ARRIZO 5 PRO 1.5L MT",
+   "n": 5,
+   "dias_promedio": 149.6,
+   "dias_max": 171,
+   "valor_usd": 75192.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "CHERY",
+   "modelo": "HIMLA D/C 2.4L M/T",
+   "n": 4,
+   "dias_promedio": 117.5,
+   "dias_max": 171,
+   "valor_usd": 108000.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "CHERY",
+   "modelo": "HIMLA D/C 2.4L M/T 2027",
+   "n": 2,
+   "dias_promedio": 172,
+   "dias_max": 172,
+   "valor_usd": 54000.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "CHERY",
+   "modelo": "TIGGO 2 PRO MAX 1,5L AT 2027",
+   "n": 2,
+   "dias_promedio": 66,
+   "dias_max": 66,
+   "valor_usd": 34326.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "CHERY",
+   "modelo": "TIGGO 2 PRO MAX 1.5L AT",
+   "n": 9,
+   "dias_promedio": 135.3,
+   "dias_max": 171,
+   "valor_usd": 150729.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "CHERY",
+   "modelo": "TIGGO 4 PRO MAX",
+   "n": 5,
+   "dias_promedio": 142.8,
+   "dias_max": 171,
+   "valor_usd": 106900.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "CHERY",
+   "modelo": "TIGGO 7 PRO MAX 2027",
+   "n": 4,
+   "dias_promedio": 145,
+   "dias_max": 172,
+   "valor_usd": 95137.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "CHERY",
+   "modelo": "TIGGO 8 PRO MAX",
+   "n": 2,
+   "dias_promedio": 117.5,
+   "dias_max": 171,
+   "valor_usd": 62334.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "CHERY",
+   "modelo": "TIGGO 9",
+   "n": 1,
+   "dias_promedio": 171,
+   "dias_max": 171,
+   "valor_usd": 39648.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "HYUNDAI",
+   "modelo": "ACCENT 1.5L A/T GLS",
+   "n": 3,
+   "dias_promedio": 171,
+   "dias_max": 171,
+   "valor_usd": 67302.24
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "HYUNDAI",
+   "modelo": "CRETA 1.5L A/T GLS",
+   "n": 2,
+   "dias_promedio": 100.5,
+   "dias_max": 171,
+   "valor_usd": 54683.77
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "HYUNDAI",
+   "modelo": "ELANTRA 2.0 AT GLS",
+   "n": 1,
+   "dias_promedio": 30,
+   "dias_max": 30,
+   "valor_usd": 29983.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "HYUNDAI",
+   "modelo": "GRAN I10 AT 1.2 GL 4DR SEDAN",
+   "n": 2,
+   "dias_promedio": 31,
+   "dias_max": 31,
+   "valor_usd": 33000.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "HYUNDAI",
+   "modelo": "GRAND I10 1.2L A/T GL",
+   "n": 8,
+   "dias_promedio": 135.8,
+   "dias_max": 171,
+   "valor_usd": 128000.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "HYUNDAI",
+   "modelo": "GRAND I10 1.2L A/T GLS",
+   "n": 4,
+   "dias_promedio": 100.8,
+   "dias_max": 171,
+   "valor_usd": 71188.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "HYUNDAI",
+   "modelo": "GRAND I10 1.2L M/T GL",
+   "n": 5,
+   "dias_promedio": 142.8,
+   "dias_max": 171,
+   "valor_usd": 73000.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "HYUNDAI",
+   "modelo": "GRAND I10 SEDAN 1.2L AT GLS",
+   "n": 9,
+   "dias_promedio": 131.6,
+   "dias_max": 205,
+   "valor_usd": 166500.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "HYUNDAI",
+   "modelo": "STARIA 11 P",
+   "n": 1,
+   "dias_promedio": 30,
+   "dias_max": 30,
+   "valor_usd": 49277.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "HYUNDAI",
+   "modelo": "TUCSON 2.0L AT 2WD GLS",
+   "n": 7,
+   "dias_promedio": 90.4,
+   "dias_max": 171,
+   "valor_usd": 249340.0
+  },
+  {
+   "estado": "TRANSITO | EN PLANTA",
+   "marca": "HYUNDAI",
+   "modelo": "TUCSON 2.0L AT 4WD GLX",
+   "n": 1,
+   "dias_promedio": 171,
+   "dias_max": 171,
+   "valor_usd": 42500.0
+  }
+ ]
+}

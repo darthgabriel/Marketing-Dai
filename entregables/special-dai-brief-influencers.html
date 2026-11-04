@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8">
+<title>Special Dai · Creative Brief · Influencers</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  @page { size: Letter; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  html, body { background: #fff; color: #14181F; font-family: "IBM Plex Sans", system-ui, sans-serif; }
+  .page { width: 8.5in; height: 11in; padding: 0.55in 0.62in 0.5in; position: relative; page-break-after: always; display: flex; flex-direction: column; }
+  .page:last-child { page-break-after: auto; }
+
+  /* ---- tipografía: escala modular 7.2 · 8.4 · 9.4 · 13.5 · 25 · 46 ---- */
+  .hb-top { font-size: 12px; font-weight: 700; letter-spacing: .2em; text-transform: uppercase; color: #0032C0; }
+  .wordmark { font-family: "Archivo Black", "IBM Plex Sans", sans-serif; font-size: 42px; letter-spacing: -1px; line-height: 1.02; margin: 2px 0 6px; }
+  .wordmark .old { position: relative; color: #6B7280; }
+  .wordmark .old::after { content: ""; position: absolute; left: -4px; right: -4px; top: 56%; height: 7px; background: #D0021B; transform: rotate(-5deg); }
+  .wordmark .new { color: #14181F; }
+  .tag { font-size: 9.4px; color: #3D4451; line-height: 1.5; max-width: 6.2in; margin-bottom: 12px; }
+
+  .clientbox { border: 1.5px solid #14181F; padding: 9px 13px; font-size: 9px; line-height: 1.5; max-width: 4.4in; }
+  .clientbox .lbl { font-size: 7.2px; font-weight: 700; letter-spacing: .2em; text-transform: uppercase; color: #0032C0; }
+  .clientbox .sep { border-top: 1px dashed #C4C9D2; margin: 7px 0; }
+
+  /* ---- grilla de 2 columnas con divisor punteado (Swiss) ---- */
+  .cols { display: grid; grid-template-columns: 1fr 1.5px 1fr; gap: 0 24px; margin-top: 16px; flex: 1 1 auto; }
+  .dash { border-left: 2px dashed #C4C9D2; }
+  .sec { margin-bottom: 16px; }
+  .sec-h { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+  .ico { width: 22px; height: 22px; border-radius: 50%; background: #0032C0; color: #fff; display: inline-flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 700; flex: 0 0 22px; }
+  .sec-h .n { font-size: 7.2px; font-weight: 700; letter-spacing: .18em; color: #5A6270; margin-left: auto; }
+  .sec-h .t { font-size: 13.5px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+  .sec p { font-size: 9.4px; line-height: 1.55; color: #232A35; }
+  .sec p + p { margin-top: 6px; }
+  .sec ul, .sec ol { margin: 4px 0 0 15px; font-size: 9.4px; line-height: 1.55; color: #232A35; }
+  .sec li { margin-bottom: 3px; }
+  .sec ol { list-style: none; margin-left: 0; counter-reset: step; }
+  .sec ol li { counter-increment: step; padding-left: 20px; position: relative; }
+  .sec ol li::before { content: counter(step); position: absolute; left: 0; top: 1px; font-size: 7.2px; font-weight: 700; color: #fff; background: #0032C0; width: 13px; height: 13px; border-radius: 50%; display: flex; align-items: center; justify-content: center; }
+
+  .facts { display: flex; gap: 16px; margin-top: 8px; }
+  .fact { text-align: center; flex: 1; }
+  .fact .circ { width: 82px; height: 82px; border-radius: 50%; border: 2.5px solid #0032C0; margin: 0 auto 6px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+  .fact .circ b { font-size: 23px; font-weight: 700; line-height: 1; }
+  .fact .circ span { font-size: 6.5px; letter-spacing: .14em; text-transform: uppercase; color: #3D4451; margin-top: 3px; }
+  .fact .cap { font-size: 8px; color: #3D4451; line-height: 1.35; }
+
+  .taged { background: #F4F6F9; border-left: 3px solid #D0021B; padding: 8px 11px; font-size: 9.2px; line-height: 1.5; color: #232A35; margin-top: 8px; }
+  .kw { font-family: Consolas, monospace; font-size: 8.2px; background: #EEF1F5; padding: 1.5px 5px; border-radius: 3px; color: #14181F; }
+  table { width: 100%; border-collapse: collapse; font-size: 8.6px; margin-top: 7px; }
+  th { text-align: left; font-size: 7.2px; letter-spacing: .14em; text-transform: uppercase; color: #5A6270; font-weight: 600; padding: 4.5px 0; border-bottom: 1.5px solid #14181F; }
+  td { padding: 5px 0; border-bottom: 1px solid #E5E8EE; vertical-align: top; line-height: 1.4; color: #232A35; }
+  .red { color: #D0021B; }
+  .note { font-size: 8.4px; color: #3D4451; line-height: 1.5; margin-top: 8px; }
+
+  .bottom { margin-top: auto; padding-top: 14px; }
+  .bottom .rule { border-top: 2px dashed #C4C9D2; margin-bottom: 12px; }
+  .hashtag { font-family: "Archivo Black", "IBM Plex Sans", sans-serif; font-size: 46px; letter-spacing: -1px; line-height: 1; color: #14181F; }
+  .footer { position: absolute; right: 0.62in; bottom: 0.26in; font-size: 7px; letter-spacing: .16em; text-transform: uppercase; color: #8A919E; }
+</style></head><body><section class="page">
+  <div class="hb-top">Brief creativo para</div>
+  <div class="wordmark">SPECIAL <span class="old">DAYS</span> <span class="new">DAI</span></div>
+  <div class="tag">Evento de ventas Dai Motors · Hyundai + Chery Maracaibo · del 2 al 7 de noviembre de 2026 · cierre sáb 7, 5 pm</div>
+  <div class="clientbox">
+    <span class="lbl">Cliente</span><br>
+    <b>Dai Motors</b> — Concesionario autorizado Hyundai y Chery · Maracaibo, Zulia<br>
+    <span style="color:#3D4451">@daimotorsmcbo · @cherymaracaibo</span>
+    <div class="sep"></div>
+    <span class="lbl">Preparado por</span><br>
+    <b>Marketing Dai Motors</b><br>
+    <span style="color:#3D4451">Contacto operativo: marketing Dai Motors</span>
+  </div>
+  <div class="cols">
+    <div><div class="sec"><div class="sec-h"><span class="ico">?</span><span class="t">El problema</span><span class="n">01</span></div>
+<p>Tres problemas resuelven el Special Dai.</p>
+<ol>
+<li><b>Otros concesionarios sin disponibilidad.</b> La resolución: tenemos 20 vehículos por marca en showroom y a lo que se vendan no se reponen.</li>
+<li><b>Financiamiento percibido como difícil.</b> El comprador zuliano desconfía del concesionario y cree que el crédito es un calvario. El 60% del mercado compra a crédito.</li>
+<li><b>Seis días de ventana.</b> Precios especiales solo del 2 al 7 de noviembre. Después de esa fecha los precios no vuelven.</li>
+</ol></div><div class="sec"><div class="sec-h"><span class="ico">!</span><span class="t">El objetivo</span><span class="n">02</span></div>
+<p>Lo que el influencer debe lograr:</p>
+<ul>
+<li><b>Tráfico al showroom</b> con Pase Special Dai (cita el día del evento).</li>
+<li><b>Mensajes al DM</b> con la keyword VIP.</li>
+<li><b>Meta productiva:</b> 20 unidades por marca en showroom, no se reponen.</li>
+<li><b>Top of mind</b> Dai Motors en el Zulia al cierre del 2026.</li>
+</ul></div><div class="sec"><div class="sec-h"><span class="ico">Q</span><span class="t">Los datos</span><span class="n">03</span></div>
+<div class="facts">
+  <div class="fact"><div class="circ"><b>6</b><span>días</span></div><div class="cap">Del 2 al 7 de noviembre</div></div>
+  <div class="fact"><div class="circ"><b>20</b><span>por marca</span></div><div class="cap">Unidades en showroom. No se reponen</div></div>
+  <div class="fact"><div class="circ"><b class="red">5pm</b><span>cierre</span></div><div class="cap">Sáb 7 nov · música en vivo desde 4 pm</div></div>
+</div></div></div>
+    <div class="dash"></div>
+    <div><div class="sec"><div class="sec-h"><span class="ico">B</span><span class="t">El concepto</span><span class="n">04</span></div>
+<p>El evento se llama <b>SPECIAL DAI</b>: antes decía "SPECIAL <span style="text-decoration:line-through">DAYS</span>" y lo tachamos en rojo.
+Es nombre propio del grupo, único y medible. El tachado es la identidad.</p>
+<p>Seis días de precio especial sobre inventario real, asesoría de financiamiento en showroom y entrega express máxima de 3 días.
+Dos concesionarios vecinos, Hyundai y Chery, una sola campaña. Cada colaboración es con una marca — <b>no se mezclan</b>.</p>
+<div class="taged"><b>El cierre es especial:</b> sábado 7 de noviembre, desde las 4:00 pm — <b>música en vivo</b>, celebración y el último llamado. Cierra 5:00 pm. Después de esa hora los precios especiales mueren.</div></div><div class="sec"><div class="sec-h"><span class="ico">A</span><span class="t">El público</span><span class="n">05</span></div>
+<p><b>El comprador:</b> zulianos de 25 a 50 años que compran a crédito, desconfían de los concesionarios y quieren estrenar sin trabas.</p>
+<p><b>En redes:</b> Hyundai — familias y emprendedores, humor zuliano y directo (9.830 seguidores). Chery — jóvenes 25–40 aspiracionales, primera SUV (13.000 seguidores).</p>
+<p>El contenido del influencer debe verse real, no de catálogo: fotos del showroom, unidades reales, trato cercano.</p></div><div class="sec"><div class="sec-h"><span class="ico">M</span><span class="t">La mecánica</span><span class="n">06</span></div>
+<ol>
+<li><b>Escribe VIP</b> al DM de la cuenta correspondiente.</li>
+<li>Recibe tu <b>Pase Special Dai</b> el día del evento.</li>
+<li>Llega al showroom, elige tu vehículo, reservas y <b>es tuyo con el descuento el mismo día</b>.</li>
+</ol></div></div>
+  </div>
+  <div class="bottom">
+    <div class="rule"></div>
+    <div class="hashtag">#SpecialDai</div>
+  </div><div class="footer">SPECIAL DAI · 1/2 · SPECIAL DAI · BRIEF INFLUENCERS · NOV 2026</div></section><section class="page">
+  <div class="hb-top">Brief creativo para</div>
+  <div class="wordmark" style="font-size:30px"><span class="new">Ejecución del influencer</span></div>
+  <div class="tag">Qué entregar, qué cuenta y qué no se puede hacer · mié 4 nov: media day en ambas zonas</div>
+  <div class="cols">
+    <div><div class="sec"><div class="sec-h"><span class="ico">R</span><span class="t">Los entregables</span><span class="n">07</span></div><table><thead><tr><th>Entregable</th><th>Detalle</th></tr></thead><tbody><tr><td>Media day</td><td>Recorrido por ambas zonas (Hyundai · Chery), lives y grabación vertical</td></tr><tr><td>Reels</td><td>9:16 · 1080×1920 · 8–20 s · subtítulos quemados · hook en los 2 primeros segundos</td></tr><tr><td>Stories</td><td>9:16 · 7 s por tarjeta · sticker de encuesta o contador</td></tr><tr><td>Cierre</td><td>Keyword VIP + mención del cierre sáb 7</td></tr><tr><td>Música en vivo</td><td>Presencia o cobertura del cierre con música en vivo</td></tr></tbody></table>
+<p class="note">Cada pieza se aprueba antes de publicar. Duda de precio, keyword o cuota → no se publica, se consulta.</p></div><div class="sec"><div class="sec-h"><span class="ico">P</span><span class="t">Prohibido</span><span class="n">08</span></div>
+<ul>
+<li>Precios en el feed.</li>
+<li>"Special Days" sin tachar en rojo.</li>
+<li>Mostrar el showroom completo.</li>
+<li>Inventar cuotas y/o precios.</li>
+<li>Usar una keyword distinta a VIP.</li>
+<li>Grabar clientes sin autorización escrita.</li>
+</ul></div></div>
+    <div class="dash"></div>
+    <div><div class="sec"><div class="sec-h"><span class="ico">C</span><span class="t">Los conceptos</span><span class="n">09</span></div>
+<p>Seis conceptos. Uno por pieza. Nunca dos en el mismo contenido.</p>
+<table><thead><tr><th>Concepto</th><th>Cómo se cuenta</th></tr></thead><tbody><tr><td><b>Precios especiales</b></td><td>"Hay un precio que solo existe del 2 al 7 de noviembre. Pregunta por él." (la cifra va en showroom)</td></tr><tr><td><b>Entrega express</b></td><td>Apruebas hoy, te lo llevas rápido. Cliente que compara y no decide. Solo a contado.</td></tr><tr><td><b>Consignación de documentos</b></td><td>Verificamos tus documentos de financiamiento y te asesoramos.</td></tr><tr><td><b>Asesoría en financiamiento</b></td><td>Te asesoramos con la inicial, cuotas y plazos que más se adapten a ti.</td></tr><tr><td><b>Revelación del más vendido</b></td><td>Diremos cuál es el vehículo más vendido en 2026.</td></tr><tr><td><b>Pocas unidades</b></td><td>"Lo que ves en el showroom es todo lo que hay."</td></tr></tbody></table>
+</div><div class="sec"><div class="sec-h"><span class="ico">G</span><span class="t">Dirección creativa</span><span class="n">10</span></div>
+<p><b>Ángulo principal:</b> escasez real y precio que muere. No es "otra promoción": es un evento con fecha de cierre.</p>
+<p><b>Mensaje clave:</b> 20 vehículos por marca, no se reponen. Después del sábado 7 a las 5 pm los precios especiales mueren.</p>
+<p><b>Tono por cuenta:</b> Hyundai — cercano, humor zuliano, directo. Chery — aspiracional, emotivo, cercano. El influencer se suma al tono de la cuenta donde publique.</p>
+<p><b>Referencia visual:</b> showroom real, unidades reales, sin catálogo. Vertical 9:16 siempre.</p>
+</div><div class="sec"><div class="sec-h"><span class="ico">S</span><span class="t">Las cuentas</span><span class="n">11</span></div><table><thead><tr><th></th><th>Hyundai</th><th>Chery</th></tr></thead><tbody><tr><td>Cuenta</td><td>@daimotorsmcbo</td><td>@cherymaracaibo</td></tr><tr><td>Seguidores</td><td>9.830</td><td>13.000</td></tr><tr><td>Voz</td><td>Cercano, emotivo</td><td>Cercano, emotivo</td></tr><tr><td>Keyword</td><td><span class="kw">VIP</span></td><td><span class="kw">VIP</span></td></tr></tbody></table></div></div>
+  </div>
+  <div class="bottom">
+    <div class="rule"></div>
+    <div class="hashtag" style="font-size:32px">#SpecialDai · 2–7 nov · cierra sáb 7, 5 pm</div>
+  </div><div class="footer">SPECIAL DAI · 2/2 · SPECIAL DAI · BRIEF INFLUENCERS · NOV 2026</div></section></body></html>

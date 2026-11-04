@@ -1,0 +1,1915 @@
+{
+ "_meta": {
+  "dataset_id": "z81rpAJQWhW0cJQc4",
+  "fetched_at": "2026-10-13",
+  "actor": "apify/instagram-reel-scraper"
+ },
+ "items": [
+  {
+   "id": "3998629950122351513",
+   "type": "Video",
+   "shortCode": "Dd9_MEFR9uZ",
+   "caption": "¡El espíritu navideño ya se siente en el concesionario Automall Hyundai🎄✨ \n\nA partir de octubre, nos estamos preparando con todo para entregarte tu 0km para las navidades 🚗🎁.\n\nNo te pierdas el inicio de esta divertida mini serie y descubre cómo nos preparamos para la mejor época del año 📺🍿. ¡Muy pronto!\n\n#AutomallHyundai #Carro0km",
+   "hashtags": [
+    "AutomallHyundai",
+    "Carro0km"
+   ],
+   "mentions": [],
+   "url": "https://www.instagram.com/p/Dd9_MEFR9uZ/",
+   "commentsCount": 0,
+   "dimensionsHeight": 1280,
+   "dimensionsWidth": 720,
+   "images": [
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/831474560_17970685476151252_3882685415802586159_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk5ODYyOTk1MDEyMjM1MTUxMzE3OTcwNjg1NDcwMTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=maoNZK1CqAAQ7kNvwEU2SP1&_nc_oc=Adq9_fPRerp01uYTaP-1oadZVJJ1GHZpR_4CKU0Z2X1LfQqUEFH0a1mUiVAW1RBs9sU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQOd3kEM6cZGNWkI-bfbPY2xd5SvXCecEByOTUSNyI4_iw&oe=6AD3F884",
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/831474560_17970685476151252_3882685415802586159_n.jpg?stp=dst-jpg_e15_p320x320_tt6&_nc_cat=103&ig_cache_key=Mzk5ODYyOTk1MDEyMjM1MTUxMzE3OTcwNjg1NDcwMTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=maoNZK1CqAAQ7kNvwEU2SP1&_nc_oc=Adq9_fPRerp01uYTaP-1oadZVJJ1GHZpR_4CKU0Z2X1LfQqUEFH0a1mUiVAW1RBs9sU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQMSDXntUEcJFmumIuYDzrDBVKaGpEV1FHL0dSL1jP3VEg&oe=6AD3F884"
+   ],
+   "videoUrl": "https://instagram.ffln1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQMb0wyHdnPONuOoxF6CTp7lhBaePzIIKmGICT2Mbgnyc7yIqwPxxBDjlQ-uRuWgT1Eg4HU3nEGkxHRSkEhaFuQlNVZjIJmDniVyCMw.mp4?_nc_cat=102&_nc_oc=AdqJIqba0yy8rrarktB_wwf_ZJkfvPuox0QywVR_BidGMyTn-q-tViwwCNBJVsq8K8Y&_nc_sid=5e9851&_nc_ht=instagram.ffln1-1.fna.fbcdn.net&_nc_ohc=goqCQ7PnNGUQ7kNvwFhi0pm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQUQuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6ODUwMjI1MzA4MTgwNzI0LCJhc3NldF9hZ2VfZGF5cyI6MTEsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjoyMywid2F0Y2hfdGltZV9zIjoxMTA5NzUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7fc209322d38c52&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yRDFFNTVFMDIzMDU0NkMxQTUyODZGRkE0QkY4QUU5RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Y2QzZCRTczM0YyOTRFOEZBODA3QzUyMjI5REVFRjVBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbog8mX0NGCAxUCKAJDMywXQDfu2RaHKwIYEmRhc2hfYmFzZWxpbmVfMV92MREAdfAHZazBAQA&_nc_gid=QLrJiWnLKiLZ2AjSTp2eNw&_nc_ss=70689&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQNggvcpU76v3JsPersCsTcMZdALnNRhO-a34_gqtYgymw&oe=6AD03037",
+   "likesCount": 31,
+   "videoPlayCount": 1872,
+   "timestamp": "2026-10-01T22:30:08.000Z",
+   "ownerFullName": "Automall Hyundai | Concesionario",
+   "ownerUsername": "automall.hyundai",
+   "ownerId": "64435199251",
+   "isPinned": false,
+   "productType": "clips",
+   "videoDuration": 23.933332,
+   "paidPartnership": false,
+   "inputUrl": "https://www.instagram.com/automall.hyundai",
+   "firstComment": "",
+   "latestComments": [],
+   "originalHeight": 2560,
+   "originalWidth": 1440,
+   "displayUrl": "https://instagram.ffln1-1.fna.fbcdn.net/v/t51.82787-15/831474560_17970685476151252_3882685415802586159_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5ODYyOTk1MDEyMjM1MTUxMzE3OTcwNjg1NDcwMTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=maoNZK1CqAAQ7kNvwFYB1nN&_nc_oc=Ado1Jilel3yTvK2CChWSTxND4Hu2YbEhRFyRA5DZyja9k3tXRsNDJxR7rVD5B5JEUsU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ffln1-1.fna&_nc_gid=QLrJiWnLKiLZ2AjSTp2eNw&_nc_ss=7a22e&oh=00_AQNL7POhwr5Dy4Q5jrxJ5jPTdNqqiM-FTq_royi5vSN-jw&oe=6AD3F884",
+   "audioUrl": "https://instagram.ffln1-1.fna.fbcdn.net/o1/v/t2/f2/m78/AQO7spHGToX3QRmdfbGUe9HBds9nr7bc9-IGN9czVTSgyZNbO-Z7ibDFUehos8CqKwhUFupqnGYf9p9F-3eLgF3vck30tmC_UJfKJT8.mp4?_nc_cat=105&_nc_oc=AdpfeF4VByPya_m9gLnAzxpZUTgGwxZTGKyTNUdCsTRRhu9DlI1EnxEgx6WwQiYCSn8&_nc_sid=9ca052&_nc_ht=instagram.ffln1-1.fna.fbcdn.net&_nc_ohc=RVAVN3oyzkMQ7kNvwENWhjX&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NTAyMjUzMDgxODA3MjQsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjIzLCJiaXRyYXRlIjo5NTIwMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QLrJiWnLKiLZ2AjSTp2eNw&_nc_ss=7a22e&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQN0DSBhSdxkO6lBEpsJHP2b-Q5uuwlZ7f0mW8632RoDMQ&oe=6ACFFE6E",
+   "alt": "Video by Automall Hyundai | Concesionario on October 01, 2026.",
+   "videoViewCount": null,
+   "childPosts": [],
+   "musicInfo": {
+    "artist_name": "automall.hyundai",
+    "song_name": "Original audio",
+    "uses_original_audio": true,
+    "should_mute_audio": false,
+    "should_mute_audio_reason": "",
+    "audio_id": "28579319941728319"
+   },
+   "isCommentsDisabled": false
+  },
+  {
+   "id": "3975330214114336057",
+   "type": "Video",
+   "shortCode": "DcrNcR9KZ05",
+   "caption": "¡La innovación se siente de cerca! 🚙⚡\n\nAsí vivimos la experiencia Automall Hyundai en la @expoautomotrizzulia desde el @tibisayhoteldellago . Gracias a todos los que se acercaron a nuestro stand para descubrir el diseño, confort y tecnología de nuestros modelos.\n\n¿Cuál fue tu vehículo favorito de la exhibición? 👇\n\n#Hyundai #automallhyundai #ExpoAutomotrizZulia #HotelTibisay #Maracaibo",
+   "hashtags": [
+    "Hyundai",
+    "automallhyundai",
+    "ExpoAutomotrizZulia",
+    "HotelTibisay",
+    "Maracaibo"
+   ],
+   "mentions": [
+    "expoautomotrizzulia",
+    "tibisayhoteldellago"
+   ],
+   "url": "https://www.instagram.com/p/DcrNcR9KZ05/",
+   "commentsCount": 2,
+   "dimensionsHeight": 1280,
+   "dimensionsWidth": 720,
+   "images": [
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/790023948_17966150559151252_2128695663390696381_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk3NTMzMDIxNDExNDMzNjA1NzE3OTY2MTUwNTUzMTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=MbDpTki0DZAQ7kNvwENXdag&_nc_oc=Adr6iffOHCnAp0-ETlnHepuxDh2X-jkUya-GoRaz8e5yEbZum3kGyiFfy6tSniuZ1Zs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQPk_GACa14TAhQWeM-37T5X-iao3RpjEtOi8-kWcI6Fvg&oe=6AD413BF",
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/790023948_17966150559151252_2128695663390696381_n.jpg?stp=dst-jpg_e15_p320x320_tt6&_nc_cat=108&ig_cache_key=Mzk3NTMzMDIxNDExNDMzNjA1NzE3OTY2MTUwNTUzMTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=MbDpTki0DZAQ7kNvwENXdag&_nc_oc=Adr6iffOHCnAp0-ETlnHepuxDh2X-jkUya-GoRaz8e5yEbZum3kGyiFfy6tSniuZ1Zs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQMemU2PVL4ZustrY0V9uAcaIDM-fWfaQWswiNa78OsYzw&oe=6AD413BF"
+   ],
+   "videoUrl": "https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQNm1Nv9LDEYjF69Wb4hTmCaeZcSIuFkXPMBKV0SE-6uWoc5IkW-jYKOt1hfWxlsQhCJblEryJONeJnIGYobn75vUDWNWfXTagNhjgg.mp4?_nc_cat=109&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=2kmdCwClV3IQ7kNvwFoz1DL&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjItaGZyXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIzMjYyMjYxNTE0ODU3MzAsImFzc2V0X2FnZV9kYXlzIjo0MywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI4LCJiaXRyYXRlIjozMzgyOTA1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=4lHx2cn2IIIepMWFbTVrKA&_nc_ss=7a22e&_nc_zt=28&oh=00_AQMlGZbu0buhVdlK_uMYahRie5uVlKgpPMl8H6s_L3_WPg&oe=6AD4119A",
+   "likesCount": 21,
+   "videoPlayCount": 1280,
+   "timestamp": "2026-08-30T19:04:57.000Z",
+   "ownerFullName": "Automall Hyundai | Concesionario",
+   "ownerUsername": "automall.hyundai",
+   "ownerId": "64435199251",
+   "isPinned": false,
+   "productType": "clips",
+   "videoDuration": 28.433332,
+   "paidPartnership": false,
+   "inputUrl": "https://www.instagram.com/automall.hyundai",
+   "firstComment": "Queremos darle un reconocimiento una placa por ser una de las mejores empresas de Venezuela empresa lider en Venezuela saludos",
+   "latestComments": [
+    {
+     "id": "17903982591486378",
+     "text": "Queremos darle un reconocimiento una placa por ser una de las mejores empresas de Venezuela empresa lider en Venezuela saludos",
+     "ownerUsername": "fundacionondanueva",
+     "ownerProfilePicUrl": "https://instagram.fein1-1.fna.fbcdn.net/v/t51.82787-19/572155004_18371280718153007_620749975799035809_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fein1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGss6Vgk3Wu9VFf8HALbFeUDW8FW1Y6GlaKMCskHrFB_Qtw6t4S1FfkPjt32YW9JFc&_nc_ohc=wFphP8DFfXgQ7kNvwE7ejYW&_nc_gid=mN5xHP3tQrY0D9B0AXl7pw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO8lY2bb60rAtwseJGQaXfxnYmauzLBH3pZ1DKSJAWheQ&oe=6AD4124E&_nc_sid=10d13b",
+     "timestamp": "2026-08-31T17:05:00.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "fundacionondanueva",
+      "profile_pic_url": "https://instagram.fein1-1.fna.fbcdn.net/v/t51.82787-19/572155004_18371280718153007_620749975799035809_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fein1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGss6Vgk3Wu9VFf8HALbFeUDW8FW1Y6GlaKMCskHrFB_Qtw6t4S1FfkPjt32YW9JFc&_nc_ohc=wFphP8DFfXgQ7kNvwE7ejYW&_nc_gid=mN5xHP3tQrY0D9B0AXl7pw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO8lY2bb60rAtwseJGQaXfxnYmauzLBH3pZ1DKSJAWheQ&oe=6AD4124E&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "4610201006",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18017887310874383",
+     "text": "Queremos darle un reconocimiento una placa por ser una de las mejores empresas de Venezuela empresa lider en Venezuela saludos",
+     "ownerUsername": "fundacionondanueva",
+     "ownerProfilePicUrl": "https://instagram.fein1-1.fna.fbcdn.net/v/t51.82787-19/572155004_18371280718153007_620749975799035809_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fein1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGss6Vgk3Wu9VFf8HALbFeUDW8FW1Y6GlaKMCskHrFB_Qtw6t4S1FfkPjt32YW9JFc&_nc_ohc=wFphP8DFfXgQ7kNvwE7ejYW&_nc_gid=mN5xHP3tQrY0D9B0AXl7pw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO8lY2bb60rAtwseJGQaXfxnYmauzLBH3pZ1DKSJAWheQ&oe=6AD4124E&_nc_sid=10d13b",
+     "timestamp": "2026-08-31T17:04:58.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "fundacionondanueva",
+      "profile_pic_url": "https://instagram.fein1-1.fna.fbcdn.net/v/t51.82787-19/572155004_18371280718153007_620749975799035809_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fein1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGss6Vgk3Wu9VFf8HALbFeUDW8FW1Y6GlaKMCskHrFB_Qtw6t4S1FfkPjt32YW9JFc&_nc_ohc=wFphP8DFfXgQ7kNvwE7ejYW&_nc_gid=mN5xHP3tQrY0D9B0AXl7pw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO8lY2bb60rAtwseJGQaXfxnYmauzLBH3pZ1DKSJAWheQ&oe=6AD4124E&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "4610201006",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    }
+   ],
+   "originalHeight": 1920,
+   "originalWidth": 1080,
+   "displayUrl": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/790023948_17966150559151252_2128695663390696381_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk3NTMzMDIxNDExNDMzNjA1NzE3OTY2MTUwNTUzMTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=MbDpTki0DZAQ7kNvwHZW9UR&_nc_oc=Adr9wfd4e_hemwsTEEoeC9238wRThdWcgfBozdOY84c0358g0CMCTr2C2Jr5LJU5kaDfEX3oAK6PR2g1E5nucHBj&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=4lHx2cn2IIIepMWFbTVrKA&_nc_ss=7a22e&oh=00_AQPq4hTFBwsfqDI7x8wbTGiRI-Cmj9PclmGMp5i74hzzMQ&oe=6AD413BF",
+   "audioUrl": "https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m78/AQNyaQFOW-5Tz-TpdFOgXslWtZojF-8ffI_XjYSVptqIvMb546QGcIg67kdZoc3MeDPrEca8hxWTvEOsPhrxg4GT_2guu_IUlfqczXE.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=AgIGl6f-82EQ7kNvwEhzy4K&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMzI2MjI2MTUxNDg1NzMwLCJhc3NldF9hZ2VfZGF5cyI6NDMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyOCwiYml0cmF0ZSI6NzU4NzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=4lHx2cn2IIIepMWFbTVrKA&_nc_ss=7a22e&_nc_zt=28&oh=00_AQOPxIvAlqLdw43OCnD6UjSW7TKA2DA18l3ufkF7SJoDDg&oe=6AD00184",
+   "alt": "Video by Automall Hyundai | Concesionario on August 30, 2026.",
+   "videoViewCount": null,
+   "childPosts": [],
+   "taggedUsers": [
+    {
+     "full_name": "Tibisay Hotel del Lago",
+     "username": "tibisayhoteldellago",
+     "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/417560706_1718071278603447_8934038179407179936_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFZyZSalsQhwKwtA5lO3bUQ3iNi2nm86UcAJ7S7_odP1GGlCtkQmqvQy9hE5uSTMULpT50H-u6K1QzrkOzyy4ga&_nc_ohc=mxQkEaOpz1QQ7kNvwFClvby&_nc_gid=4lHx2cn2IIIepMWFbTVrKA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOH2gvjoJvpEPA1hpuX2hRhjgAdI161slmg7aAvzSGlCg&oe=6AD41532&_nc_sid=10d13b",
+     "is_verified": false,
+     "id": "296925499"
+    },
+    {
+     "full_name": "Hyundai Venezuela",
+     "username": "hyundaivzla",
+     "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/275562195_151628380575553_2515877373191180629_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MTEuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFZyZSalsQhwKwtA5lO3bUQ3iNi2nm86UcAJ7S7_odP1GGlCtkQmqvQy9hE5uSTMULpT50H-u6K1QzrkOzyy4ga&_nc_ohc=o1zjcb5ChOYQ7kNvwG3ABpi&_nc_gid=4lHx2cn2IIIepMWFbTVrKA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPpwTSaiQbYDOYrUqcqYNz7JAtgDFEYz8-jUPPPmYjYbA&oe=6AD42175&_nc_sid=10d13b",
+     "is_verified": false,
+     "id": "6725533378"
+    },
+    {
+     "full_name": "Exposición Automotriz y Autopartes del Zulia",
+     "username": "expoautomotrizzulia",
+     "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/649535418_18044360801726882_3286933068333248004_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc3LmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFZyZSalsQhwKwtA5lO3bUQ3iNi2nm86UcAJ7S7_odP1GGlCtkQmqvQy9hE5uSTMULpT50H-u6K1QzrkOzyy4ga&_nc_ohc=t-gBvPZ8qr0Q7kNvwGU9hJR&_nc_gid=4lHx2cn2IIIepMWFbTVrKA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNR92_Q6zm4b2L9GtHZwVcp0Hx0-PCjxGYp7RX7TGljyA&oe=6AD3FABA&_nc_sid=10d13b",
+     "is_verified": false,
+     "id": "51771862881"
+    }
+   ],
+   "coauthorProducers": [
+    {
+     "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/649535418_18044360801726882_3286933068333248004_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc3LmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFZyZSalsQhwKwtA5lO3bUQ3iNi2nm86UcAJ7S7_odP1GGlCtkQmqvQy9hE5uSTMULpT50H-u6K1QzrkOzyy4ga&_nc_ohc=t-gBvPZ8qr0Q7kNvwGU9hJR&_nc_gid=4lHx2cn2IIIepMWFbTVrKA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNR92_Q6zm4b2L9GtHZwVcp0Hx0-PCjxGYp7RX7TGljyA&oe=6AD3FABA&_nc_sid=10d13b",
+     "is_unpublished": false,
+     "username": "expoautomotrizzulia",
+     "is_verified": false,
+     "full_name": "Exposición Automotriz y Autopartes del Zulia",
+     "id": "51771862881",
+     "__typename": "User"
+    }
+   ],
+   "musicInfo": {
+    "artist_name": "automall.hyundai",
+    "song_name": "Original audio",
+    "uses_original_audio": true,
+    "should_mute_audio": false,
+    "should_mute_audio_reason": "",
+    "audio_id": "28067291292936338"
+   },
+   "isCommentsDisabled": false
+  },
+  {
+   "id": "3988211057180416071",
+   "type": "Video",
+   "shortCode": "DdY-NN4hhhH",
+   "caption": "¿Estás listo para vivir la emoción de tu próximo 0km? \n\n🚗💨 No dejes que te lo cuenten, ven y siente tú mismo el confort, la tecnología y el placer de manejar un Hyundai.\n\nEn Auto Mall te brindamos la mejor asesoría para que encuentres el auto perfecto y tomes el control de tu nuevo vehículo. ¡Haz tu prueba de manejo hoy! 🚘✨\n\n📍 Visítanos en Auto Mall Hyundai: Avenida Padilla, diagonal a Makro Redvital.\n\n#Hyundai #AutoMallHyundai #0km #AutoNuevo #PruebaDeManejo Maracaibo GrandI10",
+   "hashtags": [
+    "Hyundai",
+    "AutoMallHyundai",
+    "0km",
+    "AutoNuevo",
+    "PruebaDeManejo"
+   ],
+   "mentions": [],
+   "url": "https://www.instagram.com/p/DdY-NN4hhhH/",
+   "commentsCount": 1,
+   "dimensionsHeight": 1280,
+   "dimensionsWidth": 720,
+   "images": [
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/811792330_17968375311151252_4824522020348493703_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk4ODIxMTA1NzE4MDQxNjA3MTE3OTY4Mzc1MzA1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=jFbMv6TOuvIQ7kNvwFWlbpM&_nc_oc=AdqPHUfPb64xFsUmMqYLCZaB0cwoGP_tZrlG4zCO9Jv_EwICixvOAie-hUWWXJc2sCY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQPx3_g0CXhhBBQ2lWrFsEbwYhpEd5azgyJ8Yrxy0n09JA&oe=6AD4070C",
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/811792330_17968375311151252_4824522020348493703_n.jpg?stp=dst-jpg_e15_p320x320_tt6&_nc_cat=111&ig_cache_key=Mzk4ODIxMTA1NzE4MDQxNjA3MTE3OTY4Mzc1MzA1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=jFbMv6TOuvIQ7kNvwFWlbpM&_nc_oc=AdqPHUfPb64xFsUmMqYLCZaB0cwoGP_tZrlG4zCO9Jv_EwICixvOAie-hUWWXJc2sCY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQOzbQorBysk4QXwkwNCKHADaOQe6PHl3ZXyGkmzkNOfUQ&oe=6AD4070C"
+   ],
+   "videoUrl": "https://instagram.fvlc6-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQO5g6xylBV3DMXp-1CgxmExTfzd1Tx0A_ucIcvOF8oJfsR_dnJrkE4eRnYbiPH7jqasydPXoq8M4O9ODy2GHb_ZY5-FQsdsMEuHYn4.mp4?_nc_cat=105&_nc_oc=Ado0mc2eNHrDoztaD52ZOnQpc9wZrTVHrTH6O4uDdcSfVT39rd1OiBtr75AFGzKBFeM&_nc_sid=5e9851&_nc_ht=instagram.fvlc6-2.fna.fbcdn.net&_nc_ohc=AurHffmqZc0Q7kNvwHRVNMo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTczMzk3ODcyMTAxOTA1NSwiYXNzZXRfYWdlX2RheXMiOjI3LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=494ce460292574f&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zMzQ3MzM5RUE4MUZFQ0JCNTk2NjFENDQ1MDY2NkU5M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Q2NEZFOUQ0NUMxNTBCNzNGQTkzODdEMUVFQkUzRjgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbekreb7MKUBhUCKAJDMywXQEBVP3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=wjq-Hshqp429QlCYJMxI8w&_nc_ss=70a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQOhq8Af2GrPePv-e775rfuCw6U5hboDc86em9UZd8Hkvw&oe=6AD0025E",
+   "likesCount": 24,
+   "videoPlayCount": 734,
+   "timestamp": "2026-09-17T13:30:06.000Z",
+   "ownerFullName": "Automall Hyundai | Concesionario",
+   "ownerUsername": "automall.hyundai",
+   "ownerId": "64435199251",
+   "isPinned": false,
+   "productType": "clips",
+   "videoDuration": 32.669025,
+   "paidPartnership": false,
+   "inputUrl": "https://www.instagram.com/automall.hyundai",
+   "firstComment": "Queremos darle un reconocimiento una placa por ser una de las mejores empresas de Venezuela empresa lider en Venezuela saludos tienen un correo electrónico",
+   "latestComments": [
+    {
+     "id": "17872569321636257",
+     "text": "Queremos darle un reconocimiento una placa por ser una de las mejores empresas de Venezuela empresa lider en Venezuela saludos tienen un correo electrónico",
+     "ownerUsername": "fundacionondanueva",
+     "ownerProfilePicUrl": "https://instagram.fmad25-1.fna.fbcdn.net/v/t51.82787-19/572155004_18371280718153007_620749975799035809_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmad25-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gH4k2URaAT4uzaAmAqnUixL8YBeEK19piYGjyVoTTqFYvB7B_8WG8NWEzNXh_ysvQw&_nc_ohc=wFphP8DFfXgQ7kNvwECZS9-&_nc_gid=bZC9qpw-6yQ4XElhMI8kuA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMPrbH33p9v_Xh0h3pqCYXSu6NU8oX7_gSWVSJJEfXebQ&oe=6AD4124E&_nc_sid=10d13b",
+     "timestamp": "2026-09-18T23:01:30.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "fundacionondanueva",
+      "profile_pic_url": "https://instagram.fmad25-1.fna.fbcdn.net/v/t51.82787-19/572155004_18371280718153007_620749975799035809_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmad25-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gH4k2URaAT4uzaAmAqnUixL8YBeEK19piYGjyVoTTqFYvB7B_8WG8NWEzNXh_ysvQw&_nc_ohc=wFphP8DFfXgQ7kNvwECZS9-&_nc_gid=bZC9qpw-6yQ4XElhMI8kuA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMPrbH33p9v_Xh0h3pqCYXSu6NU8oX7_gSWVSJJEfXebQ&oe=6AD4124E&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "4610201006",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    }
+   ],
+   "originalHeight": 1920,
+   "originalWidth": 1080,
+   "displayUrl": "https://instagram.fvlc6-2.fna.fbcdn.net/v/t51.82787-15/811792330_17968375311151252_4824522020348493703_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4ODIxMTA1NzE4MDQxNjA3MTE3OTY4Mzc1MzA1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=jFbMv6TOuvIQ7kNvwECDNTg&_nc_oc=Adq-aoIljU6f40Mst-3dKqaAEA_G95MFeZtKlDroK9DCK9FP4G4WQMc-wYH2iZ-s_lc&_nc_ad=z-m&_nc_cid=1022&_nc_zt=23&_nc_ht=instagram.fvlc6-2.fna&_nc_gid=wjq-Hshqp429QlCYJMxI8w&_nc_ss=7a22e&oh=00_AQNAB8tFcqizGim_eDEr0vdBIKs5ZQ4yjVlIl7cny-9GNg&oe=6AD4070C",
+   "audioUrl": "https://instagram.fvlc6-2.fna.fbcdn.net/o1/v/t2/f2/m78/AQO_8lzzW0BJ5smzqa6u5BsEeMxGBsmJAbMX3USYbkTuekCyuZVCxtzLaZDByuAbcO228mZk58i8jXo9dgQYT5wS_mTLAZLVYA1YXJY.mp4?_nc_cat=108&_nc_oc=AdrrUMJkkxK3SY1S0fMf2nHN4wwZNCWgxduTzKa6Olgn7Aykyp7Eg33Qx8sLX69b8yI&_nc_sid=9ca052&_nc_ht=instagram.fvlc6-2.fna.fbcdn.net&_nc_ohc=dC7DJgV-rVwQ7kNvwFlyJT1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNzMzOTc4NzIxMDE5MDU1LCJhc3NldF9hZ2VfZGF5cyI6MjcsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozMiwiYml0cmF0ZSI6NjgxOTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=wjq-Hshqp429QlCYJMxI8w&_nc_ss=7a22e&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQP1cG5gHnuY_9Mg_VaF9TiCAbH3ElqDGJg5RidixSj4qw&oe=6AD0003D",
+   "alt": "Video by Automall Hyundai | Concesionario on September 17, 2026.",
+   "videoViewCount": null,
+   "childPosts": [],
+   "musicInfo": {
+    "artist_name": "automall.hyundai",
+    "song_name": "Original audio",
+    "uses_original_audio": true,
+    "should_mute_audio": false,
+    "should_mute_audio_reason": "",
+    "audio_id": "28385204314475051"
+   },
+   "isCommentsDisabled": false
+  },
+  {
+   "id": "3996422007526440144",
+   "type": "Video",
+   "shortCode": "Dd2JKRTKrzQ",
+   "caption": "No es solo un sueño, es mi próximo destino. ✨ \n\nTrabajando y manifestando las llaves de este hermoso Hyundai Grand i10 Sedan. ¿Qué les parece esta belleza? 🚗💨\n\n#AutomallHyundai #Grandi10Sedan #Hyundai",
+   "hashtags": [
+    "AutomallHyundai",
+    "Grandi10Sedan",
+    "Hyundai"
+   ],
+   "mentions": [],
+   "url": "https://www.instagram.com/p/Dd2JKRTKrzQ/",
+   "commentsCount": 7,
+   "dimensionsHeight": 2096,
+   "dimensionsWidth": 1179,
+   "images": [
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/825277416_17970275214151252_9117591559705303422_n.jpg?stp=dst-jpg_e35_p828x828_sh2.08_tt6&_nc_cat=105&ig_cache_key=Mzk5NjQyMjAwNzUyNjQ0MDE0NDE3OTcwMjc1MjExMTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=ON7kXgs_SwoQ7kNvwFYR9IP&_nc_oc=AdpWA8zUHEaQW4Zdqj2R8G-83LUEW6b5IKBtdH1AuIRf4H9r5ujTw7NICzcHM-r6mmE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQOmxukfXOah8Rs4jcOIhJ_85Cb7vl18r9uq4omJJ8AhVQ&oe=6AD41055",
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/825277416_17970275214151252_9117591559705303422_n.jpg?stp=dst-jpg_e15_p320x320_tt6&_nc_cat=105&ig_cache_key=Mzk5NjQyMjAwNzUyNjQ0MDE0NDE3OTcwMjc1MjExMTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=ON7kXgs_SwoQ7kNvwFYR9IP&_nc_oc=AdpWA8zUHEaQW4Zdqj2R8G-83LUEW6b5IKBtdH1AuIRf4H9r5ujTw7NICzcHM-r6mmE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQMXvOOlD9lSOy6NP6CUXdwhuhVZAA5hFaOokLfkrX9kWQ&oe=6AD41055"
+   ],
+   "videoUrl": "https://instagram.fgrq1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQMdbTDOPo30GOspf_fkv-7eWnt-wx9rBKBWKGLWz7L0zkS-DD4ETRPZ9-TH0du5-YPZroP0zXptQjAgjoJ7VH5-qxwXFVuJRjyYojk.mp4?_nc_cat=111&_nc_oc=AdqX2Fy6JpfAvHvpStCzpg7TLpitfs-ODWO2rluq9dlVOSnFC8WDxyuGFhBwKC17-E8&_nc_sid=5e9851&_nc_ht=instagram.fgrq1-1.fna.fbcdn.net&_nc_ohc=NtM3zAuobdkQ7kNvwFoXS_B&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTU5NjYwMjY3NTUzNjE4MCwiYXNzZXRfYWdlX2RheXMiOjE0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ff2141413e05737&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wNjQzM0M5M0Y1NzE0RDBCQjE0MjYzMzg4NzE3OUY3MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzI1NEExN0EyQ0ZDOTQ0RjQ4MDIwNjcwMzI0REIwMzBBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbohJX1wIbWBRUCKAJDMywXQBXdLxqfvncYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=s8btkSr44sIPMHxeQ60xpQ&_nc_ss=70689&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQPLCu7TsxXyXwDohXlvBt0Ue0e22qXS5FarOsoeRBMfaA&oe=6ACFFF44",
+   "likesCount": 21,
+   "videoPlayCount": 928,
+   "timestamp": "2026-09-28T21:27:33.000Z",
+   "ownerFullName": "Automall Hyundai | Concesionario",
+   "ownerUsername": "automall.hyundai",
+   "ownerId": "64435199251",
+   "isPinned": false,
+   "productType": "clips",
+   "videoDuration": 5.466667,
+   "paidPartnership": false,
+   "inputUrl": "https://www.instagram.com/automall.hyundai",
+   "firstComment": "Información por favor 🙏",
+   "latestComments": [
+    {
+     "id": "18136288180711527",
+     "text": "Información por favor 🙏",
+     "ownerUsername": "dcsssss777",
+     "ownerProfilePicUrl": "https://instagram.frtm1-3.fna.fbcdn.net/v/t51.2885-19/503024709_18508798564017366_19830813765977901_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.frtm1-3.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gEelGBGq3kWzineY1Nv1DDwMp20eGIYvjvOAyIPuuczaGT_PGJL77JkXwVMOZdnvAs&_nc_ohc=2Q9kO1m0IjwQ7kNvwE5SoMI&_nc_gid=TXQFK0xbj_BK2oNfZm7jYQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMKOuM79d_gxseSL6CvVVAMTnuryG1_EWe40HxzdMX4aA&oe=6AD425F1&_nc_sid=10d13b",
+     "timestamp": "2026-10-10T17:13:07.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "dcsssss777",
+      "profile_pic_url": "https://instagram.frtm1-3.fna.fbcdn.net/v/t51.2885-19/503024709_18508798564017366_19830813765977901_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.frtm1-3.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gEelGBGq3kWzineY1Nv1DDwMp20eGIYvjvOAyIPuuczaGT_PGJL77JkXwVMOZdnvAs&_nc_ohc=2Q9kO1m0IjwQ7kNvwE5SoMI&_nc_gid=TXQFK0xbj_BK2oNfZm7jYQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMKOuM79d_gxseSL6CvVVAMTnuryG1_EWe40HxzdMX4aA&oe=6AD425F1&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "1430353365",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18315718465304545",
+     "text": "Hola precio por favor?",
+     "ownerUsername": "ruth0211",
+     "ownerProfilePicUrl": "https://instagram.frtm1-2.fna.fbcdn.net/v/t51.2885-19/462527233_566732185696740_3965875192731944829_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.frtm1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gEelGBGq3kWzineY1Nv1DDwMp20eGIYvjvOAyIPuuczaGT_PGJL77JkXwVMOZdnvAs&_nc_ohc=L6XMMkW54YEQ7kNvwF5gcRQ&_nc_gid=TXQFK0xbj_BK2oNfZm7jYQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMh6Z01JDFsx6mWkZ_Kbf5Ez5LtIK2pGqeZf60Qt6aHZA&oe=6AD40D13&_nc_sid=10d13b",
+     "timestamp": "2026-10-02T01:10:32.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "ruth0211",
+      "profile_pic_url": "https://instagram.frtm1-2.fna.fbcdn.net/v/t51.2885-19/462527233_566732185696740_3965875192731944829_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.frtm1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gEelGBGq3kWzineY1Nv1DDwMp20eGIYvjvOAyIPuuczaGT_PGJL77JkXwVMOZdnvAs&_nc_ohc=L6XMMkW54YEQ7kNvwF5gcRQ&_nc_gid=TXQFK0xbj_BK2oNfZm7jYQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMh6Z01JDFsx6mWkZ_Kbf5Ez5LtIK2pGqeZf60Qt6aHZA&oe=6AD40D13&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "1554639255",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "17892037293435567",
+     "text": "Información de plan de financiamiento",
+     "ownerUsername": "gledyschf",
+     "ownerProfilePicUrl": "https://instagram.frtm1-2.fna.fbcdn.net/v/t51.2885-19/453864443_2012561689202952_7797461063080381027_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NzguYzIifQ&_nc_ht=instagram.frtm1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gEelGBGq3kWzineY1Nv1DDwMp20eGIYvjvOAyIPuuczaGT_PGJL77JkXwVMOZdnvAs&_nc_ohc=v9ukzzPeQK0Q7kNvwH4mX12&_nc_gid=TXQFK0xbj_BK2oNfZm7jYQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPXwDH6enUQIhqUYmGdzFEnQ4n6ohFJCmG-BDKSYsTNdg&oe=6AD3F82E&_nc_sid=10d13b",
+     "timestamp": "2026-09-29T17:34:36.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "gledyschf",
+      "profile_pic_url": "https://instagram.frtm1-2.fna.fbcdn.net/v/t51.2885-19/453864443_2012561689202952_7797461063080381027_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NzguYzIifQ&_nc_ht=instagram.frtm1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gEelGBGq3kWzineY1Nv1DDwMp20eGIYvjvOAyIPuuczaGT_PGJL77JkXwVMOZdnvAs&_nc_ohc=v9ukzzPeQK0Q7kNvwH4mX12&_nc_gid=TXQFK0xbj_BK2oNfZm7jYQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPXwDH6enUQIhqUYmGdzFEnQ4n6ohFJCmG-BDKSYsTNdg&oe=6AD3F82E&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "1699946402",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "17876949546631168",
+     "text": "Como lo contacta.nos",
+     "ownerUsername": "dv43199",
+     "ownerProfilePicUrl": "https://instagram.frba1-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.frba1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gGDmflT7QBtLihuHVi1a67E5QiDTTCYYUDW9_liehjFwJKvDMQel_VnZU5M_G4RMlM&_nc_ohc=6tMhbzsXag0Q7kNvwGfJwjJ&_nc_gid=poxi47VXVlBiIOIRItO2lg&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQNOb1DlU73Fb_skZ0SqRjthgWVJhXlt3ZFd-p649UKbsQ&oe=6AD4106A&_nc_sid=10d13b",
+     "timestamp": "2026-09-29T17:21:03.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "dv43199",
+      "profile_pic_url": "https://instagram.frba1-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.frba1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gGDmflT7QBtLihuHVi1a67E5QiDTTCYYUDW9_liehjFwJKvDMQel_VnZU5M_G4RMlM&_nc_ohc=6tMhbzsXag0Q7kNvwGfJwjJ&_nc_gid=poxi47VXVlBiIOIRItO2lg&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQNOb1DlU73Fb_skZ0SqRjthgWVJhXlt3ZFd-p649UKbsQ&oe=6AD4106A&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "16860087183",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    }
+   ],
+   "originalHeight": 1920,
+   "originalWidth": 1080,
+   "displayUrl": "https://instagram.fgrq1-1.fna.fbcdn.net/v/t51.82787-15/825277416_17970275214151252_9117591559705303422_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5NjQyMjAwNzUyNjQ0MDE0NDE3OTcwMjc1MjExMTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=ON7kXgs_SwoQ7kNvwEELspy&_nc_oc=AdrkkYZzEbYZShXhY-EJGtR2bfBofqq6yg_JxzmbEDN_HMDw8nDJ_ln40_9rmZ7ndcs&_nc_ad=z-m&_nc_cid=1207&_nc_zt=23&_nc_ht=instagram.fgrq1-1.fna&_nc_gid=s8btkSr44sIPMHxeQ60xpQ&_nc_ss=7a22e&oh=00_AQN9WVHxeBMOUcFpU_N_MiDf4c1OwlCNEMcPZK3WQGjryA&oe=6AD41055",
+   "audioUrl": "https://instagram.fgrq1-1.fna.fbcdn.net/o1/v/t2/f2/m78/AQMlokWuaAOjMFloD8c7gfMkVB6T4XIi7QUJmmyb6yRSnfvXUSduouDKtG0gMS0gluoNArwclBtFtiAtoJimz73rnQAfNRdlBNHnZ5w.mp4?_nc_cat=105&_nc_oc=AdqesDCuzAVqIsUJ0TlIZnzdPl48kFC2nHPSV0j6jj_rt65upXxiUDRcGa_O9KwCotg&_nc_sid=9ca052&_nc_ht=instagram.fgrq1-1.fna.fbcdn.net&_nc_ohc=PEsaqzMOSfAQ7kNvwGy1jLm&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNTk2NjAyNjc1NTM2MTgwLCJhc3NldF9hZ2VfZGF5cyI6MTQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo1LCJiaXRyYXRlIjo1OTY5MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=s8btkSr44sIPMHxeQ60xpQ&_nc_ss=7a22e&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQP4GIhjwLLcW8PsYP3mY2xKeJvMb-w3_VB0CDolEhk69g&oe=6AD007E6",
+   "alt": "Video by Automall Hyundai | Concesionario on September 28, 2026.",
+   "videoViewCount": null,
+   "childPosts": [],
+   "musicInfo": {
+    "artist_name": "automall.hyundai",
+    "song_name": "Original audio",
+    "uses_original_audio": true,
+    "should_mute_audio": false,
+    "should_mute_audio_reason": "",
+    "audio_id": "26821615547536667"
+   },
+   "isCommentsDisabled": false
+  },
+  {
+   "id": "3976569813767685715",
+   "type": "Video",
+   "shortCode": "DcvnS1GKgZT",
+   "caption": "3 días de pura pasión automotriz concentrados en unos segundos 🔥🚗\n\nAsí vivimos la 3ª edición de la @expoautomotrizzulia . Presentaciones, sorpresas, juegos, música y lo mejor de la marca para toda nuestra gente.\n\n¡Gracias a todos los que nos acompañaron y vivieron la experiencia Hyundai con nosotros! Nos vemos en la próxima 🚀⚡\n\n👇 Comenta cuál fue tu parte favorita del evento.\n\n#AutoMallHyundai #Hyundai #ExpoAutomotrizZulia #ExpoAutopartesZulia #Maracaibo Zulia EventosZulia Automotriz",
+   "hashtags": [
+    "AutoMallHyundai",
+    "Hyundai",
+    "ExpoAutomotrizZulia",
+    "ExpoAutopartesZulia",
+    "Maracaibo"
+   ],
+   "mentions": [
+    "expoautomotrizzulia"
+   ],
+   "url": "https://www.instagram.com/p/DcvnS1GKgZT/",
+   "commentsCount": 2,
+   "dimensionsHeight": 2160,
+   "dimensionsWidth": 1215,
+   "images": [
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/790425055_17966379948151252_3051940834009912220_n.jpg?stp=dst-jpg_e35_p828x828_sh2.08_tt6&_nc_cat=105&ig_cache_key=Mzk3NjU2OTgxMzc2NzY4NTcxNTE3OTY2Mzc5OTQ1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=EFD6V0XrQc4Q7kNvwH67Gb8&_nc_oc=Adrfw0NQQF39FqCE16bhfpJQQOAi-RpVOdceog9VsGGTyFTXQu2R2SQ-7yepfwK3gQs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQNVNcFkQcL3WXJosY5NzT0pGpcL8c_6s4NVrSi_-go6BA&oe=6AD41179",
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/790425055_17966379948151252_3051940834009912220_n.jpg?stp=dst-jpg_e15_p320x320_tt6&_nc_cat=105&ig_cache_key=Mzk3NjU2OTgxMzc2NzY4NTcxNTE3OTY2Mzc5OTQ1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=EFD6V0XrQc4Q7kNvwH67Gb8&_nc_oc=Adrfw0NQQF39FqCE16bhfpJQQOAi-RpVOdceog9VsGGTyFTXQu2R2SQ-7yepfwK3gQs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQMUC_XI6wpyxv8N6gVxQXU1tXfjF9LwUJxahzCGb4xdXw&oe=6AD41179"
+   ],
+   "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t2/f2/m86/AQNyodshx1k6Yaha6G1T69zIbapxq4ngCqxdpSCSB84Ib24MwUxWMCEwrTZEvJ5GFfIEL3wDWoiw8mhFipgoNV1QyNzd7amJv40avEw.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=0FS92zj_Kf0Q7kNvwGzMfux&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjA5ODM4NDI0NDA1MDgyNiwiYXNzZXRfYWdlX2RheXMiOjQyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d49cab96b5436e25&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zQzQxMzkxRTI0OTg3MkFDODE4Qzc4QjYwMDEwQkZBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzJDNEQ1M0VDQzM5MzdEMjI2OTY2MUNBRjRGQ0M4MTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUrsD3hJ66BxUCKAJDMywXQEDRBiTdLxsYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=iO6ywr6yMCRHQRviAOV62g&_nc_zt=28&_nc_ss=70a8c&oh=00_AQMiWrqnwjWw9NjzepQhckJtIftf-KsAzqiHv0P0YlpHcQ&oe=6AD016C4",
+   "likesCount": 13,
+   "videoPlayCount": 948,
+   "timestamp": "2026-09-01T12:09:03.000Z",
+   "ownerFullName": "Automall Hyundai | Concesionario",
+   "ownerUsername": "automall.hyundai",
+   "ownerId": "64435199251",
+   "isPinned": false,
+   "productType": "clips",
+   "videoDuration": 33.633335,
+   "paidPartnership": false,
+   "inputUrl": "https://www.instagram.com/automall.hyundai",
+   "firstComment": "Queremos darle un reconocimiento una placa por ser una de las mejores empresas de Venezuela empresa lider en Venezuela saludos",
+   "latestComments": [
+    {
+     "id": "18121967794881480",
+     "text": "Queremos darle un reconocimiento una placa por ser una de las mejores empresas de Venezuela empresa lider en Venezuela saludos",
+     "ownerUsername": "fundacionondanueva",
+     "ownerProfilePicUrl": "https://instagram.fgla3-1.fna.fbcdn.net/v/t51.82787-19/572155004_18371280718153007_620749975799035809_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fgla3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGX-TrflnhwU2FGU9MA0HfvBBUKYTvICF1XtZBBSeWtbQ0LZFs4Lv5-1lTLEsDpYkabmGF4fgKcMlzgiXg_wh_t&_nc_ohc=wFphP8DFfXgQ7kNvwHHVCn6&_nc_gid=5Ji941FF689AS-_fbetaUA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMdrdy99izT4R4RuimRjhVGIV2v_gOLRiTEHdscDA5Pqg&oe=6AD4124E&_nc_sid=10d13b",
+     "timestamp": "2026-09-01T18:07:03.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "fundacionondanueva",
+      "profile_pic_url": "https://instagram.fgla3-1.fna.fbcdn.net/v/t51.82787-19/572155004_18371280718153007_620749975799035809_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fgla3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGX-TrflnhwU2FGU9MA0HfvBBUKYTvICF1XtZBBSeWtbQ0LZFs4Lv5-1lTLEsDpYkabmGF4fgKcMlzgiXg_wh_t&_nc_ohc=wFphP8DFfXgQ7kNvwHHVCn6&_nc_gid=5Ji941FF689AS-_fbetaUA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMdrdy99izT4R4RuimRjhVGIV2v_gOLRiTEHdscDA5Pqg&oe=6AD4124E&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "4610201006",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    }
+   ],
+   "originalHeight": 1920,
+   "originalWidth": 1080,
+   "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/790425055_17966379948151252_3051940834009912220_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk3NjU2OTgxMzc2NzY4NTcxNTE3OTY2Mzc5OTQ1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=EFD6V0XrQc4Q7kNvwFt-h_b&_nc_oc=AdpzHULB_6S6wY0awW7hDcUNREwkzngUy1Vf0WFWeSRitBwZCGMMFPiy_PESKonPKOE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_gid=iO6ywr6yMCRHQRviAOV62g&_nc_ss=7a22e&oh=00_AQPNZqKklP2Wx2cxosGOa6fBgY2qeuBvEsrkQwvQN_tOqw&oe=6AD41179",
+   "audioUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t2/f2/m78/AQN4TrOy1OeLKhj1XWepuinyiy7FoOw4OjnIvDiWHHK3cGP1Lnp7DoDEep-gA-LFbfMaXNw6Ki7RjGF0DSD95fB4oouJ4RmoBUj1Le8.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=k6O7w8lhb7QQ7kNvwFV9nj2&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMDk4Mzg0MjQ0MDUwODI2LCJhc3NldF9hZ2VfZGF5cyI6NDIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozMywiYml0cmF0ZSI6MTEwNDkzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=iO6ywr6yMCRHQRviAOV62g&_nc_ss=7a22e&_nc_zt=28&oh=00_AQNG6XnpbtYegG5WQzVCcm7MO1YdLDFT4t_omT0nvQvUpQ&oe=6AD01FB7",
+   "alt": "Video by Automall Hyundai | Concesionario on September 01, 2026.",
+   "videoViewCount": null,
+   "childPosts": [],
+   "isCommentsDisabled": false
+  },
+  {
+   "id": "3983361187426959899",
+   "type": "Video",
+   "shortCode": "DdHveUsqYIb",
+   "caption": "¡Brindamos por los nuevos comienzos sobre ruedas! 🥂🚗 Nos llena de alegría y gratitud ser parte de este momento tan especial.\n\nGracias por elegir nuestra marca, nuestro equipo y confiar en nosotros para acompañarte en esta nueva etapa.\n\n ¡Que disfrutes al máximo tu nuevo Hyundai Accent en familia! ✨\n\n#AutoMallHyundai #HyundaiAccent #EntregaDeVehiculo",
+   "hashtags": [
+    "AutoMallHyundai",
+    "HyundaiAccent",
+    "EntregaDeVehiculo"
+   ],
+   "mentions": [],
+   "url": "https://www.instagram.com/p/DdHveUsqYIb/",
+   "commentsCount": 0,
+   "dimensionsHeight": 1280,
+   "dimensionsWidth": 720,
+   "images": [
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/803635273_17967669642151252_5673253927738949714_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk4MzM2MTE4NzQyNjk1OTg5OTE3OTY3NjY5NjM2MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=IVahfGgaP4cQ7kNvwFpC8xX&_nc_oc=AdpJc3iYDOWwTbLwt310NSH_J484znu7qOuefQI7IurJ33ZjCt1O_N2d5xU796DeUYs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQPdTKHIjwR9Vm32qzRj25XPABJutt141SjLet2RiVaEXA&oe=6AD40D35",
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/803635273_17967669642151252_5673253927738949714_n.jpg?stp=dst-jpg_e15_p320x320_tt6&_nc_cat=111&ig_cache_key=Mzk4MzM2MTE4NzQyNjk1OTg5OTE3OTY3NjY5NjM2MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=IVahfGgaP4cQ7kNvwFpC8xX&_nc_oc=AdpJc3iYDOWwTbLwt310NSH_J484znu7qOuefQI7IurJ33ZjCt1O_N2d5xU796DeUYs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQOkiMWvXwQfFr3SQtkpfxmJf2Qq-TymJIoCpw7mSpzSQQ&oe=6AD40D35"
+   ],
+   "videoUrl": "https://scontent-waw2-2.cdninstagram.com/o1/v/t2/f2/m367/AQM1F6PFPnfZD6CZSKZcB7gzjw6thga56KYOOv7Pbt-aAVjxlBrQF4WCgmtSYXqaylNlYE81YfX0PBchZ3kTOnwuNgxVsgEXea10eCqDKSOOAA.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_ohc=sx7voVP_IbMQ7kNvwE3jICT&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTA4NTA5OTU2NzIzMDM4OSwiYXNzZXRfYWdlX2RheXMiOjMyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTcsImJpdHJhdGUiOjE4NTA5NTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=4kQ5xMeKcy2yVkqKfg-JmQ&_nc_ss=7a22e&_nc_zt=28&oh=00_AQNDUQ9Cc68-yeQ1usfwYroNpww0JAjiodoZq5wBZ9xJjQ&oe=6AD406AA",
+   "likesCount": 32,
+   "videoPlayCount": 861,
+   "timestamp": "2026-09-10T20:57:56.000Z",
+   "ownerFullName": "Automall Hyundai | Concesionario",
+   "ownerUsername": "automall.hyundai",
+   "ownerId": "64435199251",
+   "isPinned": false,
+   "productType": "clips",
+   "videoDuration": 57.769794,
+   "paidPartnership": false,
+   "inputUrl": "https://www.instagram.com/automall.hyundai",
+   "firstComment": "",
+   "latestComments": [],
+   "originalHeight": 1920,
+   "originalWidth": 1080,
+   "displayUrl": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-15/803635273_17967669642151252_5673253927738949714_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk4MzM2MTE4NzQyNjk1OTg5OTE3OTY3NjY5NjM2MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=IVahfGgaP4cQ7kNvwEtTbyU&_nc_oc=Adqcv-bKbxizF7poZNS6RPoOVg9zt66oBKri0QapZRfCPbp2ll6AXcbpz-DlwFD1l5s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_gid=4kQ5xMeKcy2yVkqKfg-JmQ&_nc_ss=7a22e&oh=00_AQN9KNxWlTCu_tEirvMQvURZ4WnYMwHoxCyn4ELPOL7xGQ&oe=6AD40D35",
+   "audioUrl": "https://scontent-waw2-2.cdninstagram.com/o1/v/t2/f2/m78/AQPZbGUoPLVxN74Vnjykp_kp7iDrwKbXX3vuNEZos9KMP5McekiFTh4srNzNf7TNrPvnCPJ_RLjdS6k85LkDakdrs_JyXB4FB3wK9iQ.mp4?_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_ohc=s2zJEyN9mZ4Q7kNvwFRFrap&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMDg1MDk5NTY3MjMwMzg5LCJhc3NldF9hZ2VfZGF5cyI6MzIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo1NywiYml0cmF0ZSI6NzY0MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=4kQ5xMeKcy2yVkqKfg-JmQ&_nc_ss=7a22e&_nc_zt=28&oh=00_AQM8ZrZNMHXRTKAGCSb7gMnvNq3T3NL6u03pXGzUkUFSew&oe=6AD0247A",
+   "alt": "Video by Automall Hyundai | Concesionario on September 10, 2026.",
+   "videoViewCount": null,
+   "childPosts": [],
+   "musicInfo": {
+    "artist_name": "automall.hyundai",
+    "song_name": "Original audio",
+    "uses_original_audio": true,
+    "should_mute_audio": false,
+    "should_mute_audio_reason": "",
+    "audio_id": "38215610631417017"
+   },
+   "isCommentsDisabled": false
+  },
+  {
+   "id": "3981932559132589723",
+   "type": "Video",
+   "shortCode": "DdCqpC6qP6b",
+   "caption": "¡El carro de tus sueños te espera en Auto Mall Hyundai! 🚗✨\n\nTenemos disponibilidad inmediata del Hyundai Grand i10 en sus versiones Hatchback y Sedán. Elige el estilo que va contigo: diseño bitono, y transmisión sincrónica o automática.\n\n¿Y lo mejor de todo? ¡Contamos con excelentes planes de financiamiento! 🤝\n\n📍 Visítanos en la Avenida Padilla, diagonal a Makro Redvital. ¡Te esperamos para que salgas manejando! 👇\n#maracaibo AutoMallHyundai #Maracaibo #VehiculosNuevos Financiamiento",
+   "hashtags": [
+    "maracaibo",
+    "Maracaibo",
+    "VehiculosNuevos"
+   ],
+   "mentions": [],
+   "url": "https://www.instagram.com/p/DdCqpC6qP6b/",
+   "commentsCount": 2,
+   "dimensionsHeight": 1280,
+   "dimensionsWidth": 720,
+   "images": [
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/801164237_17967411459151252_1185226827073578403_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk4MTkzMjU1OTEzMjU4OTcyMzE3OTY3NDExNDU2MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=uMrCij4_0FIQ7kNvwFIdgrA&_nc_oc=AdoEOxNwqaatMhWGX3v1F3W1j5FKby1stLGs141IpK2ilST7Tejbn4hSaezcJtBsLbI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQMEHmDlz5AUY9hW2fnQ6yCzICLFr-vVZuLNhK77ls7_gA&oe=6AD3FBE3",
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/801164237_17967411459151252_1185226827073578403_n.jpg?stp=dst-jpg_e15_p320x320_tt6&_nc_cat=110&ig_cache_key=Mzk4MTkzMjU1OTEzMjU4OTcyMzE3OTY3NDExNDU2MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=uMrCij4_0FIQ7kNvwFIdgrA&_nc_oc=AdoEOxNwqaatMhWGX3v1F3W1j5FKby1stLGs141IpK2ilST7Tejbn4hSaezcJtBsLbI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQMGKJ-TixrABY44Qvpx3xGb2rJgtU7bBt2tiFd_Kh-Wlw&oe=6AD3FBE3"
+   ],
+   "videoUrl": "https://scontent-nrt1-2.cdninstagram.com/o1/v/t2/f2/m86/AQMypenimutmjgEwo-J2IzpITFgt3ol9VplyodYr8Par88cUswDzfIFMS3fXbf1B_-ITVs4aGa72WI6OmkFOT9Ei-AfxibmpFOEE5_Y.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_ohc=D4M4XQWI_9IQ7kNvwEH4AvI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQyNjY3MDc3OTYwOTY1MCwiYXNzZXRfYWdlX2RheXMiOjM0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3438611aed1cad64&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GQjRFOTJCRUZBOTVFRUIwMDAzNUExMDA4MzRBOERBRV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzI4NDE5M0FCMTlGRURCRTgzRTIwRjBDNkQ2QTE1MjhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbkyL3QleOIBRUCKAJDMywXQDg7peNT988YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=i05VPXqu7hioyDjB0rLqmg&_nc_ss=70a8c&_nc_zt=28&oh=00_AQP2i7PJCo_IyhfnLvI547H4Aau0x_UNJ4-axZxbN15APA&oe=6AD0284E",
+   "likesCount": 24,
+   "videoPlayCount": 1086,
+   "timestamp": "2026-09-08T21:43:51.000Z",
+   "locationName": "Maracaibo, Venezuela",
+   "locationId": 214477540,
+   "ownerFullName": "Automall Hyundai | Concesionario",
+   "ownerUsername": "automall.hyundai",
+   "ownerId": "64435199251",
+   "isPinned": false,
+   "productType": "clips",
+   "videoDuration": 24.240181,
+   "paidPartnership": false,
+   "inputUrl": "https://www.instagram.com/automall.hyundai",
+   "firstComment": "Precios",
+   "latestComments": [
+    {
+     "id": "18128931724694247",
+     "text": "Precios",
+     "ownerUsername": "yessicamoreno74",
+     "ownerProfilePicUrl": "https://scontent-nrt1-2.cdninstagram.com/v/t51.82787-19/526452777_18359984341157834_2583846710241156413_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFVWf78OvtiBNurWI55LSpdwbFAqou7_rqcCP72neL0ayKNSBFkP8hN1aG5r6QfhzM&_nc_ohc=BRK4cO3FG2gQ7kNvwHzhvn6&_nc_gid=BFx4leX1BOc8A8EEMNNDaA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOeFx33WfYZo9MWD5Qyx3GqHqdW-Iin_kI7iOXUKMknxQ&oe=6AD409FD&_nc_sid=10d13b",
+     "timestamp": "2026-10-10T13:38:21.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "yessicamoreno74",
+      "profile_pic_url": "https://scontent-nrt1-2.cdninstagram.com/v/t51.82787-19/526452777_18359984341157834_2583846710241156413_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-nrt1-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFVWf78OvtiBNurWI55LSpdwbFAqou7_rqcCP72neL0ayKNSBFkP8hN1aG5r6QfhzM&_nc_ohc=BRK4cO3FG2gQ7kNvwHzhvn6&_nc_gid=BFx4leX1BOc8A8EEMNNDaA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOeFx33WfYZo9MWD5Qyx3GqHqdW-Iin_kI7iOXUKMknxQ&oe=6AD409FD&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "4569637833",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    }
+   ],
+   "originalHeight": 1920,
+   "originalWidth": 1080,
+   "displayUrl": "https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/801164237_17967411459151252_1185226827073578403_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk4MTkzMjU1OTEzMjU4OTcyMzE3OTY3NDExNDU2MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=uMrCij4_0FIQ7kNvwExAx3Q&_nc_oc=AdpyVP4kNy3F2JL_HSn2H2RI3sCfF4DzJNWC9Jq_gEy8cp5B3fUmspARn9Mat3vBbWo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_gid=i05VPXqu7hioyDjB0rLqmg&_nc_ss=7a22e&oh=00_AQOs7x_06ZM5p3Awbpr-5SywKelF7OD037aLQu5XYSAr5A&oe=6AD3FBE3",
+   "audioUrl": "https://scontent-nrt1-1.cdninstagram.com/o1/v/t2/f2/m78/AQPT7sDOnqBlRdmeeIr4B1WrD1fsC1CYdqmtt9XrkHIzWLri8d48Mo788KYRAkVkOeHfCOiWq9nE6eUgF4DmDOmJ-86sFn_ixl5Yz98.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_ohc=DEfTOQEKwCgQ7kNvwFqZzmZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNDI2NjcwNzc5NjA5NjUwLCJhc3NldF9hZ2VfZGF5cyI6MzQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyNCwiYml0cmF0ZSI6Nzk1OTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=i05VPXqu7hioyDjB0rLqmg&_nc_ss=7a22e&_nc_zt=28&oh=00_AQPExNGuMiKVOlkjKQkS_1t4QGJ8ccn1YRfQG-AfH3wtgQ&oe=6AD00CF5",
+   "alt": "Video by Automall Hyundai | Concesionario on September 08, 2026.",
+   "videoViewCount": null,
+   "childPosts": [],
+   "musicInfo": {
+    "artist_name": "automall.hyundai",
+    "song_name": "Original audio",
+    "uses_original_audio": true,
+    "should_mute_audio": false,
+    "should_mute_audio_reason": "",
+    "audio_id": "28623278847289806"
+   },
+   "isCommentsDisabled": false
+  },
+  {
+   "id": "3973665693322813632",
+   "type": "Video",
+   "shortCode": "DclS-UKqaDA",
+   "caption": "¡Llegó el momento que tanto esperabas! 🚙✨\n\nTe invitamos a la 3ª Edición de la Expo Automotriz y Autopartes 2026 en nuestro stand Automall Hyundai. Ven a descubrir todas las sorpresas, dinámicas y la tecnología que traemos para ti.\n\n🗓️ Cuándo: 28, 29 y 30 de agosto\n🕐 Hora: A partir de la 1:00 PM\n📍 ¡Te esperamos para vivir una experiencia única!\n\n#AutomallHyundai #ExpoAutomotriz2026 #Hyundai #Autos #EventosZulia Maracaibo",
+   "hashtags": [
+    "AutomallHyundai",
+    "ExpoAutomotriz2026",
+    "Hyundai",
+    "Autos",
+    "EventosZulia"
+   ],
+   "mentions": [],
+   "url": "https://www.instagram.com/p/DclS-UKqaDA/",
+   "commentsCount": 4,
+   "dimensionsHeight": 1280,
+   "dimensionsWidth": 720,
+   "images": [
+    "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/785059054_17965797240151252_8749743341560252912_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk3MzY2NTY5MzMyMjgxMzYzMjE3OTY1Nzk3MjM0MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=VDGm7gUBfOQQ7kNvwEHrC94&_nc_oc=Adox7BaEFwL-Z_PJwdYkXIT8jEnaa26G272kmkzKKBaay6cYn0QbBBUGLcAtEfAzGD6rx7IQT3R67Qt_hiF-_9ve&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=5Ym4VFbcZ_wiwjIjXV9WEg&_nc_ss=7a3ba&oh=00_AQOb2zE7w-ZOExHiTeWLzwccRbFs5iKVj2yIrDAvxOW3ag&oe=6AD3F8F4",
+    "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/785059054_17965797240151252_8749743341560252912_n.jpg?stp=dst-jpg_e15_p320x320_tt6&_nc_cat=108&ig_cache_key=Mzk3MzY2NTY5MzMyMjgxMzYzMjE3OTY1Nzk3MjM0MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=VDGm7gUBfOQQ7kNvwEHrC94&_nc_oc=Adox7BaEFwL-Z_PJwdYkXIT8jEnaa26G272kmkzKKBaay6cYn0QbBBUGLcAtEfAzGD6rx7IQT3R67Qt_hiF-_9ve&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=5Ym4VFbcZ_wiwjIjXV9WEg&_nc_ss=7a3ba&oh=00_AQOd56Vhb-sn-xo1g4vmH4eLYs9XpoXtxgyC2hpyb_laXA&oe=6AD3F8F4"
+   ],
+   "videoUrl": "https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQPSlbxpmCuquJbBbv0KwL5QA_QYsRzusvrSsS8F1vjL8151sollYBpwQIjyYplVjMmsXg2QeEUQQHpCHCOEx50vcotBHVQPxa_BKf0.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Z9paaB7JTSEQ7kNvwEXLH2L&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTUyNzMxODEwOTA4MTA0OCwiYXNzZXRfYWdlX2RheXMiOjQ2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1f04d179ca3628c0&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zMjQyQ0E0NTU3NTAwREJBRUE5RTVGRURDNjZGRkNCOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzFDNENDOTNFMkY5RTU1QUNDNjcwRDY0OURDNkRDOThGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACawt87VzsW2BRUCKAJDMywXQDaQ5WBBiTcYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=BA3aYk7Eev6hDU_63_EWVA&_nc_ss=70689&_nc_zt=28&oh=00_AQMeCMkFmTYXRtAekurkbjlYwZVuVzli5xHi3AYSOdcCnQ&oe=6AD02128",
+   "likesCount": 52,
+   "videoPlayCount": 3078,
+   "timestamp": "2026-08-28T11:56:04.000Z",
+   "ownerFullName": "Automall Hyundai | Concesionario",
+   "ownerUsername": "automall.hyundai",
+   "ownerId": "64435199251",
+   "isPinned": false,
+   "productType": "clips",
+   "videoDuration": 22.566668,
+   "paidPartnership": false,
+   "inputUrl": "https://www.instagram.com/automall.hyundai",
+   "firstComment": "❤️❤️❤️🤗",
+   "latestComments": [
+    {
+     "id": "18110013236023908",
+     "text": "❤️❤️❤️🤗",
+     "ownerUsername": "ericksolert",
+     "ownerProfilePicUrl": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/505198844_18505595704004056_1599885123857044301_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NDkuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gE7MKR5Y6YvgjUTHhsr9VjqN3LxUAg0JhWeECIBsrD0XsdxGSMXvXZAJR2-Q_2m1DMLLeaYX4OmyXGPhVyv9RKZ&_nc_ohc=BuHi74DaaewQ7kNvwEgRnbs&_nc_gid=90Ch4Qxquhb1bE-1ApAaOA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOxW_CWEsQZJj8Si47eqRKiGE3q6lnPlngjFOA4AB5oKg&oe=6AD3F8C6&_nc_sid=10d13b",
+     "timestamp": "2026-09-19T21:41:57.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "ericksolert",
+      "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/505198844_18505595704004056_1599885123857044301_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NDkuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gE7MKR5Y6YvgjUTHhsr9VjqN3LxUAg0JhWeECIBsrD0XsdxGSMXvXZAJR2-Q_2m1DMLLeaYX4OmyXGPhVyv9RKZ&_nc_ohc=BuHi74DaaewQ7kNvwEgRnbs&_nc_gid=90Ch4Qxquhb1bE-1ApAaOA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOxW_CWEsQZJj8Si47eqRKiGE3q6lnPlngjFOA4AB5oKg&oe=6AD3F8C6&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "266948055",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18124848335509233",
+     "text": "🙌❤️🙌Con Dios todo es posible estaremos con la bendición de Dios amen gloria a Dios 🇻🇪🙋🏻🇻🇪🥰😘🥰🥰 bendiciones",
+     "ownerUsername": "yerlysjimenezgmaiz.com1",
+     "ownerProfilePicUrl": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/470900687_1121980322989414_9121655714041883859_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gE7MKR5Y6YvgjUTHhsr9VjqN3LxUAg0JhWeECIBsrD0XsdxGSMXvXZAJR2-Q_2m1DMLLeaYX4OmyXGPhVyv9RKZ&_nc_ohc=Hbmk9QcobKMQ7kNvwF-hwKb&_nc_gid=90Ch4Qxquhb1bE-1ApAaOA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQP-iASNGSYxrFbD8yu0ocWKo0sOqWb-4EEPeIE6eHt-qA&oe=6AD4038D&_nc_sid=10d13b",
+     "timestamp": "2026-08-30T03:45:47.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "yerlysjimenezgmaiz.com1",
+      "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/470900687_1121980322989414_9121655714041883859_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gE7MKR5Y6YvgjUTHhsr9VjqN3LxUAg0JhWeECIBsrD0XsdxGSMXvXZAJR2-Q_2m1DMLLeaYX4OmyXGPhVyv9RKZ&_nc_ohc=Hbmk9QcobKMQ7kNvwF-hwKb&_nc_gid=90Ch4Qxquhb1bE-1ApAaOA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQP-iASNGSYxrFbD8yu0ocWKo0sOqWb-4EEPeIE6eHt-qA&oe=6AD4038D&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "71429320345",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18104984798464173",
+     "text": "Con la bendición de Dios nos vemos allí",
+     "ownerUsername": "johangonzalezve",
+     "ownerProfilePicUrl": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/352175291_928182361772999_8680654782895722152_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gE7MKR5Y6YvgjUTHhsr9VjqN3LxUAg0JhWeECIBsrD0XsdxGSMXvXZAJR2-Q_2m1DMLLeaYX4OmyXGPhVyv9RKZ&_nc_ohc=1bpFO0J59RAQ7kNvwGN9fZ8&_nc_gid=90Ch4Qxquhb1bE-1ApAaOA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOQNbOMSqBZv89Jp_EhwNEjWmbVaHTypsoePaJXuVdmvw&oe=6AD41AAB&_nc_sid=10d13b",
+     "timestamp": "2026-08-28T12:17:20.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "johangonzalezve",
+      "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/352175291_928182361772999_8680654782895722152_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gE7MKR5Y6YvgjUTHhsr9VjqN3LxUAg0JhWeECIBsrD0XsdxGSMXvXZAJR2-Q_2m1DMLLeaYX4OmyXGPhVyv9RKZ&_nc_ohc=1bpFO0J59RAQ7kNvwGN9fZ8&_nc_gid=90Ch4Qxquhb1bE-1ApAaOA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOQNbOMSqBZv89Jp_EhwNEjWmbVaHTypsoePaJXuVdmvw&oe=6AD41AAB&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "3158587931",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    }
+   ],
+   "originalHeight": 1920,
+   "originalWidth": 1080,
+   "displayUrl": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/785059054_17965797240151252_8749743341560252912_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk3MzY2NTY5MzMyMjgxMzYzMjE3OTY1Nzk3MjM0MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=VDGm7gUBfOQQ7kNvwHOwrjJ&_nc_oc=Adq743lHnKVm9sPiv5g06edsWE7qGIhvQMMG7tfJ928C5-yvKER8Gc98-XIymdmK6rR5c4zxK_xPWWYI07UEkPWf&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=BA3aYk7Eev6hDU_63_EWVA&_nc_ss=7a22e&oh=00_AQPvnipz66FS2Fe6MhlENEQIWq8YdprqbMYfbahHX56YHA&oe=6AD3F8F4",
+   "audioUrl": "https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m78/AQMIzkMTVOV7y0MoKmXRVH4IFBL_GHu_dtbn6lcp67eZmrAbh9PJsKxZ6UYANStR4t7WIxT2fy0ueZbtmOLWQDgiK2pjrajrJY8HFQs.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=BJ3pY9zBwZkQ7kNvwH-iKNC&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNTI3MzE4MTA5MDgxMDQ4LCJhc3NldF9hZ2VfZGF5cyI6NDYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMiwiYml0cmF0ZSI6ODI5ODQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=BA3aYk7Eev6hDU_63_EWVA&_nc_ss=7a22e&_nc_zt=28&oh=00_AQPe5ZaZYVzPG37t3wkCoP-g2uO6wCj-saJkFVoEqITuuQ&oe=6AD00362",
+   "alt": "Video by Automall Hyundai | Concesionario on August 28, 2026.",
+   "videoViewCount": null,
+   "childPosts": [],
+   "taggedUsers": [
+    {
+     "full_name": "Hyundai Venezuela",
+     "username": "hyundaivzla",
+     "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/275562195_151628380575553_2515877373191180629_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MTEuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHMQTNTbiZ7-dVolaeUOxDGQn0eBi67845cm6LFD_mGZnbRn8u2TcMWVA5pzssmpq1tELq6H0DGppzcTIWScOaQ&_nc_ohc=o1zjcb5ChOYQ7kNvwFQn7h_&_nc_gid=BA3aYk7Eev6hDU_63_EWVA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNAiesXImI40XGkRLn92PSauO8KApI-9sSYuWz6kgiK-g&oe=6AD42175&_nc_sid=10d13b",
+     "is_verified": false,
+     "id": "6725533378"
+    },
+    {
+     "full_name": "Exposición Automotriz y Autopartes del Zulia",
+     "username": "expoautomotrizzulia",
+     "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/649535418_18044360801726882_3286933068333248004_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc3LmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHMQTNTbiZ7-dVolaeUOxDGQn0eBi67845cm6LFD_mGZnbRn8u2TcMWVA5pzssmpq1tELq6H0DGppzcTIWScOaQ&_nc_ohc=t-gBvPZ8qr0Q7kNvwFPD0nu&_nc_gid=BA3aYk7Eev6hDU_63_EWVA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMzvmloEmTQ7d3uM8IrPzz2YfJmpXmgPIxjnanXUbF-9w&oe=6AD3FABA&_nc_sid=10d13b",
+     "is_verified": false,
+     "id": "51771862881"
+    }
+   ],
+   "coauthorProducers": [
+    {
+     "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/275562195_151628380575553_2515877373191180629_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MTEuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHMQTNTbiZ7-dVolaeUOxDGQn0eBi67845cm6LFD_mGZnbRn8u2TcMWVA5pzssmpq1tELq6H0DGppzcTIWScOaQ&_nc_ohc=o1zjcb5ChOYQ7kNvwFQn7h_&_nc_gid=BA3aYk7Eev6hDU_63_EWVA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNAiesXImI40XGkRLn92PSauO8KApI-9sSYuWz6kgiK-g&oe=6AD42175&_nc_sid=10d13b",
+     "is_unpublished": false,
+     "username": "hyundaivzla",
+     "is_verified": false,
+     "full_name": "Hyundai Venezuela",
+     "id": "6725533378",
+     "__typename": "User"
+    },
+    {
+     "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/649535418_18044360801726882_3286933068333248004_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc3LmMyIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHMQTNTbiZ7-dVolaeUOxDGQn0eBi67845cm6LFD_mGZnbRn8u2TcMWVA5pzssmpq1tELq6H0DGppzcTIWScOaQ&_nc_ohc=t-gBvPZ8qr0Q7kNvwFPD0nu&_nc_gid=BA3aYk7Eev6hDU_63_EWVA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMzvmloEmTQ7d3uM8IrPzz2YfJmpXmgPIxjnanXUbF-9w&oe=6AD3FABA&_nc_sid=10d13b",
+     "is_unpublished": false,
+     "username": "expoautomotrizzulia",
+     "is_verified": false,
+     "full_name": "Exposición Automotriz y Autopartes del Zulia",
+     "id": "51771862881",
+     "__typename": "User"
+    }
+   ],
+   "musicInfo": {
+    "artist_name": "automall.hyundai",
+    "song_name": "Original audio",
+    "uses_original_audio": true,
+    "should_mute_audio": false,
+    "should_mute_audio_reason": "",
+    "audio_id": "27963113093299440"
+   },
+   "isCommentsDisabled": false
+  },
+  {
+   "id": "3967482280714799948",
+   "type": "Video",
+   "shortCode": "DcPVB0aqYtM",
+   "caption": "¡Ya falta muy poco! la gran Expo automotriz 2026 es este 28, 29 y 30 de agosto ¡te esperamos! 🚗🙌🏻\n\n#AutomallMallMitsubishi #Maracaibo",
+   "hashtags": [
+    "AutomallMallMitsubishi",
+    "Maracaibo"
+   ],
+   "mentions": [],
+   "url": "https://www.instagram.com/p/DcPVB0aqYtM/",
+   "commentsCount": 3,
+   "dimensionsHeight": 1280,
+   "dimensionsWidth": 720,
+   "images": [
+    "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/779896075_17964605838151252_2149057129439504238_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2NzQ4MjI4MDcxNDc5OTk0ODE3OTY0NjA1ODM1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=XoEt2Bq6zjQQ7kNvwG-Tz0O&_nc_oc=AdoNjvLcNCUTUtg0oZSKupGXC7WxzXkt1LPqqCEXH74w-xQUNEkovVeLmgUXbl1wdmAgkBZzVQaz4ELBoNapUSLV&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=5Ym4VFbcZ_wiwjIjXV9WEg&_nc_ss=7a3ba&oh=00_AQM0ai2cqHR0Nr4lB8WOVfdO0M5i-H_3w8qYzt-TBnYrIw&oe=6AD41DEE",
+    "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/779896075_17964605838151252_2149057129439504238_n.jpg?stp=dst-jpg_e15_p320x320_tt6&_nc_cat=106&ig_cache_key=Mzk2NzQ4MjI4MDcxNDc5OTk0ODE3OTY0NjA1ODM1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=XoEt2Bq6zjQQ7kNvwG-Tz0O&_nc_oc=AdoNjvLcNCUTUtg0oZSKupGXC7WxzXkt1LPqqCEXH74w-xQUNEkovVeLmgUXbl1wdmAgkBZzVQaz4ELBoNapUSLV&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=5Ym4VFbcZ_wiwjIjXV9WEg&_nc_ss=7a3ba&oh=00_AQODU4G9fAkiUMVs6AOMueZe-rjROcXCH8YD1bV0eXKibg&oe=6AD41DEE"
+   ],
+   "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMeKNr9XSzRPOXUA_nQqhx9LQIuCsGgNplEtqFr3wThpvQgQtpNL8UyStH9wA8iVEvxKFxOFNcckWJRf-shFv3ygGUQK4w7ztbf6NM.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=3pQPjXV9YakQ7kNvwGhpdzp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQwNTAzMTU3ODIyOTUyNCwiYXNzZXRfYWdlX2RheXMiOjU0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7d4d8e6ef5c766ef&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85MzREODA1MjYyOTYzREZDNzA2ODk4NzI4NUU0RURBOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzZFNEY4MkQ3NjA2N0M3NDM3RkEwM0Q2NDFEMDg3RDk2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACao7PKBzff-BBUCKAJDMywXQEGVP3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=GsvbptGDUua8fEyUvOZgUw&_nc_zt=28&_nc_ss=70689&oh=00_AQM50Z5ZPDow1fFUaD-vbq1lwkDeaqm1s_-u6iH-NkkIdg&oe=6AD01FAB",
+   "likesCount": 45,
+   "videoPlayCount": 2733,
+   "timestamp": "2026-08-19T23:09:39.000Z",
+   "ownerFullName": "Automall Hyundai | Concesionario",
+   "ownerUsername": "automall.hyundai",
+   "ownerId": "64435199251",
+   "isPinned": false,
+   "productType": "clips",
+   "videoDuration": 35.166668,
+   "paidPartnership": false,
+   "inputUrl": "https://www.instagram.com/automall.hyundai",
+   "firstComment": "❤️👏👏",
+   "latestComments": [
+    {
+     "id": "18063571823753162",
+     "text": "❤️👏👏",
+     "ownerUsername": "biosalufpj",
+     "ownerProfilePicUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/838650221_17905636227581685_458974091250328920_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHMMOjynnmerHDzQOeNnx1kIjY_PHPSOCiHdb4TtbsXQsww85mAPsGh1cX5WKMKouvv0HBUSSOCpc_4pD80Yw6X&_nc_ohc=CG0VLPJj8wEQ7kNvwG0TJ3c&_nc_gid=do2vMWEnC5avCWQykT_ODA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNiuhscHNZATyFnJij6sdQKcL3T45-qePCek-fEfLrwjA&oe=6AD41FBD&_nc_sid=10d13b",
+     "timestamp": "2026-08-22T23:06:59.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "biosalufpj",
+      "profile_pic_url": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/838650221_17905636227581685_458974091250328920_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHMMOjynnmerHDzQOeNnx1kIjY_PHPSOCiHdb4TtbsXQsww85mAPsGh1cX5WKMKouvv0HBUSSOCpc_4pD80Yw6X&_nc_ohc=CG0VLPJj8wEQ7kNvwG0TJ3c&_nc_gid=do2vMWEnC5avCWQykT_ODA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNiuhscHNZATyFnJij6sdQKcL3T45-qePCek-fEfLrwjA&oe=6AD41FBD&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "77420997684",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18121297747876978",
+     "text": "👏👏👏",
+     "ownerUsername": "bin0411",
+     "ownerProfilePicUrl": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/779816209_18606377266037077_438935736227217908_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHMMOjynnmerHDzQOeNnx1kIjY_PHPSOCiHdb4TtbsXQsww85mAPsGh1cX5WKMKouvv0HBUSSOCpc_4pD80Yw6X&_nc_ohc=jvZhtr5HqG4Q7kNvwEfcnZS&_nc_gid=do2vMWEnC5avCWQykT_ODA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOayQfKK5bA-Ds0L_x2OlGybP_xqBGrO6H5I3U8LwqJ1A&oe=6AD4094F&_nc_sid=10d13b",
+     "timestamp": "2026-08-19T23:31:30.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "bin0411",
+      "profile_pic_url": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/779816209_18606377266037077_438935736227217908_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHMMOjynnmerHDzQOeNnx1kIjY_PHPSOCiHdb4TtbsXQsww85mAPsGh1cX5WKMKouvv0HBUSSOCpc_4pD80Yw6X&_nc_ohc=jvZhtr5HqG4Q7kNvwEfcnZS&_nc_gid=do2vMWEnC5avCWQykT_ODA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOayQfKK5bA-Ds0L_x2OlGybP_xqBGrO6H5I3U8LwqJ1A&oe=6AD4094F&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "195813076",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    }
+   ],
+   "originalHeight": 1920,
+   "originalWidth": 1080,
+   "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/779896075_17964605838151252_2149057129439504238_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2NzQ4MjI4MDcxNDc5OTk0ODE3OTY0NjA1ODM1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=XoEt2Bq6zjQQ7kNvwH_gBzM&_nc_oc=AdreiG4S7EkOuPUfDOb9UBZ9HZaIaoxvbIc1QnCaJu_kJL8KCwLR2mBEayNaiGNjvWTaqB1zSpbY3Y9joRq14TpU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_gid=GsvbptGDUua8fEyUvOZgUw&_nc_ss=7a22e&oh=00_AQPyMN7s0e5MVSx2n0E8D05-9V5st6rJBw2lgFIT6P5wKg&oe=6AD41DEE",
+   "audioUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t2/f2/m78/AQNE21igszl-9GrE_5mZD6nipeZeXCKragNapxOPE1RJ-mRYMAlD92TgD0tAk0MEjieOOQzkkPribVrDvFeGD2LKMjwPJb7X5MWmlPU.mp4?_nc_cat=100&_nc_sid=9ca052&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=IaSo2NAHGWIQ7kNvwG0ow4I&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNDA1MDMxNTc4MjI5NTI0LCJhc3NldF9hZ2VfZGF5cyI6NTQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNSwiYml0cmF0ZSI6Njg0MDgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=GsvbptGDUua8fEyUvOZgUw&_nc_zt=28&_nc_ss=7a22e&oh=00_AQPrsdimtCEM5WkI9vADreG7puh_YdcKvGdAJBdP8iTcrQ&oe=6AD00B85",
+   "alt": "Video by Automall Hyundai | Concesionario on August 19, 2026.",
+   "videoViewCount": null,
+   "childPosts": [],
+   "taggedUsers": [
+    {
+     "full_name": "Hyundai Venezuela",
+     "username": "hyundaivzla",
+     "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/275562195_151628380575553_2515877373191180629_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MTEuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF8Tf-cimAoylC4Kz0buJRR4WsoR-oHPneYSyiqb2JlbFR7yErlcR7wKsmU7JnwQUKibP7lWl2LqZvV11I8zdao&_nc_ohc=o1zjcb5ChOYQ7kNvwHkzjOV&_nc_gid=GsvbptGDUua8fEyUvOZgUw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPgvLhh8sqM7rcE2UxWp-ea-wRQ0kGZJzx-xuJtFSaWxg&oe=6AD42175&_nc_sid=10d13b",
+     "is_verified": false,
+     "id": "6725533378"
+    },
+    {
+     "full_name": "Exposición Automotriz y Autopartes del Zulia",
+     "username": "expoautomotrizzulia",
+     "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/649535418_18044360801726882_3286933068333248004_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc3LmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gF8Tf-cimAoylC4Kz0buJRR4WsoR-oHPneYSyiqb2JlbFR7yErlcR7wKsmU7JnwQUKibP7lWl2LqZvV11I8zdao&_nc_ohc=t-gBvPZ8qr0Q7kNvwHwHI5_&_nc_gid=GsvbptGDUua8fEyUvOZgUw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMIzIllrKoFreJmVmaAvMwj1AAU5paZMt-lZIf9vCLDXA&oe=6AD3FABA&_nc_sid=10d13b",
+     "is_verified": false,
+     "id": "51771862881"
+    }
+   ],
+   "coauthorProducers": [
+    {
+     "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/649535418_18044360801726882_3286933068333248004_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc3LmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gF8Tf-cimAoylC4Kz0buJRR4WsoR-oHPneYSyiqb2JlbFR7yErlcR7wKsmU7JnwQUKibP7lWl2LqZvV11I8zdao&_nc_ohc=t-gBvPZ8qr0Q7kNvwHwHI5_&_nc_gid=GsvbptGDUua8fEyUvOZgUw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMIzIllrKoFreJmVmaAvMwj1AAU5paZMt-lZIf9vCLDXA&oe=6AD3FABA&_nc_sid=10d13b",
+     "is_unpublished": false,
+     "username": "expoautomotrizzulia",
+     "is_verified": false,
+     "full_name": "Exposición Automotriz y Autopartes del Zulia",
+     "id": "51771862881",
+     "__typename": "User"
+    }
+   ],
+   "musicInfo": {
+    "artist_name": "automall.hyundai",
+    "song_name": "Original audio",
+    "uses_original_audio": true,
+    "should_mute_audio": false,
+    "should_mute_audio_reason": "",
+    "audio_id": "28070034539294183"
+   },
+   "isCommentsDisabled": false
+  },
+  {
+   "id": "3973882959142413036",
+   "type": "Video",
+   "shortCode": "DcmEX8uqWLs",
+   "caption": "¡Estamos listos para recibirte!  @expoautomotrizzulia 🚗✨\n\nAcércate a nuestro stand oficial, descubre nuestras novedades y vive la experiencia Auto Mall Hyundai. \n\n¡No dejes que te lo cuenten, ven a visitarnos! \n\n#AutomallHyundai #HyundaiVzla #Expoautomotriz",
+   "hashtags": [
+    "AutomallHyundai",
+    "HyundaiVzla",
+    "Expoautomotriz"
+   ],
+   "mentions": [
+    "expoautomotrizzulia"
+   ],
+   "url": "https://www.instagram.com/p/DcmEX8uqWLs/",
+   "commentsCount": 3,
+   "dimensionsHeight": 1280,
+   "dimensionsWidth": 720,
+   "images": [
+    "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/788014526_17965856028151252_3899847870615346301_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk3Mzg4Mjk1OTE0MjQxMzAzNjE3OTY1ODU2MDI1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=EdB3DHeD85EQ7kNvwFlitC7&_nc_oc=AdpQZ5n5kNQ4wjfcZTZtK4iRAK0hs-IWGTfCyBAPWjsTNFs5Ce8uhkruMSgMPVEIhcJPqhKNL09VwjYXs6lFfl7B&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=5Ym4VFbcZ_wiwjIjXV9WEg&_nc_ss=7a3ba&oh=00_AQOwWfbF2-KZ6HB4s5m9lJn_EKRfYUwisk08gNj6eeARpA&oe=6AD405EC",
+    "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/788014526_17965856028151252_3899847870615346301_n.jpg?stp=dst-jpg_e15_p320x320_tt6&_nc_cat=111&ig_cache_key=Mzk3Mzg4Mjk1OTE0MjQxMzAzNjE3OTY1ODU2MDI1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=EdB3DHeD85EQ7kNvwFlitC7&_nc_oc=AdpQZ5n5kNQ4wjfcZTZtK4iRAK0hs-IWGTfCyBAPWjsTNFs5Ce8uhkruMSgMPVEIhcJPqhKNL09VwjYXs6lFfl7B&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=5Ym4VFbcZ_wiwjIjXV9WEg&_nc_ss=7a3ba&oh=00_AQOTq2lGrwdYv4axQqnGvIVmhahE0u2OFiGhNyLryp7QTA&oe=6AD405EC"
+   ],
+   "videoUrl": "https://instagram.fmad17-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQNf27CP1RMfJfwt40mkRr-VCXE9nXIAI0yTuj3vXgqSIlm1aeUm4kz4vyDMsG36O7ITFHtWd42Wetk24dvuHHBWa35l2TrzHw00WS8.mp4?_nc_cat=101&_nc_oc=AdoxstzkYK9xJWI9VvkJZ_Uz0vsM6wWrfCGBapkMLlcCmnb0VPUnWD6PODireR3ssGQ&_nc_sid=5e9851&_nc_ht=instagram.fmad17-1.fna.fbcdn.net&_nc_ohc=5p8o21mqF4EQ7kNvwH2WgSS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTYyODI2MTk5NTU3ODUyMywiYXNzZXRfYWdlX2RheXMiOjQ1LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f0f5f1eed6d1744&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yMjQ2QTMzMjdFODkyNURCMUUyQTUzRjFEQkE5RUZCMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzYxNDQxNjFFMkQ3RjIyQjc1REY5RkIwRkU4NjNEQThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa2ksidqbnkBRUCKAJDMywXQDJu2RaHKwIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=JCOwOseoG9Wef50MZ6wQbA&_nc_ss=70a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQNOXlyI0UWgDsmud555l4D5BKwq7R9ePbWhEWknPqyyaw&oe=6AD01416",
+   "likesCount": 49,
+   "videoPlayCount": 2898,
+   "timestamp": "2026-08-28T19:10:37.000Z",
+   "ownerFullName": "Automall Hyundai | Concesionario",
+   "ownerUsername": "automall.hyundai",
+   "ownerId": "64435199251",
+   "isPinned": false,
+   "productType": "clips",
+   "videoDuration": 18.435192,
+   "paidPartnership": false,
+   "inputUrl": "https://www.instagram.com/automall.hyundai",
+   "firstComment": "Yo quiero",
+   "latestComments": [
+    {
+     "id": "18091169924447564",
+     "text": "Yo quiero",
+     "ownerUsername": "rubilev6",
+     "ownerProfilePicUrl": "https://instagram.fvlc9-1.fna.fbcdn.net/v/t51.2885-19/293651723_159882183261641_2147517281980018602_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=instagram.fvlc9-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gEUNEVROawbQ2Slw-XqB9toFr8piO9JBzuYPNaHFOvxcE6AVWtEnIdIaRplEyxZ4MI&_nc_ohc=wKKXnebfriYQ7kNvwGdPqtB&_nc_gid=4snLr0CJqP4WAXEngTu9Eg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMUZQ8XcjepISxXk3u4Uzi3YHXpf_SprGhUt7wnIuTW_Q&oe=6AD40BAF&_nc_sid=10d13b",
+     "timestamp": "2026-08-29T13:55:56.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "rubilev6",
+      "profile_pic_url": "https://instagram.fvlc9-1.fna.fbcdn.net/v/t51.2885-19/293651723_159882183261641_2147517281980018602_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=instagram.fvlc9-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gEUNEVROawbQ2Slw-XqB9toFr8piO9JBzuYPNaHFOvxcE6AVWtEnIdIaRplEyxZ4MI&_nc_ohc=wKKXnebfriYQ7kNvwGdPqtB&_nc_gid=4snLr0CJqP4WAXEngTu9Eg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMUZQ8XcjepISxXk3u4Uzi3YHXpf_SprGhUt7wnIuTW_Q&oe=6AD40BAF&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "39029337482",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "17867434992642853",
+     "text": "👏👏👏",
+     "ownerUsername": "bin0411",
+     "ownerProfilePicUrl": "https://instagram.fvlc9-1.fna.fbcdn.net/v/t51.82787-19/779816209_18606377266037077_438935736227217908_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fvlc9-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gEUNEVROawbQ2Slw-XqB9toFr8piO9JBzuYPNaHFOvxcE6AVWtEnIdIaRplEyxZ4MI&_nc_ohc=jvZhtr5HqG4Q7kNvwFceKcY&_nc_gid=4snLr0CJqP4WAXEngTu9Eg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQP-feZxPP2Znyy29rm6bfesBp1LfXFbKDr46CqR-rBHoA&oe=6AD4094F&_nc_sid=10d13b",
+     "timestamp": "2026-08-28T19:28:51.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "bin0411",
+      "profile_pic_url": "https://instagram.fvlc9-1.fna.fbcdn.net/v/t51.82787-19/779816209_18606377266037077_438935736227217908_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fvlc9-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gEUNEVROawbQ2Slw-XqB9toFr8piO9JBzuYPNaHFOvxcE6AVWtEnIdIaRplEyxZ4MI&_nc_ohc=jvZhtr5HqG4Q7kNvwFceKcY&_nc_gid=4snLr0CJqP4WAXEngTu9Eg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQP-feZxPP2Znyy29rm6bfesBp1LfXFbKDr46CqR-rBHoA&oe=6AD4094F&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "195813076",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    }
+   ],
+   "originalHeight": 1920,
+   "originalWidth": 1080,
+   "displayUrl": "https://instagram.fmad17-1.fna.fbcdn.net/v/t51.82787-15/788014526_17965856028151252_3899847870615346301_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3Mzg4Mjk1OTE0MjQxMzAzNjE3OTY1ODU2MDI1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=EdB3DHeD85EQ7kNvwFz_Lbn&_nc_oc=AdqCAwL7ogQ8m1E40IDUZdt8t_5DW4aDPNeLwy8aYhOj0_2GP3d3FaVSmXdpSlUsQSs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fmad17-1.fna&_nc_gid=JCOwOseoG9Wef50MZ6wQbA&_nc_ss=7a22e&oh=00_AQNybyCMd_ITKpaBXckhEJU8LuEi7L2qqCngvWg31D3FHw&oe=6AD405EC",
+   "audioUrl": "https://instagram.fmad17-1.fna.fbcdn.net/o1/v/t2/f2/m78/AQM6iES5FC3OQoVbB2FD55Jh8pfqvLZkkNhQzgyVIbjvawAYxFvCDIKboisc2KwZp0mKPTx-tkahUFL4213YEg1NocOB276P1vlHqWI.mp4?_nc_cat=110&_nc_oc=AdqzFEuhvKazm--F8KGE6Rp5PC34rPKklI0lbwmYC4u9gryWMzXpcGqkWvMT8qxNea0&_nc_sid=9ca052&_nc_ht=instagram.fmad17-1.fna.fbcdn.net&_nc_ohc=QQ0bsOfG1bMQ7kNvwG_PnUt&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNjI4MjYxOTk1NTc4NTIzLCJhc3NldF9hZ2VfZGF5cyI6NDUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxOCwiYml0cmF0ZSI6NjI5MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=JCOwOseoG9Wef50MZ6wQbA&_nc_ss=7a22e&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQMt5jICb1T0XOPWPQ8Ra_Yzz2uppf_WVtZowfbmyQpqRg&oe=6AD02EAF",
+   "alt": "Video by Automall Hyundai | Concesionario on August 28, 2026.",
+   "videoViewCount": null,
+   "childPosts": [],
+   "taggedUsers": [
+    {
+     "full_name": "Hyundai Venezuela",
+     "username": "hyundaivzla",
+     "profile_pic_url": "https://instagram.fmad6-1.fna.fbcdn.net/v/t51.2885-19/275562195_151628380575553_2515877373191180629_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MTEuYzIifQ&_nc_ht=instagram.fmad6-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gEgBqx_adaTW8jlz5zoyZ1eQqH1KKknYDDa38fQUA-y-57kCGvZXuWMk87RcCvPA8M&_nc_ohc=o1zjcb5ChOYQ7kNvwEJm4EH&_nc_gid=JCOwOseoG9Wef50MZ6wQbA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMWtdr0yYe7L4n_0yU0BhmIhqwH0nZGhrvV0jXAHYtI1Q&oe=6AD42175&_nc_sid=10d13b",
+     "is_verified": false,
+     "id": "6725533378"
+    },
+    {
+     "full_name": "Exposición Automotriz y Autopartes del Zulia",
+     "username": "expoautomotrizzulia",
+     "profile_pic_url": "https://instagram.fmad6-1.fna.fbcdn.net/v/t51.82787-19/649535418_18044360801726882_3286933068333248004_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc3LmMyIn0&_nc_ht=instagram.fmad6-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gEgBqx_adaTW8jlz5zoyZ1eQqH1KKknYDDa38fQUA-y-57kCGvZXuWMk87RcCvPA8M&_nc_ohc=t-gBvPZ8qr0Q7kNvwHGt4iA&_nc_gid=JCOwOseoG9Wef50MZ6wQbA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQN1pfmwJ_Rk_mlo4lF3y__5ZlvTh41Ly3SAL6ca83HIFw&oe=6AD3FABA&_nc_sid=10d13b",
+     "is_verified": false,
+     "id": "51771862881"
+    }
+   ],
+   "coauthorProducers": [
+    {
+     "profile_pic_url": "https://instagram.fmad6-1.fna.fbcdn.net/v/t51.82787-19/649535418_18044360801726882_3286933068333248004_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc3LmMyIn0&_nc_ht=instagram.fmad6-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gEgBqx_adaTW8jlz5zoyZ1eQqH1KKknYDDa38fQUA-y-57kCGvZXuWMk87RcCvPA8M&_nc_ohc=t-gBvPZ8qr0Q7kNvwHGt4iA&_nc_gid=JCOwOseoG9Wef50MZ6wQbA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQN1pfmwJ_Rk_mlo4lF3y__5ZlvTh41Ly3SAL6ca83HIFw&oe=6AD3FABA&_nc_sid=10d13b",
+     "is_unpublished": false,
+     "username": "expoautomotrizzulia",
+     "is_verified": false,
+     "full_name": "Exposición Automotriz y Autopartes del Zulia",
+     "id": "51771862881",
+     "__typename": "User"
+    }
+   ],
+   "musicInfo": {
+    "artist_name": "automall.hyundai",
+    "song_name": "Original audio",
+    "uses_original_audio": true,
+    "should_mute_audio": false,
+    "should_mute_audio_reason": "",
+    "audio_id": "38057845613830801"
+   },
+   "isCommentsDisabled": false
+  },
+  {
+   "id": "3963631297920281119",
+   "type": "Video",
+   "shortCode": "DcBpapNKKof",
+   "caption": "Si estas de acuerdo con este video entonces no tienes que venir a nuestras oficinas para tener una Tucson con financiamiento. 🙈😀\n\n#AutomallHyundai #Maracaibo #TucsonHyundai",
+   "hashtags": [
+    "AutomallHyundai",
+    "Maracaibo",
+    "TucsonHyundai"
+   ],
+   "mentions": [],
+   "url": "https://www.instagram.com/p/DcBpapNKKof/",
+   "commentsCount": 21,
+   "dimensionsHeight": 1280,
+   "dimensionsWidth": 720,
+   "images": [
+    "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/770329599_17963593578151252_6924801636768530962_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2MzYzMTI5NzkyMDI4MTExOTE3OTYzNTkzNTc1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=CDpm7Tkanr8Q7kNvwF63y0M&_nc_oc=AdrF_aXzVxw_9E0tvH6Mcik9fqy-3KPmLG_gwiICuapb2_hop1gXJnR6Q8vVBwfpFt6DAHdgggZ2pxGs9qkTdewS&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=5Ym4VFbcZ_wiwjIjXV9WEg&_nc_ss=7a3ba&oh=00_AQNhni3jvUlWquHV9LLfeGwrZfquZFnabsZYqN8WsWJ5QQ&oe=6AD40C64",
+    "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/770329599_17963593578151252_6924801636768530962_n.jpg?stp=dst-jpg_e15_p320x320_tt6&_nc_cat=106&ig_cache_key=Mzk2MzYzMTI5NzkyMDI4MTExOTE3OTYzNTkzNTc1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=CDpm7Tkanr8Q7kNvwF63y0M&_nc_oc=AdrF_aXzVxw_9E0tvH6Mcik9fqy-3KPmLG_gwiICuapb2_hop1gXJnR6Q8vVBwfpFt6DAHdgggZ2pxGs9qkTdewS&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=5Ym4VFbcZ_wiwjIjXV9WEg&_nc_ss=7a3ba&oh=00_AQN6qy8FOxrhExxPRRCrz42MOL6SmxZiKpPZURRpG1AdYQ&oe=6AD40C64"
+   ],
+   "videoUrl": "https://scontent-ber1-1.cdninstagram.com/o1/v/t2/f2/m86/AQP3l2kI4IRrGeoeZns_BMK0UIYSCL9BUWrP6ZmvJ8kaIgQ1x2L_sCBA7N9VikCbCeFXz9LND37c0Cm3hbNI0zwgZTE9ynd-tVOKiOc.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_ohc=I8ud6pmLdYQQ7kNvwEo98Ax&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQUQuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgzMDEwMzU3NTA3MTQ4MywiYXNzZXRfYWdlX2RheXMiOjU5LCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6NDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b167ad742f5a93f&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84RjQ4RjkzMzk2MDNBMDc3NjhGRDEwMUI1OEY0RjU4NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzkzNDM5M0NENDhENUM5QkQwRUU4N0IxRDgwMzhERkIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb2q_SXhp7ABhUCKAJDMywXQEYiDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdfAHZazBAQA&_nc_gid=FsugzMWRWa02XcVkpjrfwA&_nc_ss=73a8c&_nc_zt=28&oh=00_AQOeaz-qsfCRlAKTYS6IoiC4tkgIf1gonJ3SUjb5VVfblg&oe=6AD02601",
+   "likesCount": 55,
+   "videoPlayCount": 3252,
+   "timestamp": "2026-08-14T15:40:27.000Z",
+   "ownerFullName": "Automall Hyundai | Concesionario",
+   "ownerUsername": "automall.hyundai",
+   "ownerId": "64435199251",
+   "isPinned": false,
+   "productType": "clips",
+   "videoDuration": 44.266666,
+   "paidPartnership": false,
+   "inputUrl": "https://www.instagram.com/automall.hyundai",
+   "firstComment": "Buenos días información",
+   "latestComments": [
+    {
+     "id": "17958457422011706",
+     "text": "Buenos días información",
+     "ownerUsername": "rafaeldelacruz9",
+     "ownerProfilePicUrl": "https://scontent-waw2-2.cdninstagram.com/v/t51.2885-19/342703294_1057296562403199_6974847392375521834_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NzQuYzIifQ&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=ekUqgduMF2EQ7kNvwFmiUM4&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNqRN5CIXzqIHQKg5QLlnMWqaHE1yL--K4xqEnXdgqkbA&oe=6AD3F559&_nc_sid=10d13b",
+     "timestamp": "2026-10-01T13:45:09.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "rafaeldelacruz9",
+      "profile_pic_url": "https://scontent-waw2-2.cdninstagram.com/v/t51.2885-19/342703294_1057296562403199_6974847392375521834_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NzQuYzIifQ&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=ekUqgduMF2EQ7kNvwFmiUM4&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNqRN5CIXzqIHQKg5QLlnMWqaHE1yL--K4xqEnXdgqkbA&oe=6AD3F559&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "2529780478",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18436616863183664",
+     "text": "Precio?",
+     "ownerUsername": "lizziecheto",
+     "ownerProfilePicUrl": "https://scontent-waw2-1.cdninstagram.com/v/t51.2885-19/475751557_1140967417580577_5262862725379917896_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=DY7dCCC8b1oQ7kNvwFrcZ-u&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO7benTbPtSSv87_o27gyguXMbgOxpp1zAmfRrsiSf96Q&oe=6AD3F5AD&_nc_sid=10d13b",
+     "timestamp": "2026-09-29T21:21:00.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "lizziecheto",
+      "profile_pic_url": "https://scontent-waw2-1.cdninstagram.com/v/t51.2885-19/475751557_1140967417580577_5262862725379917896_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=DY7dCCC8b1oQ7kNvwFrcZ-u&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO7benTbPtSSv87_o27gyguXMbgOxpp1zAmfRrsiSf96Q&oe=6AD3F5AD&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "1263118855",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18133397248640186",
+     "text": "Precio por favor . Y planes de financiamiento??!",
+     "ownerUsername": "rosalbarivas2511",
+     "ownerProfilePicUrl": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-19/517564216_18390099748139519_8239500445048647750_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=0x75bXMkKagQ7kNvwGTwK6p&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNkEOecoi_BSmow54aIaBrbP0JY-VeAnQwS7fZyGEm9Sw&oe=6AD3FE57&_nc_sid=10d13b",
+     "timestamp": "2026-09-06T21:50:05.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "rosalbarivas2511",
+      "profile_pic_url": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-19/517564216_18390099748139519_8239500445048647750_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=0x75bXMkKagQ7kNvwGTwK6p&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNkEOecoi_BSmow54aIaBrbP0JY-VeAnQwS7fZyGEm9Sw&oe=6AD3FE57&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "4219755518",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "17867336226641363",
+     "text": "Precio",
+     "ownerUsername": "fre605",
+     "ownerProfilePicUrl": "https://scontent-waw2-1.cdninstagram.com/v/t51.2885-19/454015202_1227386501772695_5904743594151323755_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=eC6_zZQH6uIQ7kNvwHpeYQc&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO7WR12CTBF3GrqyUJnnFUR0JKSBzmE21bGgya5JFbd7A&oe=6AD3F86E&_nc_sid=10d13b",
+     "timestamp": "2026-08-28T16:57:29.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "fre605",
+      "profile_pic_url": "https://scontent-waw2-1.cdninstagram.com/v/t51.2885-19/454015202_1227386501772695_5904743594151323755_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=eC6_zZQH6uIQ7kNvwHpeYQc&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO7WR12CTBF3GrqyUJnnFUR0JKSBzmE21bGgya5JFbd7A&oe=6AD3F86E&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "5978389900",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18131155231647115",
+     "text": "precio",
+     "ownerUsername": "yrmasalas",
+     "ownerProfilePicUrl": "https://scontent-waw2-2.cdninstagram.com/v/t51.2885-19/371096522_655737353287215_4580679895330867396_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=yUi5pDfsgb0Q7kNvwES4TmS&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOPH8kvVsED3o7CW73dtHD8jOyosLLRsjwfbCclWkHxjw&oe=6AD41C48&_nc_sid=10d13b",
+     "timestamp": "2026-08-27T01:19:27.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "yrmasalas",
+      "profile_pic_url": "https://scontent-waw2-2.cdninstagram.com/v/t51.2885-19/371096522_655737353287215_4580679895330867396_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=yUi5pDfsgb0Q7kNvwES4TmS&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOPH8kvVsED3o7CW73dtHD8jOyosLLRsjwfbCclWkHxjw&oe=6AD41C48&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "7918039397",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18121152902314191",
+     "text": "Desde San Francisco Maracaibo queremos darle una placa una placa un reconocimiento por ser la empresa lider en Venezuela saludos",
+     "ownerUsername": "fundacionondanueva",
+     "ownerProfilePicUrl": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-19/572155004_18371280718153007_620749975799035809_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=wFphP8DFfXgQ7kNvwExivZn&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQN7lXB4xObp7W7pjw-2hOcJOVOBVMtH8qBqfP8RfEDnAw&oe=6AD4124E&_nc_sid=10d13b",
+     "timestamp": "2026-08-25T01:06:29.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "fundacionondanueva",
+      "profile_pic_url": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-19/572155004_18371280718153007_620749975799035809_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=wFphP8DFfXgQ7kNvwExivZn&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQN7lXB4xObp7W7pjw-2hOcJOVOBVMtH8qBqfP8RfEDnAw&oe=6AD4124E&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "4610201006",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "17937973749096806",
+     "text": "Desde San Francisco Maracaibo queremos darle una placa una placa un reconocimiento por ser la empresa lider en Venezuela saludos",
+     "ownerUsername": "fundacionondanueva",
+     "ownerProfilePicUrl": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-19/572155004_18371280718153007_620749975799035809_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=wFphP8DFfXgQ7kNvwExivZn&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQN7lXB4xObp7W7pjw-2hOcJOVOBVMtH8qBqfP8RfEDnAw&oe=6AD4124E&_nc_sid=10d13b",
+     "timestamp": "2026-08-25T01:06:26.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "fundacionondanueva",
+      "profile_pic_url": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-19/572155004_18371280718153007_620749975799035809_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=wFphP8DFfXgQ7kNvwExivZn&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQN7lXB4xObp7W7pjw-2hOcJOVOBVMtH8qBqfP8RfEDnAw&oe=6AD4124E&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "4610201006",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18137928805593243",
+     "text": "Porfavor si son tan amables para que me envie opcion de financiamiento",
+     "ownerUsername": "eudomiro.acuna",
+     "ownerProfilePicUrl": "https://scontent-waw2-2.cdninstagram.com/v/t51.2885-19/330228821_575839321133898_5272854912407782013_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=4ptwur-iVY0Q7kNvwENEWbb&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNAG2FwFm2wfJ4RPBsZ-UlcuAEBKkoVYKhlNKmiscGmoA&oe=6AD3F747&_nc_sid=10d13b",
+     "timestamp": "2026-08-24T16:53:22.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "eudomiro.acuna",
+      "profile_pic_url": "https://scontent-waw2-2.cdninstagram.com/v/t51.2885-19/330228821_575839321133898_5272854912407782013_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=4ptwur-iVY0Q7kNvwENEWbb&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNAG2FwFm2wfJ4RPBsZ-UlcuAEBKkoVYKhlNKmiscGmoA&oe=6AD3F747&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "4329171533",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18161347144473649",
+     "text": "Buenos días información por favor",
+     "ownerUsername": "antoniorivasrangel",
+     "ownerProfilePicUrl": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG02E-yV5YHxxOwrWC0JMwYmRRo3q4-BASQupkaNevqmpuoe_wvgdIgXR7aVp-ZcFOJv9BROhQjF8PjL4fyOeim&_nc_ohc=6tMhbzsXag0Q7kNvwHf2ALT&edm=AAAAAAABAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQPO_aPdD29T6x7Wo9PkpP4KHUVQLQf6Mj2upbMlo1F9oQ&oe=6AD4106A&_nc_sid=328259",
+     "timestamp": "2026-08-21T06:49:06.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "antoniorivasrangel",
+      "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG02E-yV5YHxxOwrWC0JMwYmRRo3q4-BASQupkaNevqmpuoe_wvgdIgXR7aVp-ZcFOJv9BROhQjF8PjL4fyOeim&_nc_ohc=6tMhbzsXag0Q7kNvwHf2ALT&edm=AAAAAAABAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQPO_aPdD29T6x7Wo9PkpP4KHUVQLQf6Mj2upbMlo1F9oQ&oe=6AD4106A&_nc_sid=328259",
+      "is_verified": false,
+      "id": "1975606030",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18127399342662245",
+     "text": "Información",
+     "ownerUsername": "ritaclaret4",
+     "ownerProfilePicUrl": "https://scontent-waw2-1.cdninstagram.com/v/t51.2885-19/60302105_444769152941842_8125574431742361600_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=5oX6AyVdOVsQ7kNvwGiQ5gT&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPn6c1QZOgqeaZMmu5SDkWQQ3yHgHBAq7YrFRdOwnyW9A&oe=6AD3FEBF&_nc_sid=10d13b",
+     "timestamp": "2026-08-15T21:24:31.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "ritaclaret4",
+      "profile_pic_url": "https://scontent-waw2-1.cdninstagram.com/v/t51.2885-19/60302105_444769152941842_8125574431742361600_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=5oX6AyVdOVsQ7kNvwGiQ5gT&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPn6c1QZOgqeaZMmu5SDkWQQ3yHgHBAq7YrFRdOwnyW9A&oe=6AD3FEBF&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "1826186014",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18039178436818520",
+     "text": "Información",
+     "ownerUsername": "valeraroy",
+     "ownerProfilePicUrl": "https://scontent-waw2-1.cdninstagram.com/v/t51.2885-19/10598704_562350560578819_1280613151_a.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yMDAuYzIifQ&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=_LXVZvoUFvIQ7kNvwHrYdb4&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMONd2_H9J3rbp7SjEZfyzT-c37bB28eY3aC2igLfHKPA&oe=6AD3F4AE&_nc_sid=10d13b",
+     "timestamp": "2026-08-14T21:53:49.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "valeraroy",
+      "profile_pic_url": "https://scontent-waw2-1.cdninstagram.com/v/t51.2885-19/10598704_562350560578819_1280613151_a.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yMDAuYzIifQ&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=_LXVZvoUFvIQ7kNvwHrYdb4&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMONd2_H9J3rbp7SjEZfyzT-c37bB28eY3aC2igLfHKPA&oe=6AD3F4AE&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "2337771186",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18105351593133049",
+     "text": "Puede darme información sobre el plan de financiamiento",
+     "ownerUsername": "melissa.espinoza.988",
+     "ownerProfilePicUrl": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-19/558097453_18064268717594932_1340130625357794173_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NTQuYzIifQ&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=JYqy3wUOPOUQ7kNvwHGXlGU&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQODeVwbPWChM8RhZNVPoV_zvHQ529cE1_Usx_lTTSYssQ&oe=6AD40EF7&_nc_sid=10d13b",
+     "timestamp": "2026-08-14T16:46:55.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "melissa.espinoza.988",
+      "profile_pic_url": "https://scontent-waw2-1.cdninstagram.com/v/t51.82787-19/558097453_18064268717594932_1340130625357794173_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NTQuYzIifQ&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGws9xKOq0bPJiTAYzranXlH9MYVZjjsCQdhfAiTnJFuNxRTg3F7chXb1V6dnmlCcNOSjgSIRkszd9_U_Gzdo2s&_nc_ohc=JYqy3wUOPOUQ7kNvwHGXlGU&_nc_gid=Mns4Ho8xRT2vRlW9TTnSYw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQODeVwbPWChM8RhZNVPoV_zvHQ529cE1_Usx_lTTSYssQ&oe=6AD40EF7&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "47834514931",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    }
+   ],
+   "originalHeight": 1920,
+   "originalWidth": 1080,
+   "displayUrl": "https://scontent-ber1-1.cdninstagram.com/v/t51.82787-15/770329599_17963593578151252_6924801636768530962_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk2MzYzMTI5NzkyMDI4MTExOTE3OTYzNTkzNTc1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=CDpm7Tkanr8Q7kNvwGY1daT&_nc_oc=AdrkKqW5UPkhPYj3dcEBFEiC80dWrEHJl5Dx2rx9pyiwKqm23UenjSX8jKV1AUbJtbA&_nc_ad=z-m&_nc_cid=1365&_nc_zt=23&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_gid=FsugzMWRWa02XcVkpjrfwA&_nc_ss=7a22e&oh=00_AQNH1dAsqGl0htuisuAUK57hFImcmgDmZNJPqUTXADj-ew&oe=6AD40C64",
+   "audioUrl": "https://scontent-ber1-1.cdninstagram.com/o1/v/t2/f2/m78/AQOMZHHTfkoara5JVqjnyv99HK9T1a9AaT38KrFZ2zW_8T4DZnOLd8PVpLTWuwRkIcKvrdZ7v985xrnH0WaZkXmMfpvJLgfKNSXQik0.mp4?_nc_cat=109&_nc_sid=9ca052&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_ohc=-U_7-lL4JeoQ7kNvwHZfLZC&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2xuX2hlYWFjX3ZicjNfYXVkaW8iLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTgzMDEwMzU3NTA3MTQ4MywiYXNzZXRfYWdlX2RheXMiOjU5LCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6NDQsImJpdHJhdGUiOjYzMDg2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=FsugzMWRWa02XcVkpjrfwA&_nc_zt=28&_nc_ss=7a22e&oh=00_AQOhf6fazumIsZ0q0gtbjQ8j3ezCudRCMCeZiyM83rFvWw&oe=6AD000B2",
+   "alt": "Video by Automall Hyundai | Concesionario on August 14, 2026.",
+   "videoViewCount": null,
+   "childPosts": [],
+   "musicInfo": {
+    "artist_name": "automall.hyundai",
+    "song_name": "Original audio",
+    "uses_original_audio": true,
+    "should_mute_audio": false,
+    "should_mute_audio_reason": "",
+    "audio_id": "27768666836088397"
+   },
+   "isCommentsDisabled": false
+  },
+  {
+   "id": "3959952770534467704",
+   "type": "Video",
+   "shortCode": "Db0lBBnB-h4",
+   "caption": "HAY SUEÑOS QUE SE LUCHAN TANTO, QUE AL FINAL, TOCA LLORAR DE EMOCIÓN 🥹🤍 💎 ✨\n\nHay momentos en la vida que se sienten tan irreales, que lo único que sale del alma es un GRACIAS gigante al cielo y una lágrima de profunda gratitud. 🤍✨\n\nHoy mis manos están tocando las llaves de mi primera camioneta de concesionario 0KM , una meta que soñé durante tanto tiempo y que hoy, por fin, se materializa frente a mis ojos.\n\nEste logro representa cada madrugada en vela, cada sacrificio silencioso, las veces que el cansancio pesaba pero las ganas de salir adelante pesaban mucho más. Representa el fruto de un trabajo honesto, de ponerle el alma, el corazón y cada latido a lo que hago todos los días. 🥹💪🏻 \n\nMirar atrás y recordar los momentos difíciles, las dudas y las pruebas hace que este instante se sienta mil veces más dulce. Este logro no es solo mío. Lleva el abrazo invisible de quienes me sostienen cuando las fuerzas flaquean, de los míos que son mi refugio, y de ustedes, que están ahí sumándose a cada alegría de este camino.\n\nSi hoy estás leyendo esto y tienes el alma cargada de metas que parecen lejanas, te lo digo desde lo más profundo de mi corazón ♥️ : NO TE DETENGAS . Sigue trabajando en silencio, abraza tus procesos difíciles y confía en tu fuerza interior. La vida siempre premia la constancia y las almas que ponen el corazón entero en lo que hacen. 🌟\n\nLos niñitos pensaban que íbamos grabar un video de @automall.hyundai y en plena entrega les dijimos que era nuestra 🥹, ellos anhelaban tanto esto♥️🥹que ver sus caritas fue 😍demasiado para mí! \n\nGracias @nellylopezve por toda tu asesoría desde el día UNO 1️⃣, ella nos mostró varios opciones y en relación valor, confort y estética decidimos que la HYUNDAI CRETA @hyundaivzla @hyundai era la mejor opción para nosotros! \n\nGracias a todo el grupo @automall.hyundai por hacer esta entrega de manera tan especial, el brindis 🥂, los 🎉 confeties y las palabras tan amenas que nos dieron al momento de la entrega de las llaves 🔑! \n\nGracias mi @vale_lilolu por tu dedicación en cada videoclip 😍♥️! \n\n¡Gracias, Dios, Gracias Virgencita sin ustedes esto NO sería posible ! ¡Vamos por más! 💨🥂!\n\n#hyundai",
+   "hashtags": [
+    "hyundai"
+   ],
+   "mentions": [
+    "automall.hyundai",
+    "nellylopezve",
+    "hyundaivzla",
+    "hyundai",
+    "vale_lilolu"
+   ],
+   "url": "https://www.instagram.com/p/Db0lBBnB-h4/",
+   "commentsCount": 167,
+   "dimensionsHeight": 2160,
+   "dimensionsWidth": 1215,
+   "images": [
+    "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/768577354_18134995420721010_7415585297076153322_n.jpg?stp=dst-jpg_e35_p828x828_sh2.08_tt6&_nc_cat=100&ig_cache_key=Mzk1OTk1Mjc3MDUzNDQ2NzcwNDE4MTM0OTk1NDE0NzIxMDEw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=MrricDkQLz8Q7kNvwEgWR6V&_nc_oc=AdptfoZzcmcdEY9EtfgZUukPSY_cUmFnPa7QtjmprBtMYS2w8NwzV4XH6s0ZJrndHxIV7CY2gNoI97Jk6ehIYAw2&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=5Ym4VFbcZ_wiwjIjXV9WEg&_nc_ss=7a3ba&oh=00_AQN7JVwQgKfSJkkMhyHIonwmnZuDtV6ZW8SNyrP9WVsQqQ&oe=6AD41591",
+    "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/768577354_18134995420721010_7415585297076153322_n.jpg?stp=dst-jpg_e15_p320x320_tt6&_nc_cat=100&ig_cache_key=Mzk1OTk1Mjc3MDUzNDQ2NzcwNDE4MTM0OTk1NDE0NzIxMDEw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=MrricDkQLz8Q7kNvwEgWR6V&_nc_oc=AdptfoZzcmcdEY9EtfgZUukPSY_cUmFnPa7QtjmprBtMYS2w8NwzV4XH6s0ZJrndHxIV7CY2gNoI97Jk6ehIYAw2&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=5Ym4VFbcZ_wiwjIjXV9WEg&_nc_ss=7a3ba&oh=00_AQMWAoXSTQtkLmIRilMcVUsBqiQQYHcV2u7YKzEYQT7aMQ&oe=6AD41591"
+   ],
+   "videoUrl": "https://scontent-mrs2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOiFWEJJxmTTgD2NFs0MY8QJyAmZCthlirgqRAHVNfk8KcV3ouFtli24lMsGmTar7Zm7YbcVS6NcDPg07A6CffzFAjZAGLwyXKtgrI.mp4?_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-mrs2-1.cdninstagram.com&_nc_ohc=BODNorTrRFMQ7kNvwGIDqy5&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E5MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMDk4NDg2OTA3NDA1ODY2LCJhc3NldF9hZ2VfZGF5cyI6NjUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0MywiYml0cmF0ZSI6MjU1MDM2NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=9nQ7jwpdsapDa6oMRz3Njg&_nc_ss=7a22e&_nc_zt=28&oh=00_AQOmOiPzZL8nbEDk3gw_GMj9lyn2A7CSud98SR-Q5-neFQ&oe=6AD40FB6",
+   "likesCount": 1300,
+   "videoPlayCount": 54414,
+   "timestamp": "2026-08-09T13:59:40.000Z",
+   "ownerFullName": "Andrea Salas | Catering | Desayunos| Aperitivos",
+   "ownerUsername": "aperitif_gurme",
+   "ownerId": "21640129009",
+   "isPinned": false,
+   "productType": "clips",
+   "videoDuration": 43.373425,
+   "paidPartnership": false,
+   "inputUrl": "https://www.instagram.com/automall.hyundai",
+   "firstComment": "❤️❤️❤️🤗",
+   "latestComments": [
+    {
+     "id": "17958028461232518",
+     "text": "❤️❤️❤️🤗",
+     "ownerUsername": "ericksolert",
+     "ownerProfilePicUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.2885-19/505198844_18505595704004056_1599885123857044301_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NDkuYzIifQ&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=BuHi74DaaewQ7kNvwF9ZfFq&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQODmX8UWa4UuX4XjzwfG6S1XY1ieX7Ann66iIBGCRxoDA&oe=6AD3F8C6&_nc_sid=10d13b",
+     "timestamp": "2026-09-19T21:44:16.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "ericksolert",
+      "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.2885-19/505198844_18505595704004056_1599885123857044301_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NDkuYzIifQ&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=BuHi74DaaewQ7kNvwF9ZfFq&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQODmX8UWa4UuX4XjzwfG6S1XY1ieX7Ann66iIBGCRxoDA&oe=6AD3F8C6&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "266948055",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18105378383595121",
+     "text": "Presupuesto del más económico por favor?",
+     "ownerUsername": "mariangelik_30",
+     "ownerProfilePicUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.2885-19/467409867_741620618185053_3377351660479788979_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MTIuYzIifQ&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=qpCpBuq4IzMQ7kNvwEyzruB&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMcpLsu3H-YeQJAYoPxL6f1Hj2Qxvdla1XWbMHFwGQN1g&oe=6AD3F083&_nc_sid=10d13b",
+     "timestamp": "2026-08-13T13:51:29.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "mariangelik_30",
+      "profile_pic_url": "https://scontent-cdg4-2.cdninstagram.com/v/t51.2885-19/467409867_741620618185053_3377351660479788979_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MTIuYzIifQ&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=qpCpBuq4IzMQ7kNvwEyzruB&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMcpLsu3H-YeQJAYoPxL6f1Hj2Qxvdla1XWbMHFwGQN1g&oe=6AD3F083&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "4984120573",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18108730508043812",
+     "text": "Esa es la creta",
+     "ownerUsername": "linaloraso",
+     "ownerProfilePicUrl": "https://instagram.fuab1-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fuab1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gGHNC-5RXX3sJIlICEUOBTTHqp9mJittOv6EI9x0JJt7cUQhSArH8fxxpUZz_Zut9E&_nc_ohc=6tMhbzsXag0Q7kNvwEbytiV&_nc_gid=25aNbovOaa5LXYc5ATQ02A&edm=AFFDd_gBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQMa-4ct52_QFD-84quU4YQ-vjG4rZ3dtUIKYfwedkZ8rw&oe=6AD4106A&_nc_sid=421beb",
+     "timestamp": "2026-08-13T01:30:56.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "linaloraso",
+      "profile_pic_url": "https://instagram.fuab1-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fuab1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gGHNC-5RXX3sJIlICEUOBTTHqp9mJittOv6EI9x0JJt7cUQhSArH8fxxpUZz_Zut9E&_nc_ohc=6tMhbzsXag0Q7kNvwEbytiV&_nc_gid=25aNbovOaa5LXYc5ATQ02A&edm=AFFDd_gBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQMa-4ct52_QFD-84quU4YQ-vjG4rZ3dtUIKYfwedkZ8rw&oe=6AD4106A&_nc_sid=421beb",
+      "is_verified": false,
+      "id": "4792259746",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18137865262598203",
+     "text": "Me encanta que precio tiene",
+     "ownerUsername": "linaloraso",
+     "ownerProfilePicUrl": "https://instagram.fuab1-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fuab1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gGHNC-5RXX3sJIlICEUOBTTHqp9mJittOv6EI9x0JJt7cUQhSArH8fxxpUZz_Zut9E&_nc_ohc=6tMhbzsXag0Q7kNvwEbytiV&_nc_gid=25aNbovOaa5LXYc5ATQ02A&edm=AFFDd_gBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQMa-4ct52_QFD-84quU4YQ-vjG4rZ3dtUIKYfwedkZ8rw&oe=6AD4106A&_nc_sid=421beb",
+     "timestamp": "2026-08-13T01:28:13.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "linaloraso",
+      "profile_pic_url": "https://instagram.fuab1-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fuab1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gGHNC-5RXX3sJIlICEUOBTTHqp9mJittOv6EI9x0JJt7cUQhSArH8fxxpUZz_Zut9E&_nc_ohc=6tMhbzsXag0Q7kNvwEbytiV&_nc_gid=25aNbovOaa5LXYc5ATQ02A&edm=AFFDd_gBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQMa-4ct52_QFD-84quU4YQ-vjG4rZ3dtUIKYfwedkZ8rw&oe=6AD4106A&_nc_sid=421beb",
+      "is_verified": false,
+      "id": "4792259746",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18118847270478693",
+     "text": "@hyundaivzla sigo esperando por repuestos para un Grand I10 Sedan 2026: \nParachoques trasero\n y maleta.\n9 MESES DE ESPERA\n@garciatunon.hyundai dice que Uds. NO le dan respuesta\nlo peor del caso es que nadie en @hyundaivzla contesta. Siempre es un bot con respuestas automaticas. Debo decir que el SERVUCIO POSTVENTA deja MUCHO que desear",
+     "ownerUsername": "ahorramasymejor",
+     "ownerProfilePicUrl": "https://scontent-cdg4-3.cdninstagram.com/v/t51.82787-19/532766936_18079430332949507_1101121188611420111_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=EX0VROYFFDkQ7kNvwF0gCpq&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQP3UYGIfTLS76SN3M8CZbtfyeVC89e7pI47fduTT8J7XQ&oe=6AD42122&_nc_sid=10d13b",
+     "timestamp": "2026-08-11T12:09:47.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "ahorramasymejor",
+      "profile_pic_url": "https://scontent-cdg4-3.cdninstagram.com/v/t51.82787-19/532766936_18079430332949507_1101121188611420111_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=EX0VROYFFDkQ7kNvwF0gCpq&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQP3UYGIfTLS76SN3M8CZbtfyeVC89e7pI47fduTT8J7XQ&oe=6AD42122&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "28492733506",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18103161073925537",
+     "text": "SIIIII, MANIFESTANDO SER PARTE DE LA FAMILIA HYUNDAI DECRETADO😍👏🙌❤️",
+     "ownerUsername": "victoriamarinny",
+     "ownerProfilePicUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/711729546_18395084914085534_6800551424521149884_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=rUpjbL1ui3oQ7kNvwH3enVj&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNDBLKGI96Tbr9lJRrkJckPSnH-IUVDxOsY1jwHLohxfA&oe=6AD40938&_nc_sid=10d13b",
+     "timestamp": "2026-08-11T00:43:30.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "victoriamarinny",
+      "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/711729546_18395084914085534_6800551424521149884_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=rUpjbL1ui3oQ7kNvwH3enVj&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNDBLKGI96Tbr9lJRrkJckPSnH-IUVDxOsY1jwHLohxfA&oe=6AD40938&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "2480685533",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "17960150592188106",
+     "text": "❤️❤️❤️",
+     "ownerUsername": "piesgorditos",
+     "ownerProfilePicUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-19/786837848_18619594948030371_8686906639989820317_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=pWEM02iO14IQ7kNvwFh97kW&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNKDFxL1oD6kilkWp5D11cwM_auVjiG7ZkZGYie_Pcgwg&oe=6AD413E6&_nc_sid=10d13b",
+     "timestamp": "2026-08-10T20:17:02.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "piesgorditos",
+      "profile_pic_url": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-19/786837848_18619594948030371_8686906639989820317_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=pWEM02iO14IQ7kNvwFh97kW&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNKDFxL1oD6kilkWp5D11cwM_auVjiG7ZkZGYie_Pcgwg&oe=6AD413E6&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "1026654370",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18026700029902739",
+     "text": "❤️",
+     "ownerUsername": "sugeidyquinlan",
+     "ownerProfilePicUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.2885-19/412640598_282121674834441_2252809061075898909_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=u_0gxnl_44cQ7kNvwH0HI-t&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNEmxFMDgjtZ_EX9rQwKvQoWDSskigEedAUN_a_mUJbLA&oe=6AD3FE00&_nc_sid=10d13b",
+     "timestamp": "2026-08-10T17:04:50.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "sugeidyquinlan",
+      "profile_pic_url": "https://scontent-cdg4-2.cdninstagram.com/v/t51.2885-19/412640598_282121674834441_2252809061075898909_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=u_0gxnl_44cQ7kNvwH0HI-t&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNEmxFMDgjtZ_EX9rQwKvQoWDSskigEedAUN_a_mUJbLA&oe=6AD3FE00&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "37067119419",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18123222790835795",
+     "text": "🔥😍😍😍 con todo y q se vengan mas sueños por cumplir",
+     "ownerUsername": "elishiberrios",
+     "ownerProfilePicUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-19/767560481_18607399741043369_2037490321976721329_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=tmGmwo4JB9QQ7kNvwHXQAOP&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQN5WPdi4pmPBD5eFrlgdSiBLSyA1AbUcjFC7hxx30eEBA&oe=6AD41D32&_nc_sid=10d13b",
+     "timestamp": "2026-08-10T15:25:22.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "elishiberrios",
+      "profile_pic_url": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-19/767560481_18607399741043369_2037490321976721329_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=tmGmwo4JB9QQ7kNvwHXQAOP&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQN5WPdi4pmPBD5eFrlgdSiBLSyA1AbUcjFC7hxx30eEBA&oe=6AD41D32&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "289899368",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18149188279525241",
+     "text": "Felicidades",
+     "ownerUsername": "mariaelisavillasmiltl",
+     "ownerProfilePicUrl": "https://scontent-cdg4-3.cdninstagram.com/v/t51.2885-19/159045997_185400913351702_8349583631035223000_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=3ImpkCrEoEIQ7kNvwExERAj&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMeqKeUX7pyMk9yg-j_IS5E5ZKtVMR3O1K0rlIJS7brZg&oe=6AD3FA61&_nc_sid=10d13b",
+     "timestamp": "2026-08-10T13:20:56.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "mariaelisavillasmiltl",
+      "profile_pic_url": "https://scontent-cdg4-3.cdninstagram.com/v/t51.2885-19/159045997_185400913351702_8349583631035223000_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=3ImpkCrEoEIQ7kNvwExERAj&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMeqKeUX7pyMk9yg-j_IS5E5ZKtVMR3O1K0rlIJS7brZg&oe=6AD3FA61&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "1154319671",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18089357540207653",
+     "text": "👏👏👏👏👏😍😍😍😍",
+     "ownerUsername": "marygonzalezduhh",
+     "ownerProfilePicUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-19/702163532_18013146383900430_5824408255453328679_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=9AM9ICy246UQ7kNvwGvPeC3&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNSGZu6yMNxybikkJF__c2x6w-PWi8b8GDMI8ljxOihbQ&oe=6AD3F527&_nc_sid=10d13b",
+     "timestamp": "2026-08-10T12:59:52.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "marygonzalezduhh",
+      "profile_pic_url": "https://scontent-cdg6-1.cdninstagram.com/v/t51.82787-19/702163532_18013146383900430_5824408255453328679_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=9AM9ICy246UQ7kNvwGvPeC3&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNSGZu6yMNxybikkJF__c2x6w-PWi8b8GDMI8ljxOihbQ&oe=6AD3F527&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "57048892429",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "17896367319592493",
+     "text": "¡Bienvenida a la familia! 🙌💙",
+     "ownerUsername": "automall.hyundai",
+     "ownerProfilePicUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/655176750_17941582824151252_5637268693185119770_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=nq3CAFVsGPIQ7kNvwFVWJy0&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPWvIpPO6LgaSJW-lIrAO9UDjGvYzFiSbpFA58uC2LIxw&oe=6AD41D45&_nc_sid=10d13b",
+     "timestamp": "2026-08-10T12:00:36.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "automall.hyundai",
+      "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/655176750_17941582824151252_5637268693185119770_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=nq3CAFVsGPIQ7kNvwFVWJy0&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPWvIpPO6LgaSJW-lIrAO9UDjGvYzFiSbpFA58uC2LIxw&oe=6AD41D45&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "64435199251",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "17883654537468556",
+     "text": "Algún día 😍",
+     "ownerUsername": "scarletyfabian",
+     "ownerProfilePicUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.2885-19/277455941_671922270678499_1723707972100073329_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=13nPaKJFgNEQ7kNvwEz8ohn&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPv5hAhBho2uQNyt0I9759R5fbnEfwUvkyVSSA25wkpSQ&oe=6AD41C43&_nc_sid=10d13b",
+     "timestamp": "2026-08-10T03:52:49.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "scarletyfabian",
+      "profile_pic_url": "https://scontent-cdg4-2.cdninstagram.com/v/t51.2885-19/277455941_671922270678499_1723707972100073329_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=13nPaKJFgNEQ7kNvwEz8ohn&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPv5hAhBho2uQNyt0I9759R5fbnEfwUvkyVSSA25wkpSQ&oe=6AD41C43&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "5715945913",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18035347178832001",
+     "text": "😍😍😍😍😍",
+     "ownerUsername": "juliourribarri",
+     "ownerProfilePicUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.2885-19/461756939_1274861633944887_4735702491765530980_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=ZlA3F7dkrC4Q7kNvwFWjrmY&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOSnC0CPKCQKDfCU1NkHJ90o46qlN2FG6IdJlhJV6avjA&oe=6AD3F8BA&_nc_sid=10d13b",
+     "timestamp": "2026-08-10T03:13:15.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "juliourribarri",
+      "profile_pic_url": "https://scontent-cdg6-1.cdninstagram.com/v/t51.2885-19/461756939_1274861633944887_4735702491765530980_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=ZlA3F7dkrC4Q7kNvwFWjrmY&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOSnC0CPKCQKDfCU1NkHJ90o46qlN2FG6IdJlhJV6avjA&oe=6AD3F8BA&_nc_sid=10d13b",
+      "is_verified": true,
+      "id": "454059507",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18140339542566800",
+     "text": "👏👏felicidades",
+     "ownerUsername": "lvegasdesign",
+     "ownerProfilePicUrl": "https://scontent-cdg6-1.cdninstagram.com/v/t51.2885-19/472648678_1996045357544693_5176658530117834287_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=l-_xtn5Tf00Q7kNvwETG8mQ&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOAIUuZZShQqumN-5C65xBqLl6WgjScfWsZnwWUN0Hfkw&oe=6AD40F3D&_nc_sid=10d13b",
+     "timestamp": "2026-08-10T01:43:09.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 0,
+     "owner": {
+      "username": "lvegasdesign",
+      "profile_pic_url": "https://scontent-cdg6-1.cdninstagram.com/v/t51.2885-19/472648678_1996045357544693_5176658530117834287_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGBZDuU1G4fK4UfqHTjlEII8aptAKCoPyda9182Xrg40ZgVxqbgwj4mvlSzHBMDI0U&_nc_ohc=l-_xtn5Tf00Q7kNvwETG8mQ&_nc_gid=dYcVxJ07EU-5nkpQvfF4DQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOAIUuZZShQqumN-5C65xBqLl6WgjScfWsZnwWUN0Hfkw&oe=6AD40F3D&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "1400763704",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    }
+   ],
+   "originalHeight": 1920,
+   "originalWidth": 1080,
+   "displayUrl": "https://scontent-mrs2-1.cdninstagram.com/v/t51.82787-15/768577354_18134995420721010_7415585297076153322_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk1OTk1Mjc3MDUzNDQ2NzcwNDE4MTM0OTk1NDE0NzIxMDEw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=MrricDkQLz8Q7kNvwHWan1F&_nc_oc=AdqAXFTkzO5OreIdf8oOsXE7Fze5MhGp0O-se_rCCr8xeYQJexKLovzOcx6-0C1vmmM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mrs2-1.cdninstagram.com&_nc_gid=9nQ7jwpdsapDa6oMRz3Njg&_nc_ss=7a22e&oh=00_AQOA4hvUWDzutvoOLPq4Ke0xcdr0ZREt8jA3HgZldFzFLg&oe=6AD41591",
+   "audioUrl": "https://scontent-mrs2-3.cdninstagram.com/o1/v/t2/f2/m78/AQNyYBmUDybyMdnoCWw5_Zr19ZSQpxj3OJhMDKkI_2TR-oK3cpqyX0GwRhFyZHTDmc9ukb5iCBNK82AxlvBnUuAcgp2G792fkhyaa_I.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-mrs2-3.cdninstagram.com&_nc_ohc=Ppj1VHAX7LIQ7kNvwGbL7wh&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMDk4NDg2OTA3NDA1ODY2LCJhc3NldF9hZ2VfZGF5cyI6NjUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0MywiYml0cmF0ZSI6NjM2MDgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=9nQ7jwpdsapDa6oMRz3Njg&_nc_ss=7a22e&_nc_zt=28&oh=00_AQPfNZ4EzcOmtXGpMGD3QFi3euHfC7faaGylJ8y1vvRR9g&oe=6AD02DAC",
+   "alt": "Video by Andrea Salas | Catering | Desayunos| Aperitivos on August 09, 2026.",
+   "videoViewCount": null,
+   "childPosts": [],
+   "taggedUsers": [
+    {
+     "full_name": "Hyundai Worldwide",
+     "username": "hyundai",
+     "profile_pic_url": "https://scontent-mrs2-3.cdninstagram.com/v/t51.2885-19/363517681_1364629721103863_3819510592749781789_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mrs2-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gECe1lmshZaO0ZHye5flfomf460aSyDYo-y1ogqPsAvEuracSuDT7alRDIezZMFbAE&_nc_ohc=6iqOz3LeAakQ7kNvwGQZ4K0&_nc_gid=9nQ7jwpdsapDa6oMRz3Njg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNTZ0PRNguPzM9f-IiU5AyqfZfrj14wi3GWEFbkoPbLdg&oe=6AD40355&_nc_sid=10d13b",
+     "is_verified": true,
+     "id": "50282608"
+    },
+    {
+     "full_name": "Nelly Lopez",
+     "username": "nellylopezve",
+     "profile_pic_url": "https://scontent-mrs2-3.cdninstagram.com/v/t51.82787-19/649851152_18581665504002635_875958036394837752_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mrs2-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gECe1lmshZaO0ZHye5flfomf460aSyDYo-y1ogqPsAvEuracSuDT7alRDIezZMFbAE&_nc_ohc=b8ukWH9uRpUQ7kNvwHkfbAi&_nc_gid=9nQ7jwpdsapDa6oMRz3Njg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO2NGebglJfmljUwsv1JBAiHuCScviNIXaV_BnU50soBA&oe=6AD3F291&_nc_sid=10d13b",
+     "is_verified": false,
+     "id": "475906634"
+    },
+    {
+     "full_name": "Hyundai Venezuela",
+     "username": "hyundaivzla",
+     "profile_pic_url": "https://scontent-mrs2-2.cdninstagram.com/v/t51.2885-19/275562195_151628380575553_2515877373191180629_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MTEuYzIifQ&_nc_ht=scontent-mrs2-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gECe1lmshZaO0ZHye5flfomf460aSyDYo-y1ogqPsAvEuracSuDT7alRDIezZMFbAE&_nc_ohc=o1zjcb5ChOYQ7kNvwFRg_dK&_nc_gid=9nQ7jwpdsapDa6oMRz3Njg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOxTgZQoel6qm6zZWHMRdXs7M4VDOyCvwQYgJhL5vMLLA&oe=6AD42175&_nc_sid=10d13b",
+     "is_verified": false,
+     "id": "6725533378"
+    },
+    {
+     "full_name": "Automall Hyundai | Concesionario",
+     "username": "automall.hyundai",
+     "profile_pic_url": "https://scontent-mrs2-3.cdninstagram.com/v/t51.82787-19/655176750_17941582824151252_5637268693185119770_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mrs2-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gECe1lmshZaO0ZHye5flfomf460aSyDYo-y1ogqPsAvEuracSuDT7alRDIezZMFbAE&_nc_ohc=nq3CAFVsGPIQ7kNvwE7VbYq&_nc_gid=9nQ7jwpdsapDa6oMRz3Njg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNt7CwHkUkcJdUUCkpZUUIn1cS7w0_oyt9ej1i-BO9CKA&oe=6AD41D45&_nc_sid=10d13b",
+     "is_verified": false,
+     "id": "64435199251"
+    }
+   ],
+   "coauthorProducers": [
+    {
+     "profile_pic_url": "https://scontent-mrs2-2.cdninstagram.com/v/t51.2885-19/275562195_151628380575553_2515877373191180629_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MTEuYzIifQ&_nc_ht=scontent-mrs2-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gECe1lmshZaO0ZHye5flfomf460aSyDYo-y1ogqPsAvEuracSuDT7alRDIezZMFbAE&_nc_ohc=o1zjcb5ChOYQ7kNvwFRg_dK&_nc_gid=9nQ7jwpdsapDa6oMRz3Njg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOxTgZQoel6qm6zZWHMRdXs7M4VDOyCvwQYgJhL5vMLLA&oe=6AD42175&_nc_sid=10d13b",
+     "is_unpublished": false,
+     "username": "hyundaivzla",
+     "is_verified": false,
+     "full_name": "Hyundai Venezuela",
+     "id": "6725533378",
+     "__typename": "User"
+    },
+    {
+     "profile_pic_url": "https://scontent-mrs2-3.cdninstagram.com/v/t51.82787-19/655176750_17941582824151252_5637268693185119770_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mrs2-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gECe1lmshZaO0ZHye5flfomf460aSyDYo-y1ogqPsAvEuracSuDT7alRDIezZMFbAE&_nc_ohc=nq3CAFVsGPIQ7kNvwE7VbYq&_nc_gid=9nQ7jwpdsapDa6oMRz3Njg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNt7CwHkUkcJdUUCkpZUUIn1cS7w0_oyt9ej1i-BO9CKA&oe=6AD41D45&_nc_sid=10d13b",
+     "is_unpublished": false,
+     "username": "automall.hyundai",
+     "is_verified": false,
+     "full_name": "Automall Hyundai | Concesionario",
+     "id": "64435199251",
+     "__typename": "User"
+    }
+   ],
+   "musicInfo": {
+    "artist_name": "aperitif_gurme",
+    "song_name": "Original audio",
+    "uses_original_audio": true,
+    "should_mute_audio": false,
+    "should_mute_audio_reason": "",
+    "audio_id": "28023853400583237"
+   },
+   "isCommentsDisabled": false
+  },
+  {
+   "id": "3986839492897712290",
+   "type": "Video",
+   "shortCode": "DdUGWVGqqii",
+   "caption": "Venezolano que se respeta, cuando tiene algo entre ceja y ceja, lo cumple. 🎯\n\nPor esa misma determinación, el Hyundai Accent ha acompañado a tantas generaciones. Lo ves y sabes lo que representa 🚙✨\n\n¿Quieres conocer la generación actual?\n💬 Comenta “ACCENT” y te enviamos toda la información y planes de financiamiento. 📩",
+   "hashtags": [],
+   "mentions": [],
+   "url": "https://www.instagram.com/p/DdUGWVGqqii/",
+   "commentsCount": 0,
+   "dimensionsHeight": 2096,
+   "dimensionsWidth": 1179,
+   "images": [
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/811405241_17968358475151252_6558169439692676649_n.jpg?stp=dst-jpg_e35_p828x828_sh2.08_tt6&_nc_cat=107&ig_cache_key=Mzk4NjgzOTQ5Mjg5NzcxMjI5MDE3OTY4MzU4NDcyMTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=_efYutQfRdoQ7kNvwFt2t0Y&_nc_oc=AdqkI5w9FwS47bp7stgEs6gbYJr5Afv5NxtvujQGM8x-ZoTydJEasvYMz4sC6hAmQ34&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQMGGIhx7r285use1IrMAyFxYQaCslTGDfEGiFHY0KljQQ&oe=6AD3F4BE",
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/811405241_17968358475151252_6558169439692676649_n.jpg?stp=dst-jpg_e15_p320x320_tt6&_nc_cat=107&ig_cache_key=Mzk4NjgzOTQ5Mjg5NzcxMjI5MDE3OTY4MzU4NDcyMTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=_efYutQfRdoQ7kNvwFt2t0Y&_nc_oc=AdqkI5w9FwS47bp7stgEs6gbYJr5Afv5NxtvujQGM8x-ZoTydJEasvYMz4sC6hAmQ34&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQNX_4UasvxFU8MMSZd7GmnoiQKJdV0Xg2xdUlih-MUYsQ&oe=6AD3F4BE"
+   ],
+   "videoUrl": "https://instagram.flil1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQN-_7wSkQEJRDtsO9rm7apOsqkWZZaDVSSfFpgu2x1YMFXTpfCSkmGadnyOZfP6z3BVJVnJ7vU5RCeyItaBJCfhqs2E8ivL27sD9Bg.mp4?_nc_cat=103&_nc_oc=Adq1l5_EOvep2xQfeLFnM5GqNIsBsMplgTlcZYC-oQ5tPt_bUOE6OC5NVpL55GWWVWI&_nc_sid=5e9851&_nc_ht=instagram.flil1-1.fna.fbcdn.net&_nc_ohc=Cm1UqvFd6rgQ7kNvwFGmxTS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA1NzM4OTg4MDM5NTUwNSwiYXNzZXRfYWdlX2RheXMiOjI3LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=18987fbadcf32959&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xNjRFOUNFNDEwOThFOTVBMTI5MTZCQ0JEMDU4OUVBMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0RCNDNBNjI0OTQyRDVGRTg3QzhCNzFBRkUwQ0U0NTlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbim67DmOzgAxUCKAJDMywXQDgIcrAgxJwYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=KzP8xtj0gBsxnmpIos3a-g&_nc_ss=70a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQPMbHtXRjLqJI1LdTeovW-VDfnr42e14cBh3O7MX5QbAA&oe=6AD006C4",
+   "likesCount": 2,
+   "videoPlayCount": 230,
+   "timestamp": "2026-09-15T16:08:24.000Z",
+   "ownerFullName": "Automall Hyundai | Concesionario",
+   "ownerUsername": "automall.hyundai",
+   "ownerId": "64435199251",
+   "isPinned": false,
+   "productType": "clips",
+   "videoDuration": 24.033333,
+   "paidPartnership": false,
+   "inputUrl": "https://www.instagram.com/automall.hyundai",
+   "firstComment": "",
+   "latestComments": [],
+   "originalHeight": 1920,
+   "originalWidth": 1080,
+   "displayUrl": "https://instagram.flil1-1.fna.fbcdn.net/v/t51.82787-15/811405241_17968358475151252_6558169439692676649_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4NjgzOTQ5Mjg5NzcxMjI5MDE3OTY4MzU4NDcyMTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjExNzkuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=_efYutQfRdoQ7kNvwF-i5Sv&_nc_oc=Adp7s4AOxWA6X23MGdEjyldQINYrgC_CFkSA_I3zkGMlJosIe6ByW7WVo-6flH0NLfA&_nc_zt=23&_nc_ht=instagram.flil1-1.fna&_nc_gid=KzP8xtj0gBsxnmpIos3a-g&_nc_ss=70a8c&oh=00_AQO1xbJXtU8wweK4z01mqQlNjA0axShFVPNfO6hPnhvPyQ&oe=6AD3F4BE",
+   "audioUrl": "https://instagram.flil1-1.fna.fbcdn.net/o1/v/t2/f2/m78/AQMpHv8Q0uAS9_I5gXWpJl330IJ0MTPKavp6QU9bW-zWMHU0Ibez8rBNrpZk0z963HTewh07f8TvazA_G_Jj9Xb9tkjmRXF50O4q37M.mp4?_nc_cat=109&_nc_oc=AdrJT6g7P0CuOw6yNXots7Zl8aQVhig-JyuHaQxrUeDMHxFzc1-rD8mAsGZruAOrHNI&_nc_sid=9ca052&_nc_ht=instagram.flil1-1.fna.fbcdn.net&_nc_ohc=5mDPpoRgxPYQ7kNvwEdU3q8&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmlnd3d3LUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMDU3Mzg5ODgwMzk1NTA1LCJhc3NldF9hZ2VfZGF5cyI6MjcsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyNCwiYml0cmF0ZSI6ODg1NjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=KzP8xtj0gBsxnmpIos3a-g&_nc_ss=70a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQMNj6apdBoUvgJtFPC7dEOQgmMtE-QvVAyaRu6QHteuww&oe=6AD0134A",
+   "alt": "Video by Automall Hyundai | Concesionario on September 15, 2026. May be an image of car, poster, windshield, outdoors and text that says 'CUANDO LAS SEÑALES SON CLARAS...'.",
+   "childPosts": [],
+   "musicInfo": {
+    "artist_name": "automall.hyundai",
+    "song_name": "Original audio",
+    "uses_original_audio": true,
+    "should_mute_audio": false,
+    "should_mute_audio_reason": "",
+    "audio_id": "28566841389618370"
+   },
+   "isCommentsDisabled": false
+  },
+  {
+   "id": "3989645747942240803",
+   "type": "Video",
+   "shortCode": "DdeEatxvrIj",
+   "caption": "Tu tranquilidad y satisfacción son nuestra prioridad. 🤝 En Auto Mall Hyundai cuidamos cada detalle: desde la revisión técnica completa de tu nuevo vehículo hasta la entrega formal con toda su documentación.\nHoy despedimos a esta hermosa Hyundai Tucson lista para rodar por las calles. ¿Qué esperas para ser el próximo en alzar la copa y celebrar tu nuevo 0km con nosotros? 🍾🎉\n\n📍 Te esperamos en la Av. Padilla, diagonal a Makro Redvital.\n\n#AutomallHyundai #Tucson #ExperienciaAutoMall #Concesionario #CarrosNuevos",
+   "hashtags": [
+    "AutomallHyundai",
+    "Tucson",
+    "ExperienciaAutoMall",
+    "Concesionario",
+    "CarrosNuevos"
+   ],
+   "mentions": [],
+   "url": "https://www.instagram.com/p/DdeEatxvrIj/",
+   "commentsCount": 2,
+   "dimensionsHeight": 1280,
+   "dimensionsWidth": 720,
+   "images": [
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/811616683_17968382337151252_3948972348393629883_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk4OTY0NTc0Nzk0MjI0MDgwMzE3OTY4MzgyMzM0MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=eJYfTi-WlG8Q7kNvwHhc6rk&_nc_oc=AdrptcX9DF_txsfxqaOf3ECzwXsoogeMlGpxORttGH-VgWL5s9WmZVG4LL_5tcjVzu4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQMGl99waO_NS8KHV9IgJamhi-jn1sPsxaiKVwQS3g9C7Q&oe=6AD3F35D",
+    "https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/811616683_17968382337151252_3948972348393629883_n.jpg?stp=dst-jpg_e15_p320x320_tt6&_nc_cat=103&ig_cache_key=Mzk4OTY0NTc0Nzk0MjI0MDgwMzE3OTY4MzgyMzM0MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=eJYfTi-WlG8Q7kNvwHhc6rk&_nc_oc=AdrptcX9DF_txsfxqaOf3ECzwXsoogeMlGpxORttGH-VgWL5s9WmZVG4LL_5tcjVzu4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_gid=ZB12tMew1nMHI9rU9z29HQ&_nc_ss=7a3ba&oh=00_AQMXbtMZSAhbc6TAE6orLCXRa7kG0syjBRYI92KHXxQdCQ&oe=6AD3F35D"
+   ],
+   "videoUrl": "https://scontent-waw2-1.cdninstagram.com/o1/v/t2/f2/m86/AQNwVr0_OMFErs1nG28dCLxM1RB6BvD8bpMNQnH-GEy38otGQNZYFmb5_cPMYJD2dRHARs3nucTvR003If-eF86Vwh-79XAnA4tMIrg.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_ohc=T4Xy7Y0HkN0Q7kNvwGmmLvt&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6NDUyOTA0NTA0NDA4MTU0NiwiYXNzZXRfYWdlX2RheXMiOjI3LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4d9b85dac878cda9&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85NzQ4QTIyRjI1RjkxMkI0NDU4ODYwMUNENUMwNjRBMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0I2NDA1NjA1MjlERjA4MkZGRUEwMjMxODA4MTU5RUJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUzrGQj8mLEBUCKAJDMywXQEBZmZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Yz5kAHvcCRi5jy51wGCjPQ&_nc_ss=70689&_nc_zt=28&oh=00_AQNMNVKcxItMr1TiAQem3Im3-onNDqv023sA-wjTd0W-Ew&oe=6AD02D80",
+   "likesCount": 13,
+   "videoPlayCount": 617,
+   "timestamp": "2026-09-19T13:00:15.000Z",
+   "ownerFullName": "Automall Hyundai | Concesionario",
+   "ownerUsername": "automall.hyundai",
+   "ownerId": "64435199251",
+   "isPinned": false,
+   "productType": "clips",
+   "videoDuration": 32.715466,
+   "paidPartnership": false,
+   "inputUrl": "https://www.instagram.com/automall.hyundai",
+   "firstComment": "Excelente servicio 👏",
+   "latestComments": [
+    {
+     "id": "18112444226125878",
+     "text": "Excelente servicio 👏",
+     "ownerUsername": "mariangelarocio",
+     "ownerProfilePicUrl": "https://scontent-ber1-1.cdninstagram.com/v/t51.2885-19/491444633_666803112716155_3667951137881842660_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43OTQuYzIifQ&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHAnVCXmjwqbiQbE_tGF_rcTJDvT89LgOOuKR3v1XD-SZ96F0mKIXQX0k9AfivozCw&_nc_ohc=HHZ8eRFEeOoQ7kNvwECkNjR&_nc_gid=-C1vSLi19AYFjfGiXjRx7Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNH-ZM84-jugXaSQotWlbNznQUC3QXVjdfQ1PiJYxUXBA&oe=6AD4097D&_nc_sid=10d13b",
+     "timestamp": "2026-09-19T22:45:26.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "mariangelarocio",
+      "profile_pic_url": "https://scontent-ber1-1.cdninstagram.com/v/t51.2885-19/491444633_666803112716155_3667951137881842660_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43OTQuYzIifQ&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHAnVCXmjwqbiQbE_tGF_rcTJDvT89LgOOuKR3v1XD-SZ96F0mKIXQX0k9AfivozCw&_nc_ohc=HHZ8eRFEeOoQ7kNvwECkNjR&_nc_gid=-C1vSLi19AYFjfGiXjRx7Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNH-ZM84-jugXaSQotWlbNznQUC3QXVjdfQ1PiJYxUXBA&oe=6AD4097D&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "3221345832",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    },
+    {
+     "id": "18445529347135790",
+     "text": "Excelente vendedor 👏👏👏",
+     "ownerUsername": "yenifermelendez",
+     "ownerProfilePicUrl": "https://scontent-ber1-1.cdninstagram.com/v/t51.82787-19/758617377_18610032880031904_7414333524858222465_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHAnVCXmjwqbiQbE_tGF_rcTJDvT89LgOOuKR3v1XD-SZ96F0mKIXQX0k9AfivozCw&_nc_ohc=oBxeT9nk6Q8Q7kNvwFFPh9J&_nc_gid=-C1vSLi19AYFjfGiXjRx7Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPpUL5yT2ULQFM6efWOM45WUOuJEEJj3EE1uzqe7qlRNw&oe=6AD40C37&_nc_sid=10d13b",
+     "timestamp": "2026-09-19T14:54:12.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "yenifermelendez",
+      "profile_pic_url": "https://scontent-ber1-1.cdninstagram.com/v/t51.82787-19/758617377_18610032880031904_7414333524858222465_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ber1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHAnVCXmjwqbiQbE_tGF_rcTJDvT89LgOOuKR3v1XD-SZ96F0mKIXQX0k9AfivozCw&_nc_ohc=oBxeT9nk6Q8Q7kNvwFFPh9J&_nc_gid=-C1vSLi19AYFjfGiXjRx7Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPpUL5yT2ULQFM6efWOM45WUOuJEEJj3EE1uzqe7qlRNw&oe=6AD40C37&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "923103903",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    }
+   ],
+   "originalHeight": 1920,
+   "originalWidth": 1080,
+   "displayUrl": "https://scontent-waw2-2.cdninstagram.com/v/t51.82787-15/811616683_17968382337151252_3948972348393629883_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk4OTY0NTc0Nzk0MjI0MDgwMzE3OTY4MzgyMzM0MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=eJYfTi-WlG8Q7kNvwHr-ThK&_nc_oc=Ado0xjt843OJUWmJ--JNgQxPYOciHMDe3z0YcPAq04QjF2lhg46bDTZrqNEJBLwEmkS2heM46FpaWQGFObLE-q3N&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_gid=Yz5kAHvcCRi5jy51wGCjPQ&_nc_ss=7a22e&oh=00_AQN2x7_BLmISiK8vlol-WnzYK1jrBidpRa8JmDlaIOS0hA&oe=6AD3F35D",
+   "audioUrl": "https://scontent-waw2-2.cdninstagram.com/o1/v/t2/f2/m78/AQMPT9MWFebcgTF0wQQYj4gNhpcZ5qPl09Tqh9hyKkvA-d4E3EawEEOMeQJB5-2eAAFkttD2ruZlpt9vY4VFkVvtGB6vPKO-mB8scdQ.mp4?_nc_cat=100&_nc_sid=9ca052&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_ohc=naelpUgSE6EQ7kNvwG7uJrc&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo0NTI5MDQ1MDQ0MDgxNTQ2LCJhc3NldF9hZ2VfZGF5cyI6MjcsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozMiwiYml0cmF0ZSI6Njk2OTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Yz5kAHvcCRi5jy51wGCjPQ&_nc_ss=7a22e&_nc_zt=28&oh=00_AQMvWGtP4LmX7Q3CwxKaBremrMoV2jW485ImluqSoPmcNg&oe=6AD02275",
+   "alt": "Video by Automall Hyundai | Concesionario on September 19, 2026.",
+   "videoViewCount": null,
+   "childPosts": [],
+   "musicInfo": {
+    "artist_name": "automall.hyundai",
+    "song_name": "Original audio",
+    "uses_original_audio": true,
+    "should_mute_audio": false,
+    "should_mute_audio_reason": "",
+    "audio_id": "38293130903667836"
+   },
+   "isCommentsDisabled": false
+  },
+  {
+   "id": "3965909056945518107",
+   "type": "Video",
+   "shortCode": "DcJvUZmvfYb",
+   "caption": "Hay carros que se ganaron su lugar en la historia de cada familia venezolana. 🇻🇪 Fiel, guerrero y parte de nuestras vidas. 🚙🔥\n\nEl Hyundai Accent no necesita presentación.\n\n💬 Comenta “ACCENT” aquí abajo y te enviamos toda la información al privado. 📥👇🏼",
+   "hashtags": [],
+   "mentions": [],
+   "url": "https://www.instagram.com/p/DcJvUZmvfYb/",
+   "commentsCount": 1,
+   "dimensionsHeight": 1280,
+   "dimensionsWidth": 720,
+   "images": [
+    "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/775213833_17963638851151252_3594695347417530717_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk2NTkwOTA1Njk0NTUxODEwNzE3OTYzNjM4ODQ1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=vinDGmi4xm4Q7kNvwEq0By-&_nc_oc=Adrkcm0U0dFle5TvhH9A7k2niueo0gsdmJBSWyxHiPipc4TAmM4NGADnnQcCW5KwOSd7oXiDm_zGuH7yhlxV5yVw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=5Ym4VFbcZ_wiwjIjXV9WEg&_nc_ss=7a3ba&oh=00_AQPmO3F--mW0daavJ3UYCeHYbVBE8RvtseeEyykrg4E16g&oe=6AD3F312",
+    "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/775213833_17963638851151252_3594695347417530717_n.jpg?stp=dst-jpg_e15_p320x320_tt6&_nc_cat=109&ig_cache_key=Mzk2NTkwOTA1Njk0NTUxODEwNzE3OTYzNjM4ODQ1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=vinDGmi4xm4Q7kNvwEq0By-&_nc_oc=Adrkcm0U0dFle5TvhH9A7k2niueo0gsdmJBSWyxHiPipc4TAmM4NGADnnQcCW5KwOSd7oXiDm_zGuH7yhlxV5yVw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=5Ym4VFbcZ_wiwjIjXV9WEg&_nc_ss=7a3ba&oh=00_AQMd71TTeTi1CRqCjz8JxPnO29ntDNsYWQeXJnAwsZQJCA&oe=6AD3F312"
+   ],
+   "videoUrl": "https://instagram.fhnd7-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPWUz9rOHuV_m4Uxl4z7b-mu7B1u_FEn1GI_4o5Kgpe0_4HAuNE4PUeV2nRJmri8Mgp0LdaU0gSvlyGbIGYn2ulMZG67zGMbbN8u6Y.mp4?_nc_cat=101&_nc_oc=AdqP5-XN7N78WvENUekQelWO3kU11vasCVssPv6JQQeqQbVxW8vBZXSZif-xP8lBrpk&_nc_sid=5e9851&_nc_ht=instagram.fhnd7-1.fna.fbcdn.net&_nc_ohc=icBB60J2JuAQ7kNvwEbUYX3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA4MzAzNDc2NzYzOTQ4MSwiYXNzZXRfYWdlX2RheXMiOjU5LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=eff15ab46ae72ce2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81RDQyRDgzRUY5N0JEQTYwRENDQTk5Njg3QzkyNUQ5Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzRBNDAzRUY3NjdDNzRBNTRFODFDRjkyRDUzNkY2MEFCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbyjtbp9cDsAxUCKAJDMywXQERMzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=ENjb9G2CpgzcWAltRiUBZg&_nc_zt=28&_nc_ss=73a8c&oh=00_AQPjijIyg12Ew--fQdjL4AIwHlDIgYlPh5nWD-O3tVnflg&oe=6AD00AD6",
+   "likesCount": 6,
+   "videoPlayCount": 587,
+   "timestamp": "2026-08-17T19:00:06.000Z",
+   "ownerFullName": "Automall Hyundai | Concesionario",
+   "ownerUsername": "automall.hyundai",
+   "ownerId": "64435199251",
+   "isPinned": false,
+   "productType": "clips",
+   "videoDuration": 40.599998,
+   "paidPartnership": false,
+   "inputUrl": "https://www.instagram.com/automall.hyundai",
+   "firstComment": "Accent",
+   "latestComments": [
+    {
+     "id": "18001141163791912",
+     "text": "Accent",
+     "ownerUsername": "mergabo",
+     "ownerProfilePicUrl": "https://scontent-nrt6-1.cdninstagram.com/v/t51.2885-19/444795616_1618352278964238_6798408520650094096_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZL7Me6pZMvbj1eppRlHcXNIGFzoJQNlQatswz-hybhOr1mYm2v6cBFEhRI62jiCI&_nc_ohc=GvCTvBe4HoUQ7kNvwHA-7Pl&_nc_gid=lvEx5YRTHzPOyapbZVCEcQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOxK3eZxW_1vCuFDBqRheQZNFvs0EX6BOEqU0nWV5ADRA&oe=6AD40527&_nc_sid=10d13b",
+     "timestamp": "2026-08-20T23:34:42.000Z",
+     "repliesCount": null,
+     "replies": null,
+     "likesCount": 1,
+     "owner": {
+      "username": "mergabo",
+      "profile_pic_url": "https://scontent-nrt6-1.cdninstagram.com/v/t51.2885-19/444795616_1618352278964238_6798408520650094096_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-nrt6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZL7Me6pZMvbj1eppRlHcXNIGFzoJQNlQatswz-hybhOr1mYm2v6cBFEhRI62jiCI&_nc_ohc=GvCTvBe4HoUQ7kNvwHA-7Pl&_nc_gid=lvEx5YRTHzPOyapbZVCEcQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOxK3eZxW_1vCuFDBqRheQZNFvs0EX6BOEqU0nWV5ADRA&oe=6AD40527&_nc_sid=10d13b",
+      "is_verified": false,
+      "id": "557865328",
+      "full_name": null,
+      "is_mentionable": null,
+      "is_private": null,
+      "profile_pic_id": null,
+      "latest_reel_media": null
+     }
+    }
+   ],
+   "originalHeight": 1920,
+   "originalWidth": 1080,
+   "displayUrl": "https://instagram.fhnd7-1.fna.fbcdn.net/v/t51.82787-15/775213833_17963638851151252_3594695347417530717_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk2NTkwOTA1Njk0NTUxODEwNzE3OTYzNjM4ODQ1MTUxMjUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=vinDGmi4xm4Q7kNvwEWXBUB&_nc_oc=Adqf6lYiTJVJmJRnqSKbr0dSBb7hvvkgoWQSpJfFJ85W4D1PHuuxBixfFP3eyoHacTM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fhnd7-1.fna&_nc_gid=ENjb9G2CpgzcWAltRiUBZg&_nc_ss=7a22e&oh=00_AQM8sCP_ZSe_3hyDewBBn6ciJfAHRzj1nzqt6n4LLrrgVA&oe=6AD3F312",
+   "audioUrl": "https://instagram.fhnd7-1.fna.fbcdn.net/o1/v/t2/f2/m78/AQNf2EGBBatjg2f06XGIQndIvm0wa5Ynx0Tmr3ILq88UHPO2ClAVe-a3UKlJL1POLPgNCHbblBFR75yrgJmwtPm45t3XO-B0qa8LDkE.mp4?_nc_cat=111&_nc_oc=AdqfOE2X0sez_9vdFdzY7Q51sIbBFYshbzsU_kl9z5FMArGDI9KHAGMRYgZhIBvvoJE&_nc_sid=9ca052&_nc_ht=instagram.fhnd7-1.fna.fbcdn.net&_nc_ohc=J60hqsEYfGoQ7kNvwHgLEw3&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMDgzMDM0NzY3NjM5NDgxLCJhc3NldF9hZ2VfZGF5cyI6NTksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0MCwiYml0cmF0ZSI6NzM0MzcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=ENjb9G2CpgzcWAltRiUBZg&_nc_ss=7a22e&_nc_zt=28&oh=00_AQNHrlNvSTKI6my6BOGebOqJzBLyECUtlHlXJ_nUXdq8VQ&oe=6AD01798",
+   "alt": "Video by Automall Hyundai | Concesionario on August 17, 2026.",
+   "videoViewCount": null,
+   "childPosts": [],
+   "musicInfo": {
+    "artist_name": "automall.hyundai",
+    "song_name": "Original audio",
+    "uses_original_audio": true,
+    "should_mute_audio": false,
+    "should_mute_audio_reason": "",
+    "audio_id": "37540842938894238"
+   },
+   "isCommentsDisabled": false
+  }
+ ]
+}

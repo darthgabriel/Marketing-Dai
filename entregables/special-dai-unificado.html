@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8">
+<title>SPECIAL DAI · Documento unificado</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  @page { size: Letter; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  html, body { background: #fff; color: #0F172A; font-family: "Inter", "Segoe UI", system-ui, sans-serif; }
+  .page { width: 8.5in; height: 11in; padding: 0.4in 0.55in 0.38in; position: relative; page-break-after: always; display: flex; flex-direction: column; }
+  .page:last-child { page-break-after: auto; }
+  .kicker { font-size: 8px; letter-spacing: .2em; text-transform: uppercase; color: #64748b; display: flex; justify-content: space-between; align-items: center; }
+  .kicker .brand { font-weight: 700; color: #0F172A; }
+  .kicker .pg { background: #0F172A; color: #fff; padding: 2px 7px; font-weight: 600; letter-spacing: .14em; }
+  h1 { font-size: 27px; line-height: 1.04; font-weight: 800; letter-spacing: -0.9px; margin: 12px 0 6px; color: #0F172A; }
+  h1 .mut { color: #94a3b8; font-weight: 700; }
+  .subtitle { font-size: 9.5px; color: #475569; line-height: 1.4; max-width: 96%; }
+  .section-label { font-size: 7.5px; letter-spacing: .2em; text-transform: uppercase; color: #64748b; font-weight: 600; margin: 12px 0 5px; display: flex; align-items: center; gap: 7px; }
+  .section-label::before { content: ""; width: 12px; height: 2px; background: #DC2626; }
+  .rule { height: 1px; background: #e2e8f0; margin: 0 0 8px; }
+  table { width: 100%; border-collapse: collapse; font-size: 8.7px; }
+  th { text-align: left; font-size: 7.2px; letter-spacing: .1em; text-transform: uppercase; color: #64748b; font-weight: 600; padding: 4px 0; border-bottom: 1.5px solid #0F172A; }
+  td { padding: 5px 0; border-bottom: 1px solid #eef2f7; vertical-align: top; line-height: 1.3; }
+  td.n, th.n { text-align: right; }
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .read { font-size: 9px; color: #334155; line-height: 1.45; margin-top: 6px; }
+  .note { font-size: 8px; color: #64748b; margin-top: 5px; line-height: 1.4; }
+  .sources { font-size: 6.8px; color: #94a3b8; line-height: 1.4; margin-top: auto; padding-top: 8px; }
+  .footer { position: absolute; right: 0.55in; bottom: 0.24in; font-size: 7px; letter-spacing: .16em; text-transform: uppercase; color: #cbd5e1; }
+
+  /* logo */
+  .logo-row { display: flex; align-items: baseline; gap: 11px; margin: 13px 0 5px; }
+  .lg-special { font-size: 26px; font-weight: 300; letter-spacing: .02em; color: #0F172A; }
+  .lg-dai { font-size: 46px; font-weight: 800; letter-spacing: -1.5px; color: #0F172A; }
+  .lg-strike { position: relative; font-size: 33px; font-weight: 300; color: #cbd5e1; letter-spacing: .02em; }
+  .lg-strike::after { content: ""; position: absolute; left: -3px; right: -3px; top: 52%; height: 4px; background: #D0021B; transform: rotate(-7deg); }
+  .cap-sm { font-size: 8px; color: #64748b; letter-spacing: .04em; }
+
+  /* objetivos */
+  .obj { display: grid; grid-template-columns: 1fr 1fr; gap: 7px; margin-top: 4px; }
+  .obj-card { border: 1px solid #e2e8f0; border-left: 3px solid #0F172A; padding: 7px 10px; }
+  .obj-card.hot { border-left-color: #DC2626; }
+  .obj-n { font-size: 7px; font-weight: 700; color: #fff; background: #0F172A; width: 15px; height: 15px; display: inline-flex; align-items: center; justify-content: center; }
+  .obj-card.hot .obj-n { background: #DC2626; }
+  .obj-t { font-size: 10.5px; font-weight: 700; color: #0F172A; margin: 3px 0 1px; letter-spacing: -0.2px; }
+  .obj-term { font-size: 7px; text-transform: uppercase; letter-spacing: .1em; color: #64748b; font-weight: 600; }
+  .obj-d { font-size: 8.3px; color: #475569; line-height: 1.35; margin-top: 3px; }
+  .obj-kpi { font-size: 8.3px; margin-top: 4px; padding-top: 4px; border-top: 1px dashed #e2e8f0; color: #0F172A; font-weight: 600; }
+
+  .mk-h { color: #0032C0; }
+  .mk-c { color: #D0021B; }
+  .mk-tag { font-size: 7.2px; letter-spacing: .1em; text-transform: uppercase; font-weight: 700; }
+  .bad { color: #94a3b8; }
+  .good { color: #0F172A; font-weight: 500; }
+  .strike-inline { position: relative; color: #cbd5e1; }
+  .strike-inline::after { content: ""; position: absolute; left: -1px; right: -1px; top: 52%; height: 2px; background: #D0021B; transform: rotate(-6deg); }
+  ul.pts { list-style: none; }
+  ul.pts li { font-size: 8.6px; line-height: 1.4; margin-bottom: 5px; padding-left: 12px; position: relative; color: #334155; }
+  ul.pts li::before { content: ""; position: absolute; left: 0; top: 5px; width: 5px; height: 5px; background: #DC2626; }
+  ul.pts li b { color: #0F172A; }
+
+  /* alianzas */
+  .ali { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; margin-top: 3px; }
+  .ali-i { border: 1px solid #e2e8f0; border-top: 2px solid #0F172A; padding: 6px 8px; }
+  .ali-i.pend { border-top-color: #cbd5e1; border-style: dashed; border-top-style: solid; }
+  .ali-h { font-size: 8.4px; font-weight: 700; color: #0F172A; letter-spacing: -0.2px; }
+  .ali-r { font-size: 6.8px; text-transform: uppercase; letter-spacing: .08em; color: #64748b; font-weight: 600; margin-top: 2px; }
+  .ali-f { font-size: 8.6px; font-weight: 700; color: #DC2626; margin-top: 3px; }
+  .ali-i.pend .ali-f { color: #94a3b8; font-weight: 600; }
+
+  /* calendario */
+  table.cal { font-size: 7.6px; }
+  table.cal th { font-size: 6.6px; padding: 3px 0; }
+  table.cal td { padding: 2.4px 0; line-height: 1.2; vertical-align: top; }
+  .cal-x { display: block; font-size: 6.6px; line-height: 1.2; color: #64748b; margin-top: 1px; font-weight: 400; }
+  table.cal td.d { font-weight: 700; color: #0F172A; white-space: nowrap; }
+  table.cal tr.phase td { background: #0F172A; color: #fff; font-weight: 700; font-size: 6.8px; letter-spacing: .14em; text-transform: uppercase; padding: 3px 6px; }
+  .gem { display: inline-block; width: 5px; height: 5px; background: #0F172A; margin-right: 4px; vertical-align: middle; }
+  .exc { display: inline-block; width: 5px; height: 5px; margin-right: 4px; vertical-align: middle; }
+  .exc.h { background: #0032C0; }
+  .exc.c { background: #D0021B; }
+  .cal-legend { font-size: 7px; color: #64748b; margin-top: 5px; display: flex; gap: 14px; align-items: center; }
+
+  /* guiones */
+  table.gt { font-size: 8.8px; }
+  table.gt td { padding: 7px 0; vertical-align: top; line-height: 1.34; }
+  table.gt td.gd { font-weight: 700; color: #0F172A; white-space: nowrap; letter-spacing: -0.2px; }
+  table.gt .gh { display: block; font-weight: 700; color: #0F172A; }
+  table.gt .gx { display: block; color: #475569; margin-top: 1px; }
+
+  /* ideas de campaña */
+  .ideas { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; margin-top: 3px; }
+  .idea { border: 1px solid #e2e8f0; border-left: 3px solid #DC2626; padding: 6px 8px; }
+  .idea h4 { font-size: 8.4px; font-weight: 700; color: #0F172A; letter-spacing: -0.2px; margin-bottom: 2px; }
+  .idea p { font-size: 7.4px; line-height: 1.34; color: #475569; }
+  .idea ul { margin-top: 2px; padding-left: 11px; }
+  .idea li { font-size: 7.4px; line-height: 1.34; color: #475569; margin-bottom: 2px; }
+</style></head><body><section class="page"><div class="kicker"><span class="brand">DAI MOTORS · HYUNDAI + CHERY MARACAIBO</span><span class="pg">SPECIAL DAI · 1/6</span></div>
+  <h1>Seis objetivos. Una semana.<br><span class="mut">Dos showrooms vecinos, un mismo nombre.</span></h1>
+  <p class="subtitle">SPECIAL DAI · evento de ventas 2–7 de noviembre de 2026 · Hyundai y Chery Maracaibo corren en paralelo, cada uno en su concesionario, con la misma campaña y el mismo nombre · <b>6 unidades en showroom por marca (12 en total) · 74 en inventario</b> · cierre sábado 7 a las 5 pm. Documento de ejecución; complementa el Plan 1 (Hyundai) y el Plan 2 (Chery).</p>
+
+  <div class="logo-row">
+    <span class="lg-special">SPECIAL</span>
+    <span class="lg-strike">DAYS</span>
+    <span class="lg-dai">DAI</span>
+  </div>
+  <p class="cap-sm">Un mismo nombre para los dos concesionarios · misma campaña en paralelo · tachado rojo sobre DAYS · hashtag #SpecialDai · keyword distinta por cuenta.</p>
+
+  <div class="section-label">OBJETIVOS DEL EVENTO · LO QUE SE COMPROMETE</div><div class="rule"></div>
+  <div class="obj"><div class="obj-card">
+        <span class="obj-n">1</span> <span class="obj-term">Rotación de stock / Sell-through</span>
+        <div class="obj-t">Mover inventario estancado</div>
+        <div class="obj-d">Unidades con más de 90 días en showroom (Tucson 9, Accent 190 d, Tiggo 4 Pro Max 360 d) entran al plan de empuje con precio de evento.</div>
+        <div class="obj-kpi">Meta · ≥ 3 Tucson y ≥ 3 Tiggo 4 vendidas en la semana</div>
+      </div><div class="obj-card">
+        <span class="obj-n">2</span> <span class="obj-term">Cierre de ejercicio / Model-year</span>
+        <div class="obj-t">Liquidar remanentes 2026</div>
+        <div class="obj-d">Asegurar salida de las 2026 antes de que la llegada de 2027 las deprecie en showroom.</div>
+        <div class="obj-kpi">Meta · 74 unidades de inventario (39 Hyundai + 35 Chery) con destino asignado</div>
+      </div><div class="obj-card">
+        <span class="obj-n">3</span> <span class="obj-term">Conversión de leads agendados</span>
+        <div class="obj-t">Consolidar leads con cita</div>
+        <div class="obj-d">La cita agendada en precampaña se convierte en visita física con asesor asignado y Pase Special Dai.</div>
+        <div class="obj-kpi">Meta · 100% de pases emitidos con visita concretada</div>
+      </div><div class="obj-card hot">
+        <span class="obj-n">4</span> <span class="obj-term">Cierre comercial / Deal velocity</span>
+        <div class="obj-t">Cerrar negocios</div>
+        <div class="obj-d">Mesa financiera en showroom: del interés a la firma en la misma visita, sin perder al cliente por gestión externa. Cada vendedor con cuota de ventas del evento.</div>
+        <div class="obj-kpi">Meta · 18 unidades (10 Hyundai + 8 Chery) firmadas en 6 días</div>
+      </div><div class="obj-card">
+        <span class="obj-n">5</span> <span class="obj-term">Gestión de financiamiento / Financing</span>
+        <div class="obj-t">Gestión de financiamiento</div>
+        <div class="obj-d">El banco opera en el showroom durante el evento: valida los documentos y aprueba los financiamientos en el mismo día.</div>
+        <div class="obj-kpi">Meta · banco confirmando y dando aprobación verificable</div>
+      </div><div class="obj-card">
+        <span class="obj-n">6</span> <span class="obj-term">Posicionamiento de marca / Brand equity</span>
+        <div class="obj-t">Dominar la región</div>
+        <div class="obj-d">Dos Special Dai en paralelo, uno por concesionario, con el mismo nombre y la misma campaña.</div>
+        <div class="obj-kpi">Meta · Top of mind Dai Motors en Zulia en el cierre 2026</div>
+      </div></div>
+
+  <p class="read"><b>Un solo objetivo de cierre: 18 unidades firmadas en 6 días (10 Hyundai + 8 Chery).</b> Se muestran <b>6 por marca — 12 en el showroom</b>, las 62 restantes se cierran sobre ficha con la misma oferta. Escasez mostrada, inventario real detrás: lo que se ve no se repone.</p>
+
+  <div class="section-label">POR QUÉ EL NOMBRE · Y POR QUÉ ES NUESTRO</div><div class="rule"></div>
+  <table class=""><thead><tr><th></th><th>SPECIAL DAYS</th><th>SPECIAL DAI</th></tr></thead><tbody><tr><td><b>Uso</b></td><td><span class="bad">Plantilla abierta de Optima: el mismo evento para cualquier concesionario.</span></td><td><span class="good">Nombre propio del grupo. Solo Dai Motors.</span></td></tr><tr><td><b>Marcas</b></td><td><span class="bad">Favorece a una; la otra queda de invitada.</span></td><td><span class="good">Uno por concesionario: cada showroom vecino monta el suyo con el mismo nombre.</span></td></tr><tr><td><b>Redes</b></td><td><span class="bad">#SpecialDays competido con decenas de cuentas.</span></td><td><span class="good">#SpecialDai único, medible y rastreable.</span></td></tr><tr><td><b>Memoria</b></td><td><span class="bad">Otro descuento más, se olvida al cerrar la pestaña.</span></td><td><span class="good">El tachado queda: marca que se corrige en vivo.</span></td></tr></tbody></table>
+  <p class="note"><b>Regla de identidad:</b> tachado siempre en rojo, nunca se escribe “SPECIAL DAYS” sin tachar. Una sola landing de registro; keyword distinta por cuenta.</p>
+
+  <div class="two-col" style="margin-top:9px">
+    <div>
+      <div class="mk-tag mk-h">Hyundai · concesionario vecino · #0032C0</div>
+      <p class="read" style="margin-top:3px">39 en inventario · <b>6 en showroom</b> · keyword <code>VIP I10 ACCENT TUCSON CRETA</code> · 10 ventas objetivo.</p>
+    </div>
+    <div>
+      <div class="mk-tag mk-c">Chery · concesionario vecino · #D0021B</div>
+      <p class="read" style="margin-top:3px">35 en inventario · <b>6 en showroom</b> · keyword <code>VIP TIGGO ARRIZO PICKUP</code> · 8 ventas objetivo.</p>
+    </div>
+  </div>
+  <p class="sources">Fuentes: CRM autoweb Inventario Valorado Dai Motors S.A. (22 oct 2026) · Apify 20 Reels por cuenta (22 oct 2026) · Meta Business Suite · Cavenez (oct 2026). Metas propuestas sobre ritmos reales — corte final por Gerencia.</p><div class="footer">Dai Motors · Hyundai + Chery Maracaibo · Special Dai · 2–7 nov 2026</div></section><section class="page"><div class="kicker"><span class="brand">DAI MOTORS · HYUNDAI + CHERY MARACAIBO</span><span class="pg">SPECIAL DAI · 2/6</span></div>
+  <h1 style="font-size:22px">19 días. Seis ideas. Un calendario para las dos cuentas.</h1>
+  <p class="subtitle">SPECIAL DAI · consecutivo de contenido 22 oct – 9 nov 2026 · <b>18 piezas por cuenta</b> · <b>6 unidades en showroom por marca</b> · oferta hasta el sábado 7, 5 pm.</p>
+
+  <div class="section-label">LAS 6 IDEAS DE CAMPAÑA · CÓMO SE USAN</div><div class="rule"></div>
+  <div class="ideas">
+    <div class="idea"><h4>Precios especiales</h4><ul><li>Precio de evento, solo del 2 al 7 de nov.</li><li>Nunca se publica la cifra antes del anuncio del 26: se dice que “está cerca”.</li><li>El precio va por DM o en showroom, no en el feed.</li></ul></div>
+    <div class="idea"><h4>Entrega express</h4><ul><li>Aprueba hoy y te llevas el carro en tiempo récord de 2 días.</li><li>Apunta a los clientes que comparan y no deciden.</li><li>Aplica solo a contado.</li></ul></div>
+    <div class="idea"><h4>Consignación de documentos</h4><p>Recibimos y revisamos tus documentos de financiamiento, acortando el cierre e ingresándote al proceso de compra directo.</p></div>
+    <div class="idea"><h4>Guía en financiamiento</h4><p>El asesor explica entrada, cuota y plazo sin tecnicismos. Contenido de confianza para el 60% del mercado que compra a crédito.</p></div>
+    <div class="idea"><h4>Revelación Himla 2027 <span style="font-weight:400;color:#64748b">(opcional)</span></h4><p>Se levanta la lona sobre la pickup Chery Himla 2027 en el concesionario. Silueta primero, reveal después. Comunicar como “unidad limitada”, sin precio publicado hasta confirmar.</p></div>
+    <div class="idea"><h4>Pocas unidades</h4><p>Se muestran 6 por marca y se dice tal cual: no se reponen. Las 74 del inventario no se publican. Ansiedad real, visita más rápida.</p></div>
+  </div>
+  <p class="note"><b>Keywords</b> — Hyundai: <code>VIP I10 ACCENT TUCSON CRETA</code> · Chery: <code>VIP TIGGO ARRIZO PICKUP</code>. Rotación: nunca las dos cuentas con la misma idea el mismo día. Horario extendido en las 6 piezas del evento, sin hora exacta (se confirma el 1 nov con Operaciones). Todo expectativa hasta el anuncio del 26.</p>
+
+  <div class="section-label">CONSECUTIVO DE REELS Y STORIES · MISMO DÍA, DOS CUENTAS</div><div class="rule"></div>
+  <table class="cal"><thead><tr><th style="width:9%">Día</th><th style="width:45.5%">Hyundai · @daimotorsmcbo</th><th style="width:45.5%">Chery · @cherymaracaibo</th></tr></thead><tbody><tr class="phase"><td colspan="3">PRECAMPAÑA · 22 OCT – 1 NOV · “SE VIENE ALGO QUE NO HICIMOS NUNCA”</td></tr><tr><td class="d">Jue 22</td><td><span class="exc h"></span>Apartado para carrera Nature y Autofest<span class="cal-x">Sin post de campaña: el slot queda reservado para la carrera.</span></td><td><span class="exc c"></span>Teaser: se prepara el showroom, unidades entrando<span class="cal-x">Reel 10 s: baúles entrando al showroom, nunca el carro completo.</span></td></tr><tr><td class="d">Vie 23</td><td><span class="exc h"></span>Apartado para carrera Nature y Autofest<span class="cal-x">Sin post de campaña: el slot queda reservado para la carrera.</span></td><td><span class="exc c"></span><b>Entrega express</b> — lo que buscas ya está en showroom<span class="cal-x">Reel 6 s: llaves sobre el tablero, motor encendido.</span></td></tr><tr><td class="d">Sáb 24</td><td><span class="exc h"></span>Apartado para carrera Nature y Autofest<span class="cal-x">Sin post de campaña: el slot queda reservado para la carrera.</span></td><td><span class="exc c"></span><b>Revelación Himla 2027</b> (opcional) — llega algo nuevo<span class="cal-x">Silueta tapada: “algo nuevo entra al showroom”. Sin modelo ni fecha.</span></td></tr><tr><td class="d">Dom 25</td><td><span class="exc h"></span>Apartado para carrera Nature y Autofest<span class="cal-x">Sin post de campaña: el slot queda reservado para la carrera.</span></td><td><span class="exc c"></span>Stories: <b>guía en financiamiento</b> — cuánto necesitas<span class="cal-x">Stories: 3 tarjetas — entrada, cuota y plazo.</span></td></tr><tr><td class="d">Lun 26</td><td><span class="gem"></span>ANUNCIO OFICIAL: nombre, fechas y “precio especial, está cerca”<span class="cal-x">Reel reveal: logo tachado + fechas + CTA a WhatsApp.</span></td><td><span class="gem"></span>ANUNCIO OFICIAL: mismo anuncio, corte Chery<span class="cal-x">Mismo reveal filmado en la zona Chery, keyword propia.</span></td></tr><tr><td class="d">Mar 27</td><td><span class="exc h"></span>20 segundos (asesor): <b>guía en financiamiento</b><span class="cal-x">Reel 20 s: asesor explicando cómo se pide la cuota, paso a paso.</span></td><td><span class="exc c"></span>20 segundos (asesor): <b>precios especiales</b><span class="cal-x">Reel 20 s: asesor dando el rango de precio por DM.</span></td></tr><tr><td class="d">Mié 28</td><td><span class="exc h"></span>Flujo WhatsApp: tu hora + <b>entrega express</b><span class="cal-x">Screen recording: click → keyword VIP → respuesta automática.</span></td><td><span class="exc c"></span>Flujo WhatsApp: tu hora + <b>recibimiento de documentos</b><span class="cal-x">Mismo screen recording con la keyword Chery y agenda de hora.</span></td></tr><tr><td class="d">Jue 29</td><td><span class="exc h"></span><b>Descuentos especiales</b> sobre el Accent de 190 días<span class="cal-x">Ficha del Accent con sus 190 días en showroom + precio de evento.</span></td><td><span class="exc c"></span><b>Horario extendido</b> — avisamos desde ya<span class="cal-x">Reel: cartel de horario extendido colocándose en el showroom + texto “la semana que viene abrimos con horario extendido”.</span></td></tr><tr><td class="d">Vie 30</td><td><span class="exc h"></span><b>Precios especiales</b> Tucson: las que quedan se van<span class="cal-x">Carrusel: Tucson en 3 ángulos reales, sin foto de catálogo.</span></td><td><span class="exc c"></span><b>Pocas unidades</b>: Tiggo 4 de 360 días<span class="cal-x">Ficha de la unidad negra: fotos reales, no de estudio.</span></td></tr><tr><td class="d">Sáb 31</td><td><span class="exc h"></span>“El lunes abre” + <b>recibimiento de documentos</b><span class="cal-x">Reel: showroom armado + escritorio: “deja tus papeles hoy”.</span></td><td><span class="exc c"></span>“El lunes abre” + <b>entrega express</b><span class="cal-x">Reel: montaje en time-lapse + “si aprueban, hoy te lo llevas”.</span></td></tr><tr><td class="d">Dom 1</td><td><span class="exc h"></span>Stories: <b>guía en financiamiento</b> — para el lunes<span class="cal-x">Stories: qué llevar el lunes, en 3 tarjetas.</span></td><td><span class="exc c"></span>Stories: <b>precios especiales</b> — se acaba el domingo<span class="cal-x">Stories: cuenta regresiva a la medianoche.</span></td></tr><tr class="phase"><td colspan="3">SEMANA DEL EVENTO · 2–7 NOV · DIARIO 10–11 AM, GRABADO EN VIVO</td></tr><tr><td class="d">Lun 2</td><td><span class="gem"></span>Apertura con <b>horario extendido</b>: abre Hyundai<span class="cal-x">Reel: colas reales, alfombra, mesa financiera lista.</span></td><td><span class="gem"></span>Apertura con <b>horario extendido</b>: abre Chery<span class="cal-x">Mismo corte de colas y alfombra en el concesionario Chery.</span></td></tr><tr><td class="d">Mar 3</td><td><span class="gem"></span>Bloque i10: las 6 en showroom + cuota por DM · horario extendido<span class="cal-x">Reel: las 6 en fila + calculadora de cuota en pantalla.</span></td><td><span class="gem"></span>Bloque Tiggo: las 6 en showroom + cuota por DM · horario extendido<span class="cal-x">Reel: las 6 en fila + calculadora de cuota en pantalla.</span></td></tr><tr><td class="d">Mié 4</td><td><span class="gem"></span>Banco aprobando en 15 min · horario extendido · media day<span class="cal-x">Clip del banco firmando en sala, con permiso del cliente.</span></td><td><span class="gem"></span>Media day + horario extendido · lives en las dos cuentas<span class="cal-x">Lives recorriendo el showroom con los invitados.</span></td></tr><tr><td class="d">Jue 5</td><td><span class="exc h"></span><b>Entrega express</b>: firma hoy y se lleva hoy<span class="cal-x">Reel: llave en mano al cliente, sin datos personales.</span></td><td><span class="exc c"></span>Arrizo: los colores del showroom con precio de evento<span class="cal-x">Reel: los 6 colores en secuencia rápida.</span></td></tr><tr><td class="d">Vie 6</td><td><span class="gem"></span>“Quedan X”: número real del CRM · horario extendido<span class="cal-x">Captura del CRM con el número, sin editar.</span></td><td><span class="gem"></span>“Quedan X”: número real del CRM · horario extendido<span class="cal-x">Captura del CRM con el número, sin editar.</span></td></tr><tr><td class="d">Sáb 7</td><td><span class="gem"></span>Último día · horario extendido · cierre 5 pm<span class="cal-x">Reel: reloj marcando 5 pm y el cartel de precios bajando.</span></td><td><span class="gem"></span>Último día · horario extendido · cierre 5 pm<span class="cal-x">Reel: reloj marcando 5 pm y el cartel de precios bajando.</span></td></tr><tr class="phase"><td colspan="3">POST-EVENTO · 9 NOV</td></tr><tr><td class="d">Lun 9</td><td><span class="gem"></span>Recap del evento: los mejores momentos en 6 días<span class="cal-x">Reel 20 s: megamix de entregas, colas y montaje.</span></td><td><span class="gem"></span>Recap del evento: los mejores momentos en 6 días<span class="cal-x">Reel 20 s: megamix de entregas, colas y montaje.</span></td></tr></tbody></table>
+  <div class="cal-legend">
+    <span><span class="gem"></span>Mismo mensaje en las 2 cuentas</span>
+    <span><span class="exc h"></span>Idea del día para Hyundai</span>
+    <span><span class="exc c"></span>Idea del día para Chery</span>
+    <span style="margin-left:auto">Objetivo Meta = mensajes a WhatsApp · keyword por cuenta</span>
+  </div>
+
+  <p class="note"><b>Reglas:</b> cada cuenta cierra en su concesionario y se refieren el tráfico entre ambas. <b>Se muestran 6 unidades por marca: la comunicación es “pocas unidades, no se reponen” — nunca se promete el showroom completo ni se publica el inventario de 74</b> (el resto se cierra sobre ficha). Domingos 1 y 8 solo stories. Precio del i10 ($21.000) solo con unidades reales; cuotas solo tras confirmar con la entidad financiera.</p>
+  <p class="sources">Fuentes: Apify 20 Reels por cuenta y Meta Business Suite (22 oct 2026) · CRM autoweb (22 oct 2026) · Instagram público para seguidores de alianzas (22 oct, ver hoja 3). Cadencia propuesta — corte por Gerencia.</p><div class="footer">Dai Motors · Hyundai + Chery Maracaibo · Special Dai · 2–7 nov 2026</div></section><section class="page"><div class="kicker"><span class="brand">DAI MOTORS · HYUNDAI + CHERY MARACAIBO</span><span class="pg">SPECIAL DAI · 3/6</span></div>
+  <h1 style="font-size:22px">Seis alianzas arriba. $4.136 cerrados, 7 partidas en el aire.</h1>
+  <p class="subtitle">SPECIAL DAI · hoja de alianzas y presupuesto · evento 2–7 de noviembre de 2026 · <b>cifras del grupo completo</b> (los dos concesionarios juntos) · datos y cotizaciones al 22 de octubre de 2026.</p>
+
+  <div class="section-label">ALIANZAS PROPUESTAS · ALCANCE COMBINADO 634.637</div><div class="rule"></div>
+  <div class="ali"><div class="ali-i">
+        <div class="ali-h">@siempremimaracaibo</div>
+        <div class="ali-r">Impulso en la región</div>
+        <div class="ali-f">519.000</div>
+      </div><div class="ali-i">
+        <div class="ali-h">@susycalderonq</div>
+        <div class="ali-r">Influencer e imagen</div>
+        <div class="ali-f">75.500</div>
+      </div><div class="ali-i">
+        <div class="ali-h">@naturebebidas</div>
+        <div class="ali-r">Catering / bebidas</div>
+        <div class="ali-f">27.100</div>
+      </div><div class="ali-i">
+        <div class="ali-h">@dislubinca</div>
+        <div class="ali-r">Cambio de aceite · expansión</div>
+        <div class="ali-f">8.788</div>
+      </div><div class="ali-i">
+        <div class="ali-h">@beaocandov</div>
+        <div class="ali-r">Influencer e imagen</div>
+        <div class="ali-f">4.249</div>
+      </div><div class="ali-i pend">
+        <div class="ali-h">Alianza galletas</div>
+        <div class="ali-r">Catering · por confirmar</div>
+        <div class="ali-f">—</div>
+      </div></div>
+  <p class="note">Seguidores leídos el 22 oct 2026 (Instagram público). Nature y Dislubinca cierran catering y servicio — ampliación de relaciones ya existentes; las 3 cuentas de creators aportan imagen y alcance regional. La alianza de galletas se confirma antes del 1 nov.</p>
+
+  <div class="section-label">PRESUPUESTO DEL EVENTO · 15 PARTIDAS · GRUPO COMPLETO</div><div class="rule"></div>
+  <table class=""><thead><tr><th>Partida</th><th>Monto</th><th>Detalle</th></tr></thead><tbody><tr><td><b>1 · Catering</b></td><td></td><td>Subtotal pendiente — 2 de 3 partidas sin cerrar</td></tr><tr><td>&nbsp;&nbsp;1.1 Galletas</td><td>pendiente</td><td>Alianza por confirmar antes del 1 nov</td></tr><tr><td>&nbsp;&nbsp;1.2 Bebidas Nature</td><td>pendiente</td><td>Alianza por confirmar antes del 1 nov</td></tr><tr><td>&nbsp;&nbsp;1.3 Máquinas de espresso + cápsulas</td><td><b>$716</b></td><td>2 máquinas = $300 + 4 bolsas de cápsulas ($104 c/u = $416). 400 cápsulas para 6 días.</td></tr><tr><td><b>2 · Banderines</b></td><td><b>$420</b></td><td>6 banderines × $70 — 4 Chery · 2 Hyundai</td></tr><tr><td><b>3 · Posteo @siempremimaracaibo</b></td><td><b>$380</b></td><td>2 posteos × $190</td></tr><tr><td><b>4 · Tabloide glase</b></td><td><b>$400</b></td><td>20 impresiones × $20</td></tr><tr><td><b>5 · Bulk WhatsApp</b></td><td><b>$150</b></td><td>1.000 mensajes</td></tr><tr><td><b>6 · Influencers</b></td><td><b>$500</b></td><td>Susy Calderón $400 · @beaocandov $100</td></tr><tr><td><b>7 · Papelería</b></td><td><b>$200</b></td><td>500 pases de bienvenida con QR de IG y SPECIAL <s>DAYS</s> DAI — $8 por 20 = 25 paquetes</td></tr><tr><td><b>8 · Volanteo</b></td><td><b>$370</b></td><td>2.000 volantes, cuarto de carta</td></tr><tr><td><b>9 · Promotoras</b></td><td><b>$600</b> · por confirmar</td><td>2 promotoras × $50 por día × 6 días · horario 1 pm – 6 pm (tentativo)</td></tr><tr><td><b>10 · Pauta Meta</b></td><td><b>$400</b></td><td>$200 por cuenta × 2 marcas</td></tr><tr><td><b>11 · Música en vivo</b></td><td>pendiente</td><td>Por cotizar — para el cierre, sábado 7 de noviembre</td></tr><tr><td><b>12 · Regalos</b></td><td>pendiente</td><td>Por definir — bienvenida VIP y regalo de entrega</td></tr><tr><td><b>13 · Luces</b></td><td>pendiente</td><td>Por cotizar — iluminación de zona de evento</td></tr><tr><td><b>14 · Sonido de ambiente</b></td><td>pendiente</td><td>Por cotizar — música de fondo durante toda la jornada</td></tr><tr><td><b>15 · Planta eléctrica</b></td><td>pendiente</td><td>Solo si aplica horario extendido — confirmar con Operaciones</td></tr><tr><td><b>TOTAL CONOCIDO</b></td><td><b>$4.136</b></td><td>Más 7 partidas pendientes (catering y líneas 11–15)</td></tr></tbody></table>
+  <p class="note">Partidas 1.1 y 1.2 se resuelven con las alianzas: si cierran, el catering sale $0 en efectivo. Las líneas 11 a 15 se cotizan y se cargan al confirmarlas.</p>
+
+  <p class="sources">Fuentes: cotizaciones internas y CRM autoweb (22 oct 2026) · rango de precios de bulk WhatsApp LatAm desde julio 2025 · seguidores de alianzas: Instagram público (22 oct 2026). Montos propuestos — aprobación final de Gerencia.</p><div class="footer">Dai Motors · Hyundai + Chery Maracaibo · Special Dai · 2–7 nov 2026</div></section><section class="page"><div class="kicker"><span class="brand">DAI MOTORS · HYUNDAI + CHERY MARACAIBO</span><span class="pg">SPECIAL DAI · 4/6</span></div>
+  <h1 style="font-size:22px">Guion por pieza. Del teaser al anuncio.</h1>
+  <p class="subtitle">SPECIAL DAI · guiones 22–26 de octubre · <b>10 piezas</b> · 5 días de precampaña · cada guion trae hook (0–2 s), qué se ve y cierre con CTA.</p>
+
+  <div class="section-label">PRECAMPAÑA A · DEL TWEASER AL ANUNCIO OFICIAL</div><div class="rule"></div>
+  <table class="gt"><thead><tr><th style="width:15%">Pieza</th><th style="width:23%">Idea</th><th>Guion</th></tr></thead><tbody><tr><td class="gd">Jue 22<br>Hyundai</td><td>Teaser · expectativa</td><td><span class="gh">“Esto nunca lo hicimos.”</span><span class="gx">Luces encendiéndose una por una en el showroom vacío, planos oscuros y cortos. Texto: <b>Dai Motors hace algo que nunca hizo</b>. Sin modelos, sin precio, sin fecha. 8 segundos.</span><span class="gx"><b>Cierre:</b> “Pronto te contamos.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Jue 22<br>Chery</td><td>Teaser · expectativa</td><td><span class="gh">“Se viene algo distinto.”</span><span class="gx">Manos colocando guirnaldas y cajas en la zona Chery, plano cerrado: nunca se ve el carro completo. Mismo ritmo de corte que Hyundai, corte propio. 8 segundos.</span><span class="gx"><b>Cierre:</b> “Muy pronto.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Vie 23<br>Hyundai</td><td>Precios especiales</td><td><span class="gh">“Va a estar más cerca de lo que piensas.”</span><span class="gx">Asesor al cámara, sin cifras en pantalla. “Por una semana el precio va a ser distinto — todavía no lo decimos.” Cámara en mano, showroom de fondo.</span><span class="gx"><b>Cierre:</b> “Cuando lo revelemos te llega primero.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Vie 23<br>Chery</td><td>Entrega express</td><td><span class="gh">“Hoy apruebas, hoy te lo llevas.”</span><span class="gx">Llaves sobre el tablero, motor encendido, plano del pedal y de la puerta saliendo. Texto: <b>Entrega express</b>. 6 segundos.</span><span class="gx"><b>Cierre:</b> “Pregunta por entrega express.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Sáb 24<br>Hyundai</td><td>Recibimiento de documentos</td><td><span class="gh">“Trae tus papeles hoy.”</span><span class="gx">La lista de documentos en mano, el asesor marcando uno por uno. “Nosotros te avisamos si ya está listo antes de que empiece la semana.”</span><span class="gx"><b>Cierre:</b> “Deja tu expediente y salta la fila.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Sáb 24<br>Chery</td><td>Revelación Himla 2027 (opcional)</td><td><span class="gh">“Esto todavía no lo has visto.”</span><span class="gx">Pickup cubierta con lona: solo la silueta, plano lateral y contrapicado. Texto: <b>Llega algo nuevo</b>. Sin modelo, sin fecha, sin precio.</span><span class="gx"><b>Cierre:</b> “Se revela muy pronto.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Dom 25<br>Hyundai</td><td>Pocas unidades (stories)</td><td><span class="gh">“No va a haber de todos.”</span><span class="gx">Recorrido contando las unidades del showroom con contador en pantalla. 3 tarjetas de stories, 7 s cada una.</span><span class="gx"><b>Cierre:</b> “Reserva la tuya.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Dom 25<br>Chery</td><td>Guía en financiamiento (stories)</td><td><span class="gh">“¿Cuánto necesitas para llevarte uno?”</span><span class="gx">3 tarjetas: entrada, cuota y plazo. Sin cifras todavía — solo qué se evalúa.</span><span class="gx"><b>Cierre:</b> “Te lo calculamos.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Lun 26<br>Hyundai</td><td>ANUNCIO OFICIAL</td><td><span class="gh">“Se llama SPECIAL DAI.”</span><span class="gx">Reveal del logo: <b>SPECIAL</b> <s>DAYS</s> <b>DAI</b> con el tachado rojo cayendo en cámara. En pantalla: <b>2 al 7 de noviembre</b> · “precio especial: está cerca”. Sin cifra y sin modelo.</span><span class="gx"><b>Cierre:</b> “Aparta tu pase.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Lun 26<br>Chery</td><td>ANUNCIO OFICIAL</td><td><span class="gh">“Se llama SPECIAL DAI.”</span><span class="gx">Mismo reveal filmado en la zona Chery, con el tachado rojo y las fechas <b>2 al 7 de noviembre</b>. Texto: “el precio especial está cerca”.</span><span class="gx"><b>Cierre:</b> “Aparta tu pase.” Escribe <b>VIP</b>.</span></td></tr></tbody></table>
+  <p class="note"><b>Regla de estas 5 fechas:</b> nada de nombre antes del lunes 26, nada de cifras y ningún plano con el showroom completo. Cada pieza cierra con la keyword de su cuenta y se entrega 24 h antes de publicar.</p>
+  <p class="sources">Fuentes: grilla de contenido aprobada 22 oct 2026 · keywords WhatsApp por cuenta · reglas de marca (tachado, precio desde el 26, inventario no publicable).</p><div class="footer">Dai Motors · Hyundai + Chery Maracaibo · Special Dai · 2–7 nov 2026</div></section><section class="page"><div class="kicker"><span class="brand">DAI MOTORS · HYUNDAI + CHERY MARACAIBO</span><span class="pg">SPECIAL DAI · 5/6</span></div>
+  <h1 style="font-size:22px">Guion por pieza. La semana que enciende el anuncio.</h1>
+  <p class="subtitle">SPECIAL DAI · guiones 27 de octubre a 1 de noviembre · <b>12 piezas</b> · 6 días · primera fecha con precio en pantalla: solo desde el lunes 26.</p>
+
+  <div class="section-label">PRECAMPAÑA B · DEL PRIMER PRECIO AL ÚLTIMO DÍA ANTES DE ABRIR</div><div class="rule"></div>
+  <table class="gt"><thead><tr><th style="width:15%">Pieza</th><th style="width:23%">Idea</th><th>Guion</th></tr></thead><tbody><tr><td class="gd">Mar 27<br>Hyundai</td><td>Guía en financiamiento</td><td><span class="gh">“20 segundos para saber si puedes llevarte uno.”</span><span class="gx">Asesor al cámara sin cortes: entrada, cuota y plazo, explicado sin tecnicismos. Nada de letra chica en pantalla.</span><span class="gx"><b>Cierre:</b> “Tu cuota en DM.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Mar 27<br>Chery</td><td>Precios especiales</td><td><span class="gh">“El precio de esta semana no es el de siempre.”</span><span class="gx">Asesor al cámara: “cuando lo digamos, va a estar cerca”. Sin cifras, sin letra chica, mismo formato de 20 segundos.</span><span class="gx"><b>Cierre:</b> “Te lo mando por DM.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Mié 28<br>Hyundai</td><td>Flujo WhatsApp + entrega express</td><td><span class="gh">“Así se aparta en 10 segundos.”</span><span class="gx">Screen recording: click en el anuncio → WhatsApp → palabra <b>VIP</b> → respuesta automática → hora con el asesor.</span><span class="gx"><b>Cierre:</b> “Escribe <b>VIP</b> y te asignamos la hora.”</span></td></tr><tr><td class="gd">Mié 28<br>Chery</td><td>Flujo WhatsApp + recibimiento docs</td><td><span class="gh">“Lo mismo, con tus papeles listos.”</span><span class="gx">Mismo screen recording con la keyword de Chery: se agenda la hora y se pide el expediente de crédito.</span><span class="gx"><b>Cierre:</b> “Escribe <b>VIP</b> y agenda tu hora.”</span></td></tr><tr><td class="gd">Jue 29<br>Hyundai</td><td>Descuentos especiales</td><td><span class="gh">“190 días esperando. Ya le tocaba.”</span><span class="gx">Ficha real del Accent con fotos del showroom, no de catálogo. Texto: <b>190 días en showroom · precio de evento</b>.</span><span class="gx"><b>Cierre:</b> “Pregunta por el precio de evento.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Jue 29<br>Chery</td><td>Pocas unidades</td><td><span class="gh">“Seis. Y no llega otra tanda.”</span><span class="gx">Plano general del showroom Chery contando de uno en uno. Texto: <b>no se repone</b>. Nunca se publica el inventario.</span><span class="gx"><b>Cierre:</b> “Ven antes de que se acaben.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Vie 30<br>Hyundai</td><td>Precios especiales · Tucson</td><td><span class="gh">“La Tucson se lleva en una semana.”</span><span class="gx">Tres ángulos reales de la Tucson en showroom, sin foto de catálogo. Texto: <b>precio especial hasta el sábado 7</b>.</span><span class="gx"><b>Cierre:</b> “Aparta la tuya.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Vie 30<br>Chery</td><td>Pocas unidades · Tiggo 4</td><td><span class="gh">“Lleva 360 días esperando a alguien.”</span><span class="gx">La Tiggo 4 negra en primer plano, con contador de días en pantalla. “Alguien la estaba esperando.”</span><span class="gx"><b>Cierre:</b> “Es tuya si vienes.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Sáb 31<br>Hyundai</td><td>Recibimiento de documentos</td><td><span class="gh">“El lunes abre. Deja todo listo hoy.”</span><span class="gx">Piso a medio montar y escritorio de recepción: “deja tus papeles y llega el lunes sin fila”.</span><span class="gx"><b>Cierre:</b> “Escribe <b>VIP</b> y te decimos qué llevar.”</span></td></tr><tr><td class="gd">Sáb 31<br>Chery</td><td>Entrega express</td><td><span class="gh">“El lunes se abre.”</span><span class="gx">Time-lapse del montaje de la zona Chery. Texto: <b>si aprueban, te lo llevas el mismo día</b>.</span><span class="gx"><b>Cierre:</b> “Escribe <b>VIP</b>.”</span></td></tr><tr><td class="gd">Dom 1<br>Hyundai</td><td>Guía en financiamiento (stories)</td><td><span class="gh">“¿Qué necesitas para el lunes?”</span><span class="gx">3 tarjetas de stories: cédula, comprobante de ingreso y contacto. Sin cifras.</span><span class="gx"><b>Cierre:</b> “Escribe <b>VIP</b>.”</span></td></tr><tr><td class="gd">Dom 1<br>Chery</td><td>Precios especiales (stories)</td><td><span class="gh">“Se acaba el domingo.”</span><span class="gx">Cuenta regresiva en stories hacia la medianoche, con el logo tachado.</span><span class="gx"><b>Cierre:</b> “Escribe <b>VIP</b>.”</span></td></tr></tbody></table>
+  <p class="note"><b>Regla de estas 6 fechas:</b> los teasers ya pasaron — aquí se entra con utilidad (cuota, papeles, entrega express) y escasez real. Domingo 1 solo stories y sin publicación fuerte.</p>
+  <p class="sources">Fuentes: grilla de contenido aprobada 22 oct 2026 · rendimiento por día (Meta Business Suite) · keywords WhatsApp por cuenta.</p><div class="footer">Dai Motors · Hyundai + Chery Maracaibo · Special Dai · 2–7 nov 2026</div></section><section class="page"><div class="kicker"><span class="brand">DAI MOTORS · HYUNDAI + CHERY MARACAIBO</span><span class="pg">SPECIAL DAI · 6/6</span></div>
+  <h1 style="font-size:22px">Guion por pieza. La semana que se vende.</h1>
+  <p class="subtitle">SPECIAL DAI · guiones 2 al 9 de noviembre · <b>10 piezas</b> · rodaje diario de 9:00 a 10:00 am · todas con horario extendido en pantalla y ninguna con precio de cierre anunciado antes del sábado 7.</p>
+
+  <div class="section-label">SEMANA DEL EVENTO · GRABADO EN VIVO, PUBLICACIÓN 10–11 AM</div><div class="rule"></div>
+  <table class="gt"><thead><tr><th style="width:15%">Pieza</th><th style="width:23%">Idea</th><th>Guion</th></tr></thead><tbody><tr><td class="gd">Lun 2<br>Ambas</td><td>Apertura · horario extendido</td><td><span class="gh">“Abrió.”</span><span class="gx">Colas reales en la entrada, alfombra, mesa financiera lista. Cada concesionario filma el suyo. Texto en pantalla: <b>horario extendido</b>.</span><span class="gx"><b>Cierre:</b> “Ven hoy.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Mar 3<br>Hyundai</td><td>Bloque i10 + cuota</td><td><span class="gh">“Las 6 que están, se van esta semana.”</span><span class="gx">Las seis unidades en fila, cámara recorriendo una por una. Calculadora de cuota en pantalla. Horario extendido.</span><span class="gx"><b>Cierre:</b> “Pide tu cuota por DM.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Mar 3<br>Chery</td><td>Bloque Tiggo + cuota</td><td><span class="gh">“Seis SUV y ninguna vuelve.”</span><span class="gx">Las seis Tiggo en fila con el mismo recorrido de cámara. Calculadora de cuota en pantalla. Horario extendido.</span><span class="gx"><b>Cierre:</b> “Pide tu cuota por DM.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Mié 4<br>Hyundai</td><td>Banco aprobando · media day</td><td><span class="gh">“15 minutos y aprobado.”</span><span class="gx">Cliente firmando en la mesa financiera con permiso escrito, sin datos ni cara si no autoriza. Lives con los invitados. Horario extendido.</span><span class="gx"><b>Cierre:</b> “Trae tus papeles.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Mié 4<br>Chery</td><td>Media day · banco aprobando</td><td><span class="gh">“Aprobado en el mismo día.”</span><span class="gx">Live recorriendo la zona Chery con los invitados y la mesa financiera trabajando. Horario extendido.</span><span class="gx"><b>Cierre:</b> “Ven a conocerlo.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Jue 5<br>Hyundai</td><td>Entrega express</td><td><span class="gh">“Firmó hoy. Se lo lleva hoy.”</span><span class="gx">Llave en mano frente a la unidad, sin datos ni cara del cliente. Texto: <b>entrega express</b>. Horario extendido.</span><span class="gx"><b>Cierre:</b> “Escribe <b>VIP</b>.”</span></td></tr><tr><td class="gd">Jue 5<br>Chery</td><td>Producto · colores</td><td><span class="gh">“Seis colores. El mismo precio de evento.”</span><span class="gx">Secuencia rápida de los colores disponibles en showroom, uno tras otro, 10 segundos. Horario extendido.</span><span class="gx"><b>Cierre:</b> “Elige el tuyo.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Vie 6<br>Ambas</td><td>Pocas unidades · CRM</td><td><span class="gh">“Quedan X.”</span><span class="gx">Captura del CRM con el número real al cierre del jueves, sin editar y sin datos de clientes. Horario extendido.</span><span class="gx"><b>Cierre:</b> “Últimas unidades.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Sáb 7<br>Ambas</td><td>Cierre 5 pm</td><td><span class="gh">“Hoy a las 5 pm se acaba.”</span><span class="gx">Reloj marcando las 5 y el cartel de precios bajando. Recorrido final del showroom. Horario extendido.</span><span class="gx"><b>Cierre:</b> “Última llamada.” Escribe <b>VIP</b>.</span></td></tr><tr><td class="gd">Lun 9<br>Ambas</td><td>Recap</td><td><span class="gh">“Seis días en 20 segundos.”</span><span class="gx">Megamix: colas, montaje, entregas y la mesa financiera trabajando. Cierre con el logo tachado.</span><span class="gx"><b>Cierre:</b> “Lo que quedó sigue disponible.” Escribe <b>VIP</b>.</span></td></tr></tbody></table>
+  <p class="note"><b>Regla de estas 7 fechas:</b> una sola idea por pieza, ningún plano del showroom completo, la zona opuesta solo de paso. El número de “Quedan X” sale del CRM sin editar. Todo cierra el sábado 7 a las 5 pm.</p>
+  <p class="sources">Fuentes: grilla de contenido aprobada 22 oct 2026 · reglas de marca · CRM autoweb para “Quedan X” · Meta Business Suite (horarios de publicación).</p><div class="footer">Dai Motors · Hyundai + Chery Maracaibo · Special Dai · 2–7 nov 2026</div></section></body></html>

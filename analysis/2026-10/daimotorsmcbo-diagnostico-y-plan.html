@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Dai Motors · Hyundai — Diagnóstico y plan Sep–Nov 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  @page { size: Letter; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  html, body { background:#fff; color:#111; font-family:"IBM Plex Sans","Segoe UI",system-ui,sans-serif; }
+  .page { width:8.5in; height:11in; padding:.42in .5in .36in; position:relative; page-break-after:always; display:flex; flex-direction:column; overflow:hidden; }
+  .page:last-child { page-break-after:auto; }
+  .kicker { font-size:7.5px; letter-spacing:.22em; text-transform:uppercase; color:#6b6b6b; display:flex; justify-content:space-between; }
+  .kicker .brand { font-weight:600; color:#111; }
+  h1 { font-size:24px; line-height:1.12; font-weight:600; letter-spacing:-.5px; margin:12px 0 6px; }
+  .subtitle { font-size:9.5px; color:#444; line-height:1.4; }
+  .section-label { font-size:7px; letter-spacing:.2em; text-transform:uppercase; color:#8a8a8a; margin:10px 0 4px; }
+  .rule { height:1px; background:#e2e2e2; margin:4px 0 7px; }
+  .kpis { display:grid; grid-template-columns:repeat(4,1fr); gap:11px; margin-top:7px; }
+  .kpi .num { font-size:22px; font-weight:600; letter-spacing:-1px; line-height:1; }
+  .kpi .cap { font-size:7.5px; color:#555; margin-top:3px; line-height:1.3; }
+  .kpi .delta { font-size:7.5px; color:#c8102e; font-weight:600; margin-top:2px; }
+  table { width:100%; border-collapse:collapse; font-size:8px; }
+  th { text-align:left; font-size:6.5px; letter-spacing:.1em; text-transform:uppercase; color:#8a8a8a; font-weight:500; padding:3px 0; border-bottom:1px solid #111; }
+  td { padding:3.5px 0; border-bottom:1px solid #ececec; vertical-align:top; line-height:1.3; }
+  td.n, th.n { text-align:right; }
+  .red { color:#c8102e; font-weight:600; }
+  .two-col { display:grid; grid-template-columns:1fr 1fr; gap:20px; }
+  .three-col { display:grid; grid-template-columns:repeat(3,1fr); gap:14px; }
+  .bar-row { display:grid; grid-template-columns:50px 1fr 38px; align-items:center; gap:7px; font-size:8px; margin-bottom:3px; }
+  .bar { height:6px; background:#ededed; }
+  .bar > span { display:block; height:100%; background:#002c5f; }
+  .read { font-size:8.5px; color:#333; line-height:1.45; margin-top:7px; }
+  .foda { display:grid; grid-template-columns:1fr 1fr; gap:14px 22px; }
+  .foda h3 { font-size:7.5px; letter-spacing:.18em; text-transform:uppercase; margin-bottom:5px; }
+  .foda ul { list-style:none; }
+  .foda li { font-size:8px; line-height:1.4; margin-bottom:5px; padding-left:10px; position:relative; color:#222; }
+  .foda li::before { content:""; position:absolute; left:0; top:4px; width:4px; height:4px; background:#c8102e; }
+  .tactics { display:grid; grid-template-columns:repeat(5,1fr); gap:9px; }
+  .tactic .n { font-size:15px; font-weight:600; color:#c8102e; }
+  .tactic .t { font-size:8.5px; font-weight:600; margin:2px 0 3px; line-height:1.2; }
+  .tactic .x { font-size:7.5px; color:#444; line-height:1.3; }
+  .weeks { display:grid; grid-template-columns:repeat(2,1fr); gap:11px; }
+  .week { border-top:2px solid #002c5f; padding-top:6px; }
+  .week .d { font-size:7px; letter-spacing:.12em; text-transform:uppercase; color:#8a8a8a; }
+  .week .t { font-size:10px; font-weight:600; margin:2px 0 3px; }
+  .week .x { font-size:8px; color:#333; line-height:1.35; }
+  .sources { font-size:6.5px; color:#9a9a9a; line-height:1.4; margin-top:auto; padding-top:8px; }
+  .footer { position:absolute; right:.55in; bottom:.26in; font-size:6.5px; letter-spacing:.16em; text-transform:uppercase; color:#b0b0b0; }
+  .note { font-size:7.5px; color:#777; margin-top:5px; }
+  .verdict { background:#f6f6f6; padding:9px 11px; margin-top:11px; font-size:9px; line-height:1.45; border-left:3px solid #c8102e; }
+  .ok { color:#1a7a3c; font-weight:600; }
+  .warn { color:#b8860b; font-weight:600; }
+</style>
+</head>
+<body>
+
+<!-- ============ PÁGINA 1 · DIAGNÓSTICO ============ -->
+<section class="page">
+  <div class="kicker"><span class="brand">DAI MOTORS · HYUNDAI MARACAIBO</span><span>Sep–Nov 2026 · 1/4</span></div>
+
+  <h1>Septiembre fue el mejor mes de la cuenta.<br>Octubre demostró que no tenemos sistema.</h1>
+  <p class="subtitle">Diagnóstico digital de @daimotorsmcbo y plan comercial · Presentación a Gerencia y Marketing · Datos al 13 de octubre de 2026</p>
+
+  <div class="section-label">Septiembre 2026 en Instagram · Meta Business Suite</div>
+  <div class="kpis">
+    <div class="kpi"><div class="num">248.500</div><div class="cap">vistas</div><div class="delta">+193,2%</div></div>
+    <div class="kpi"><div class="num">4.700</div><div class="cap">clics al enlace (WhatsApp)</div><div class="delta">+145,6%</div></div>
+    <div class="kpi"><div class="num">812</div><div class="cap">seguidores nuevos</div><div class="delta">+134,7%</div></div>
+    <div class="kpi"><div class="num">143.795</div><div class="cap">mejor Reel del mes · 10K Nature</div><div class="delta">9.808 seguidores en total</div></div>
+  </div>
+
+  <div class="section-label">El año entero · la montaña rusa</div>
+  <table>
+    <thead><tr><th>Mes</th><th class="n">Vistas</th><th class="n">Clics</th><th class="n">Seguidores</th><th class="n">Reels</th></tr></thead>
+    <tbody>
+      <tr><td>Enero</td><td class="n">20.000</td><td class="n">6</td><td class="n">197</td><td class="n">1</td></tr>
+      <tr><td>Febrero</td><td class="n">171.600</td><td class="n">3.400</td><td class="n">413</td><td class="n">3</td></tr>
+      <tr><td>Marzo</td><td class="n">95.700</td><td class="n">2.400</td><td class="n">326</td><td class="n">4</td></tr>
+      <tr><td>Abril</td><td class="n">32.900</td><td class="n">14</td><td class="n">147</td><td class="n">4</td></tr>
+      <tr><td>Mayo</td><td class="n">127.900</td><td class="n">2.900</td><td class="n">352</td><td class="n">5</td></tr>
+      <tr><td>Junio</td><td class="n">235.900</td><td class="n">5.500</td><td class="n">644</td><td class="n">5</td></tr>
+      <tr><td>Julio</td><td class="n">129.100</td><td class="n">3.200</td><td class="n">391</td><td class="n">3</td></tr>
+      <tr><td>Agosto</td><td class="n">87.600</td><td class="n">2.000</td><td class="n">363</td><td class="n">8</td></tr>
+      <tr><td><b>Septiembre</b></td><td class="n"><b>248.500</b></td><td class="n">4.700</td><td class="n"><b>812</b></td><td class="n">7</td></tr>
+      <tr><td>Octubre (1–13)</td><td class="n">158.800</td><td class="n">1.600</td><td class="n red">53</td><td class="n">3</td></tr>
+      <tr><td><b>Acumulado</b></td><td class="n"><b>≈1.308.000</b></td><td class="n"><b>≈25.700</b></td><td class="n"><b>3.698</b></td><td class="n"><b>43</b></td></tr>
+    </tbody>
+  </table>
+  <p class="read"><b>Lectura:</b> no es temporada. Los tres picos coinciden con contenido con persona y oferta; los tres valles con emoción genérica. <b>Octubre no colapsó en vistas — colapsó en conversión: 158.800 vistas y solo 53 seguidores nuevos (−93%).</b></p>
+
+  <div class="section-label">Dai Motors vs. Automall Hyundai · últimos Reels de septiembre · 7 piezas cada uno</div>
+  <div class="rule"></div>
+  <table>
+    <thead><tr><th></th><th class="n">Dai Motors</th><th class="n">Automall Hyundai</th><th class="n">Diferencia</th></tr></thead>
+    <tbody>
+      <tr><td>Seguidores</td><td class="n"><b>9.808</b></td><td class="n">5.367</td><td class="n">1,8×</td></tr>
+      <tr><td>Vistas totales</td><td class="n"><b>289.940</b></td><td class="n">5.404</td><td class="n"><b>54×</b></td></tr>
+      <tr><td>Reel típico (mediana)</td><td class="n"><b>28.833</b></td><td class="n">861</td><td class="n"><b>33×</b></td></tr>
+      <tr><td>Me gusta / comentarios</td><td class="n">1.152 / 251</td><td class="n">129 / 14</td><td class="n">8,9× / 18×</td></tr>
+      <tr><td>Ritmo publicador</td><td class="n">2,0 Reels/sem</td><td class="n">2,0 Reels/sem</td><td class="n">empate</td></tr>
+      <tr><td>Oferta comunicada</td><td class="n">Producto, entrega, humor local</td><td class="n">Taller, autopartes, garantía</td><td class="n">territorio distinto</td></tr>
+    </tbody>
+  </table>
+  <p class="read"><b>Lectura:</b> en agosto estábamos parejos (70.920 vs. 68.242). Con el mismo ritmo de publicación, la diferencia en septiembre fue de 54×. <b>La causa no fue publicar más: fue publicar distinto.</b></p>
+
+  <div class="section-label">A quién le hablamos · base de 9.808 seguidores</div>
+  <div class="rule"></div>
+  <div class="two-col">
+    <div>
+      <div class="bar-row"><span>18–24</span><div class="bar"><span style="width:11%"></span></div><span>4,0%</span></div>
+      <div class="bar-row"><span>25–34</span><div class="bar"><span style="width:58%"></span></div><span>20,5%</span></div>
+      <div class="bar-row"><span>35–44</span><div class="bar"><span style="width:100%"></span></div><span>35,0%</span></div>
+      <div class="bar-row"><span>45–54</span><div class="bar"><span style="width:71%"></span></div><span>25,0%</span></div>
+      <div class="bar-row"><span>55–64</span><div class="bar"><span style="width:32%"></span></div><span>11,1%</span></div>
+      <div class="bar-row"><span>65+</span><div class="bar"><span style="width:13%"></span></div><span>4,4%</span></div>
+      <p class="read" style="margin-top:5px">Hombres <b>61,2%</b> · Mujeres 38,8%</p>
+    </div>
+    <div>
+      <div class="bar-row"><span>Maracaibo</span><div class="bar"><span style="width:100%"></span></div><span>48,4%</span></div>
+      <div class="bar-row"><span>San Fran.</span><div class="bar"><span style="width:24%"></span></div><span>11,4%</span></div>
+      <div class="bar-row"><span>Cabimas</span><div class="bar"><span style="width:8%"></span></div><span>3,9%</span></div>
+      <div class="bar-row"><span>Caracas</span><div class="bar"><span style="width:6%"></span></div><span>2,7%</span></div>
+      <div class="bar-row"><span>C. Ojeda</span><div class="bar"><span style="width:5%"></span></div><span>2,4%</span></div>
+      <div class="bar-row"><span>V. Rosario</span><div class="bar"><span style="width:3%"></span></div><span>1,2%</span></div>
+      <p class="read" style="margin-top:5px">Venezuela <b>87,1%</b> · Zulia ≈ <b>69%</b></p>
+    </div>
+  </div>
+  <p class="read"><b>Lectura:</b> el 60% tiene entre 35 y 54 años y el 69% vive en el Zulia. Hablamos con familias que deciden la compra del carro familiar, no con jóvenes del primer carro.</p>
+
+  <div class="section-label">Qué vende y qué no en nuestros Reels · septiembre</div>
+  <div class="rule"></div>
+  <div class="two-col">
+    <div>
+      <p class="read" style="font-weight:600;margin:0 0 5px">Funciona: persona en cámara + producto o gancho local</p>
+      <table><tbody>
+        <tr><td>"Lo natural también se mueve" (10K)</td><td class="n"><b>143.795</b></td></tr>
+        <tr><td>"¿Solo 20 segundos… el Accent?"</td><td class="n"><b>58.450</b> <span class="note" style="display:inline">(208 cmt)</span></td></tr>
+        <tr><td>"Hay metas que se sienten el doble" (entrega)</td><td class="n">32.809</td></tr>
+        <tr><td>"El verdadero poder…" (atletas 10K)</td><td class="n">22.591</td></tr>
+      </tbody></table>
+    </div>
+    <div>
+      <p class="read" style="font-weight:600;margin:0 0 5px">No funciona: emoción genérica sin persona</p>
+      <table><tbody>
+        <tr><td>"Nos sumamos a la energía del deporte"</td><td class="n red">1.380</td></tr>
+        <tr><td>"El compañero fiel de mil historias"</td><td class="n red">193</td></tr>
+        <tr><td>Octubre (3 piezas, mismo formato)</td><td class="n red">1.708</td></tr>
+        <tr><td colspan="2" class="note">3 Reels concentran el 82% del alcance del mes.</td></tr>
+      </tbody></table>
+    </div>
+  </div>
+
+  <p class="sources">Fuentes: Meta Business Suite (1–30 sep 2026 y enero–oct 2026) · Apify/Instagram (Reels públicos, 2026) · TikTok (perfiles públicos) · reporte de ventas Dai Motors (1 ago–30 sep 2026) · reporte de inventario Dai Motors (13 oct 2026) · Cavenez vía Finanzas Digital y Noticiero Digital (sep 2026).</p>
+  <div class="footer">Dai Motors · Hyundai Maracaibo</div>
+</section>
+
+<!-- ============ PÁGINA 2 · MERCADO ============ -->
+<section class="page">
+  <div class="kicker"><span class="brand">DAI MOTORS · HYUNDAI MARACAIBO</span><span>Sep–Nov 2026 · 2/4</span></div>
+
+  <h1>El mercado creció 70% y el que publica precio<br>y crédito se lleva la vista.</h1>
+
+  <div class="section-label">El mercado en cifras</div>
+  <div class="rule"></div>
+  <div class="kpis">
+    <div class="kpi"><div class="num">36.855</div><div class="cap">vehículos nuevos en enero–agosto 2026</div><div class="delta">+70% vs. 2025</div></div>
+    <div class="kpi"><div class="num">&gt;50.000</div><div class="cap">unidades proyectadas por Cavenez para 2026</div></div>
+    <div class="kpi"><div class="num">68,3%</div><div class="cap">del mercado son pasajeros</div></div>
+    <div class="kpi"><div class="num">5.999</div><div class="cap">unidades colocadas en agosto</div></div>
+  </div>
+
+  <div class="section-label">Lo más visto en Venezuela · septiembre 2026</div>
+  <div class="rule"></div>
+  <table>
+    <thead><tr><th>Cuenta · pieza</th><th class="n">Reproducciones</th></tr></thead>
+    <tbody>
+      <tr><td><b>Bera Cars Cabimas</b> — "¿Sabías que puedes financiar hasta el 90% de tu BERA LIVAN X3 PRO a través del Banco Provincial?"</td><td class="n"><b>73.020</b></td></tr>
+      <tr><td>Kia Caracas — "Hay decisiones que te cambian el día. El Kia Soluto 2027"</td><td class="n">55.077</td></tr>
+      <tr><td><b>Bera Cars Cabimas</b> — "¿Pensabas que estrenar un carro 0 Km en Cabimas era imposible?"</td><td class="n">26.820</td></tr>
+      <tr><td>Bera Cars — "¡YA ESTAMOS EN MÉRIDA!"</td><td class="n">16.830</td></tr>
+      <tr><td>Asia Motors — "Todo para tu vehículo asiático al mejor precio"</td><td class="n">11.925</td></tr>
+    </tbody>
+  </table>
+  <p class="read"><b>En rojo: Bera Cars metió 4 piezas en el top nacional desde Cabimas</b>, donde está el 3,9% de nuestra audiencia. Es el competidor que más crece en la Costa Oriental.</p>
+
+  <div class="section-label">TikTok · ya estamos, pero sin estrategia</div>
+  <div class="rule"></div>
+  <div class="kpis">
+    <div class="kpi"><div class="num">392</div><div class="cap">seguidores en @grupodaimotors</div></div>
+    <div class="kpi"><div class="num">33.709</div><div class="cap">vistas en 16 videos</div><div class="delta">mejor: 11.200</div></div>
+    <div class="kpi"><div class="num">5,5</div><div class="cap">videos/semana · más que en Instagram</div></div>
+    <div class="kpi"><div class="num red">103.400</div><div class="cap">seguidores de @jacmotorsvzla, en el mismo mercado</div></div>
+  </div>
+  <p class="read">Publicamos más en TikTok que en Instagram y tenemos 392 seguidores. <b>El contenido se distribuye, no convierte.</b> Además el nombre cambia entre plataformas (@daimotorsmcbo vs. @grupodaimotors) y eso rompe el reconocimiento de marca.</p>
+
+  <div class="section-label">Cinco colecciones para Dai Motors</div>
+  <div class="rule"></div>
+  <div class="tactics">
+    <div class="tactic"><div class="n">01</div><div class="t">Precio real del i10</div><div class="x">Único modelo con precio publicable: desde $21.000. Nadie en la plaza publica precio final.</div></div>
+    <div class="tactic"><div class="n">02</div><div class="t">Cuota sin letra chica</div><div class="x">No prometemos cuota fija: explicamos qué la determina y la calculamos.</div></div>
+    <div class="tactic"><div class="n">03</div><div class="t">Entrega en 4 días</div><div class="x">Verificado con el área. Argumento de "no esperes a diciembre".</div></div>
+    <div class="tactic"><div class="n">04</div><div class="t">Caras fijas y clientes reales</div><div class="x">Formato #1 del año. Es lo que Automall no usa.</div></div>
+    <div class="tactic"><div class="n">05</div><div class="t">TikTok como buscador</div><div class="x">El 56% de sus usuarios busca vehículos; el 30% tiene más de 40 años.</div></div>
+  </div>
+
+  <p class="sources">Fuentes: Cavenez vía Finanzas Digital y Noticiero Digital (sep 2026) · Apify/Instagram (Reels públicos, septiembre 2026) · TikTok (perfiles públicos, oct 2026).</p>
+  <div class="footer">Dai Motors · Hyundai Maracaibo</div>
+</section>
+
+<!-- ============ PÁGINA 3 · FODA + INVENTARIO ============ -->
+<section class="page">
+  <div class="kicker"><span class="brand">DAI MOTORS · HYUNDAI MARACAIBO</span><span>Sep–Nov 2026 · 3/4</span></div>
+
+  <h1>Tenemos el mejor alcance de la plaza y el stock<br>para venderlo. Nos falta sistema y medición.</h1>
+
+  <div class="foda" style="margin-top:8px">
+    <div><h3>F · Fortalezas</h3><ul>
+      <li>54 veces el alcance de Automall en septiembre con el mismo ritmo de publicación</li>
+      <li>9.808 seguidores vs. 5.367, con 812 nuevos en un mes</li>
+      <li>El Accent probado: 58.450 vistas y 208 comentarios en un solo Reel</li>
+      <li>Único con precio publicado en la plaza: Grand i10 desde $21.000</li>
+      <li>4.700 clics al WhatsApp en septiembre, con intención real de compra</li>
+    </ul></div>
+    <div><h3>D · Debilidades</h3><ul>
+      <li>3 Reels concentran el 82% del alcance: no hay sistema, hay picos</li>
+      <li>1,6 Reels/semana en octubre vs. 7 piezas de septiembre que funcionaron</li>
+      <li><b>No medimos el origen de ningún chat</b> en 25.700 clics acumulados</li>
+      <li>TikTok con 392 seguidores y nombre distinto al de Instagram</li>
+      <li>9 Tucson en piso con ventas de 2 unidades en 61 días</li>
+    </ul></div>
+    <div><h3>O · Oportunidades</h3><ul>
+      <li>Mercado +70% y proyección de más de 50.000 unidades en 2026</li>
+      <li>Crédito y precio superan el millón de vistas en el país (Bera: 73.020)</li>
+      <li>Nadie publica precio final en Maracaibo y nosotros sí podemos</li>
+      <li>TikTok como buscador sin competencia local fuerte</li>
+      <li>Cabimas y Costa Oriental sin concesionario Hyundai consolidado</li>
+    </ul></div>
+    <div><h3>A · Amenazas</h3><ul>
+      <li>Bera Cars ya opera en Cabimas y Mérida con 4 piezas en el top nacional</li>
+      <li>Automall tiene taller, autopartes y garantía comunicada</li>
+      <li>JAC lidera con 103.400 seguidores en TikTok y alianzas locales</li>
+      <li>Octubre cayó a 53 seguidores nuevos: sin sistema, cada mes arranca de cero</li>
+      <li>50 unidades por recibir compiten con las 36 del piso</li>
+    </ul></div>
+  </div>
+
+  <div class="section-label">Inventario · reporte al 13 de octubre 2026</div>
+  <div class="rule"></div>
+  <table>
+    <thead><tr><th>Modelo</th><th class="n">En piso</th><th class="n">Por recibir</th></tr></thead>
+    <tbody>
+      <tr><td><b>Grand i10</b> (AT GL / AT GLS / MT GL)</td><td class="n"><b>14</b></td><td class="n"><b>31</b></td></tr>
+      <tr><td>Accent 1.5L A/T GLS</td><td class="n">9</td><td class="n">3</td></tr>
+      <tr><td>Tucson 2.0L AT 2WD GLS</td><td class="n">9</td><td class="n">9</td></tr>
+      <tr><td>Creta 1.5L A/T GLS</td><td class="n">4</td><td class="n">4</td></tr>
+      <tr><td>Elantra 2.0 A/T GLS · Staria 11 P</td><td class="n">—</td><td class="n">2</td></tr>
+      <tr><td><b>Total · a costo</b></td><td class="n"><b>36 · $843.060</b></td><td class="n"><b>50 · $1.145.495</b></td></tr>
+    </tbody>
+  </table>
+  <p class="note">Todas las 36 unidades del piso son <b>modelo 2026</b> (verificado por serial de carrocería). Las 50 por recibir no tienen serial asignado: no se puede prometer año de modelo sobre ellas.</p>
+
+  <div class="section-label">Unidades con más de 90 días en piso · sin bono disponible</div>
+  <div class="rule"></div>
+  <table>
+    <thead><tr><th>Unidad</th><th>Color</th><th class="n">Días</th><th>Recibida</th></tr></thead>
+    <tbody>
+      <tr><td>Accent A/T GLS (AO712OA)</td><td>Blanco</td><td class="n red">181</td><td>16 abr</td></tr>
+      <tr><td>Accent A/T GLS (AO784WA)</td><td>Blanco</td><td class="n red">147</td><td>20 may</td></tr>
+      <tr><td>Grand i10 A/T GLS (AP799GB)</td><td>Plata</td><td class="n warn">102</td><td>4 jul</td></tr>
+    </tbody>
+  </table>
+  <p class="note">Blanco es el color más vendido del Accent: no es un problema de color, es que nadie las está viendo. Sin bono, el único palanca es hacerlas visibles y emparejarlas con el comprador correcto. Edad promedio del piso: <b>43 días</b>; 20 unidades tienen menos de 30.</p>
+
+  <p class="sources">Fuentes: reporte de inventario Dai Motors (13 oct 2026). Año de modelo según el décimo carácter del serial de carrocería.</p>
+  <div class="footer">Dai Motors · Hyundai Maracaibo</div>
+</section>
+
+<!-- ============ PÁGINA 4 · PLAN ============ -->
+<section class="page">
+  <div class="kicker"><span class="brand">DAI MOTORS · HYUNDAI MARACAIBO</span><span>Sep–Nov 2026 · 4/4</span></div>
+
+  <h1>Velocidad real vs. meta: los números<br>que hay que decidir.</h1>
+
+  <div class="section-label">Lo que se vende vs. lo que hay · ventas reales 1 ago – 30 sep</div>
+  <div class="rule"></div>
+  <table>
+    <thead><tr><th>Modelo</th><th class="n">Se vende</th><th class="n">Hay en piso</th><th class="n">Semanas para vaciar</th><th>Veredicto</th></tr></thead>
+    <tbody>
+      <tr><td><b>Grand i10</b></td><td class="n">18 uds (53%)</td><td class="n">14 (39%)</td><td class="n">6,7</td><td class="ok">Se vacía solo</td></tr>
+      <tr><td><b>Creta</b></td><td class="n">5 uds (15%)</td><td class="n">4 (11%)</td><td class="n">7,0</td><td class="ok">Se vacía solo</td></tr>
+      <tr><td>Accent</td><td class="n">7 uds (21%)</td><td class="n">9 (25%)</td><td class="n">11,3</td><td class="warn">necesita 1,65×</td></tr>
+      <tr><td><b>Tucson</b></td><td class="n red">2 uds (6%)</td><td class="n red">9 (25%)</td><td class="n red">39,1</td><td class="red">necesita 5,7×</td></tr>
+    </tbody>
+  </table>
+  <p class="read"><b>34 unidades Hyundai en 61 días.</b> Ritmo real: <b>0,56/día = 3,9/semana = 16,7/mes</b> · Ticket promedio <b>$29.406</b> · Facturado $705.737 · <b>65% al crédito</b>.</p>
+
+  <div class="verdict">
+    <b>La decisión.</b> Para vender 61 unidades en 48 días hacen falta <b>8,9 por semana</b> contra las <b>3,9</b> que se venden hoy: <b>2,28×</b>. El contenido orgánico no cierra esa brecha — exigiría 12.000 clics al mes, 2,6× el mejor mes histórico. <br>
+    <b>Meta factible sin decisión comercial: 42 unidades.</b> Los 19 restantes dependen del Tucson, y el Tucson no se mueve con contenido.
+  </div>
+
+  <div class="section-label">Qué vamos a hacer · 13 oct – 30 nov · 4 piezas por semana</div>
+  <div class="rule"></div>
+  <div class="weeks">
+    <div class="week"><div class="d">Octubre 13–31 · "No esperes a diciembre"</div><div class="t">Kilómetro Cero y precio real</div>
+      <div class="x">Entregas reales con contador · Grand i10 <b>desde $21.000</b> · qué determina tu cuota · entrega en 4 días · las 3 unidades de más de 140 días visibles y nombradas · 10K Nature en 1 sola pieza</div></div>
+    <div class="week"><div class="d">Noviembre 1–30 · "Lo que llegó, está hoy"</div><div class="t">Las 50 unidades entran al plan</div>
+      <div class="x">Despiece real y disponibilidad inmediata · <b>31 Grand i10 entrantes</b>, el modelo que más se vende · cuota calculada para cada cliente por DM · entregas contadas como Kilómetro Cero · cierre del contador</div></div>
+  </div>
+  <p class="note">El calendario día a día (28 piezas + 1 excepción) está en el documento aparte: <b>Grilla_Kilometro_Cero_Oct-Nov_2026</b>.</p>
+
+  <div class="two-col" style="margin-top:12px">
+    <div>
+      <div class="section-label" style="margin-top:0">Reparto de la pauta en Meta</div>
+      <div class="rule"></div>
+      <p class="read" style="margin:0"><b>[FALTA: presupuesto de pauta]</b><br>Sin presupuesto confirmado el plan es 100% orgánico y la meta baja a 42. Con presupuesto, el primer peso va al Reel del Accent que ya sacó 58.450 vistas — nunca a una creatividad nueva sin probar.</p>
+      <p class="note">Objetivo de todas las campañas: mensajes a WhatsApp. Palabras clave: I10, ACCENT, TUCSON, CRETA.</p>
+    </div>
+    <div>
+      <div class="section-label" style="margin-top:0">Cómo lo vamos a medir</div>
+      <div class="rule"></div>
+      <table><tbody>
+        <tr><td>Piezas publicadas</td><td class="n">3 (oct) → <b>4/semana</b></td></tr>
+        <tr><td>Reel típico (mediana)</td><td class="n">409 → <b>≥3.000</b></td></tr>
+        <tr><td>Clics al enlace</td><td class="n">4.700 → <b>5.000 etiquetados</b></td></tr>
+        <tr><td>Chats con origen registrado</td><td class="n red">0 → <b>100%</b></td></tr>
+        <tr><td>Unidades vendidas</td><td class="n">16,7/mes → <b>42</b></td></tr>
+      </tbody></table>
+    </div>
+  </div>
+
+  <div class="section-label">Acciones a seguir</div>
+  <div class="rule"></div>
+  <table>
+    <thead><tr><th style="width:14px">#</th><th>Acción</th><th style="width:105px">Responsable</th><th style="width:60px">Fecha</th></tr></thead>
+    <tbody>
+      <tr><td>1</td><td>Confirmar la inicial mínima con la que la cuota del i10 queda en $400</td><td>Comercial</td><td>17 oct</td></tr>
+      <tr><td>2</td><td>Decidir sobre los 9 Tucson: empaquetar con seguro/accesorios o aceptar 4 meses</td><td>Gerencia</td><td>17 oct</td></tr>
+      <tr><td>3</td><td>Unificar nombre de marca: TikTok pasa a @daimotorsmcbo</td><td>Marketing</td><td>19 oct</td></tr>
+      <tr><td>4</td><td>Activar palabras clave y etiquetas en WhatsApp (I10, ACCENT, TUCSON, CRETA)</td><td>Marketing</td><td>20 oct</td></tr>
+      <tr><td>5</td><td>Retirar el formato de emoción genérica sin persona</td><td>Marketing</td><td>17 oct</td></tr>
+      <tr><td>6</td><td>Publicar 4 Reels por semana en Instagram, re-editados para TikTok</td><td>Marketing</td><td>13 oct–30 nov</td></tr>
+      <tr><td>7</td><td>Re-editar el Accent de 58.450 vistas con 2 ganchos nuevos</td><td>Marketing</td><td>24 oct</td></tr>
+      <tr><td>8</td><td>Registrar el origen de cada chat, cita y venta</td><td>Ventas</td><td>Diario</td></tr>
+      <tr><td>9</td><td>Revisar tablero y mover la pauta a lo que convierte</td><td>Gerencia y Marketing</td><td>Cada lunes</td></tr>
+    </tbody>
+  </table>
+
+  <p class="sources">Las cuotas en dólares se publican solo después de confirmarlas con cada entidad financiera. El precio del Grand i10 ($21.000) se comunica únicamente mientras haya unidades reales disponibles. La entrega mínima verificada es de 4 días.</p>
+  <div class="footer">Dai Motors · Hyundai Maracaibo</div>
+</section>
+
+</body>
+</html>

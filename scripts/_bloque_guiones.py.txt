@@ -1,0 +1,183 @@
+# ============================================================ GUIÓN · TABLA
+def gtable(rows, w1="15%", w2="23%"):
+    h = (f'<table class="gt"><thead><tr><th style="width:{w1}">Pieza</th>'
+         f'<th style="width:{w2}">Idea</th><th>Guion</th></tr></thead><tbody>')
+    for p, idea, hook, ver, cierre in rows:
+        h += (f'<tr><td class="gd">{p}</td><td>{idea}</td>'
+              f'<td><span class="gh">{hook}</span>'
+              f'<span class="gx">{ver}</span>'
+              f'<span class="gx"><b>Cierre:</b> {cierre}</span></td></tr>')
+    return h + "</tbody></table>"
+
+
+# ============================================================ HOJA 4 — GUIONES · PRECAMPAÑA A (22–26 OCT)
+def hoja4():
+    rows = [
+        ("Jue 22<br>Hyundai", "Teaser · expectativa",
+         "“Esto nunca lo hicimos.”",
+         "Luces encendiéndose una por una en el piso vacío, planos oscuros y cortos. Texto: <b>Dai Motors hace algo que nunca hizo</b>. Sin modelos, sin precio, sin fecha. 8 segundos.",
+         "“Pronto te contamos.” Escribe <b>VIP</b>."),
+        ("Jue 22<br>Chery", "Teaser · expectativa",
+         "“Se viene algo distinto.”",
+         "Manos colocando guirnaldas y cajas en la zona Chery, plano cerrado: nunca se ve el carro completo. Mismo ritmo de corte que Hyundai, corte propio. 8 segundos.",
+         "“Muy pronto.” Escribe <b>VIP</b>."),
+        ("Vie 23<br>Hyundai", "Precios especiales",
+         "“Va a estar más cerca de lo que piensas.”",
+         "Asesor al cámara, sin cifras en pantalla. “Por una semana el precio va a ser distinto — todavía no lo decimos.” Cámara en mano, piso de fondo.",
+         "“Cuando lo revelemos te llega primero.” Escribe <b>VIP</b>."),
+        ("Vie 23<br>Chery", "Entrega express",
+         "“Hoy apruebas, hoy te lo llevas.”",
+         "Llaves sobre el tablero, motor encendido, plano del pedal y de la puerta saliendo. Texto: <b>Entrega express</b>. 6 segundos.",
+         "“Pregunta por entrega express.” Escribe <b>VIP</b>."),
+        ("Sáb 24<br>Hyundai", "Recibimiento de documentos",
+         "“Trae tus papeles hoy.”",
+         "La lista de documentos en mano, el asesor marcando uno por uno. “Nosotros te avisamos si ya está listo antes de que empiece la semana.”",
+         "“Deja tu expediente y salta la fila.” Escribe <b>VIP</b>."),
+        ("Sáb 24<br>Chery", "Revelación Himla 2027 (opcional)",
+         "“Esto todavía no lo has visto.”",
+         "Pickup cubierta con lona: solo la silueta, plano lateral y contrapicado. Texto: <b>Llega algo nuevo</b>. Sin modelo, sin fecha, sin precio.",
+         "“Se revela muy pronto.” Escribe <b>VIP</b>."),
+        ("Dom 25<br>Hyundai", "Pocas unidades (stories)",
+         "“No va a haber de todos.”",
+         "Recorrido contando las unidades del piso con contador en pantalla. 3 tarjetas de stories, 7 s cada una.",
+         "“Reserva la tuya.” Escribe <b>VIP</b>."),
+        ("Dom 25<br>Chery", "Guía en financiamiento (stories)",
+         "“¿Cuánto necesitas para llevarte uno?”",
+         "3 tarjetas: entrada, cuota y plazo. Sin cifras todavía — solo qué se evalúa.",
+         "“Te lo calculamos.” Escribe <b>VIP</b>."),
+        ("Lun 26<br>Hyundai", "ANUNCIO OFICIAL",
+         "“Se llama SPECIAL DAI.”",
+         "Reveal del logo: <b>SPECIAL</b> <s>DAYS</s> <b>DAI</b> con el tachado rojo cayendo en cámara. En pantalla: <b>2 al 7 de noviembre</b> · “precio especial: está cerca”. Sin cifra y sin modelo.",
+         "“Aparta tu pase.” Escribe <b>VIP</b>."),
+        ("Lun 26<br>Chery", "ANUNCIO OFICIAL",
+         "“Se llama SPECIAL DAI.”",
+         "Mismo reveal filmado en la zona Chery, con el tachado rojo y las fechas <b>2 al 7 de noviembre</b>. Texto: “el precio especial está cerca”.",
+         "“Aparta tu pase.” Escribe <b>VIP</b>."),
+    ]
+    c = '''
+  <h1 style="font-size:22px">Guion por pieza. Del teaser al anuncio.</h1>
+  <p class="subtitle">SPECIAL DAI · guiones 22–26 de octubre · <b>10 piezas</b> · 5 días de precampaña · cada guion trae hook (0–2 s), qué se ve y cierre con CTA.</p>
+
+  <div class="section-label">PRECAMPAÑA A · DEL TWEASER AL ANUNCIO OFICIAL</div><div class="rule"></div>
+  ''' + gtable(rows) + '''
+  <p class="note"><b>Regla de estas 5 fechas:</b> nada de nombre antes del lunes 26, nada de cifras y ningún plano con el piso completo. Cada pieza cierra con la keyword de su cuenta y se entrega 24 h antes de publicar.</p>
+  '''
+    return page(4, c, TOTAL, "Fuentes: grilla de contenido aprobada 22 oct 2026 · keywords WhatsApp por cuenta · reglas de marca (tachado, precio desde el 26, inventario no publicable).")
+
+
+# ============================================================ HOJA 5 — GUIONES · PRECAMPAÑA B (27 OCT – 1 NOV)
+def hoja5():
+    rows = [
+        ("Mar 27<br>Hyundai", "Guía en financiamiento",
+         "“20 segundos para saber si puedes llevarte uno.”",
+         "Asesor al cámara sin cortes: entrada, cuota y plazo, explicado sin tecnicismos. Nada de letra chica en pantalla.",
+         "“Tu cuota en DM.” Escribe <b>VIP</b>."),
+        ("Mar 27<br>Chery", "Precios especiales",
+         "“El precio de esta semana no es el de siempre.”",
+         "Asesor al cámara: “cuando lo digamos, va a estar cerca”. Sin cifras, sin letra chica, mismo formato de 20 segundos.",
+         "“Te lo mando por DM.” Escribe <b>VIP</b>."),
+        ("Mié 28<br>Hyundai", "Flujo WhatsApp + entrega express",
+         "“Así se aparta en 10 segundos.”",
+         "Screen recording: click en el anuncio → WhatsApp → palabra <b>VIP</b> → respuesta automática → hora con el asesor.",
+         "“Escribe <b>VIP</b> y te asignamos la hora.”"),
+        ("Mié 28<br>Chery", "Flujo WhatsApp + recibimiento docs",
+         "“Lo mismo, con tus papeles listos.”",
+         "Mismo screen recording con la keyword de Chery: se agenda la hora y se pide el expediente de crédito.",
+         "“Escribe <b>VIP</b> y agenda tu hora.”"),
+        ("Jue 29<br>Hyundai", "Descuentos especiales",
+         "“190 días esperando. Ya le tocaba.”",
+         "Ficha real del Accent con fotos del piso, no de catálogo. Texto: <b>190 días en piso · precio de evento</b>.",
+         "“Pregunta por el precio de evento.” Escribe <b>VIP</b>."),
+        ("Jue 29<br>Chery", "Pocas unidades",
+         "“Seis. Y no llega otra tanda.”",
+         "Plano general del piso Chery contando de uno en uno. Texto: <b>no se repone</b>. Nunca se publica el inventario.",
+         "“Ven antes de que se acaben.” Escribe <b>VIP</b>."),
+        ("Vie 30<br>Hyundai", "Precios especiales · Tucson",
+         "“La Tucson se lleva en una semana.”",
+         "Tres ángulos reales de la Tucson en piso, sin foto de catálogo. Texto: <b>precio especial hasta el sábado 7</b>.",
+         "“Aparta la tuya.” Escribe <b>VIP</b>."),
+        ("Vie 30<br>Chery", "Pocas unidades · Tiggo 4",
+         "“Lleva 360 días esperando a alguien.”",
+         "La Tiggo 4 negra en primer plano, con contador de días en pantalla. “Alguien la estaba esperando.”",
+         "“Es tuya si vienes.” Escribe <b>VIP</b>."),
+        ("Sáb 31<br>Hyundai", "Recibimiento de documentos",
+         "“El lunes abre. Deja todo listo hoy.”",
+         "Piso a medio montar y escritorio de recepción: “deja tus papeles y llega el lunes sin fila”.",
+         "“Escribe <b>VIP</b> y te decimos qué llevar.”"),
+        ("Sáb 31<br>Chery", "Entrega express",
+         "“El lunes se abre.”",
+         "Time-lapse del montaje de la zona Chery. Texto: <b>si aprueban, te lo llevas el mismo día</b>.",
+         "“Escribe <b>VIP</b>.”"),
+        ("Dom 1<br>Hyundai", "Guía en financiamiento (stories)",
+         "“¿Qué necesitas para el lunes?”",
+         "3 tarjetas de stories: cédula, comprobante de ingreso y contacto. Sin cifras.",
+         "“Escribe <b>VIP</b>.”"),
+        ("Dom 1<br>Chery", "Precios especiales (stories)",
+         "“Se acaba el domingo.”",
+         "Cuenta regresiva en stories hacia la medianoche, con el logo tachado.",
+         "“Escribe <b>VIP</b>.”"),
+    ]
+    c = '''
+  <h1 style="font-size:22px">Guion por pieza. La semana que enciende el anuncio.</h1>
+  <p class="subtitle">SPECIAL DAI · guiones 27 de octubre a 1 de noviembre · <b>12 piezas</b> · 6 días · primera fecha con precio en pantalla: solo desde el lunes 26.</p>
+
+  <div class="section-label">PRECAMPAÑA B · DEL PRIMER PRECIO AL ÚLTIMO DÍA ANTES DE ABRIR</div><div class="rule"></div>
+  ''' + gtable(rows) + '''
+  <p class="note"><b>Regla de estas 6 fechas:</b> los teasers ya pasaron — aquí se entra con utilidad (cuota, papeles, entrega express) y escasez real. Domingo 1 solo stories y sin publicación fuerte.</p>
+  '''
+    return page(5, c, TOTAL, "Fuentes: grilla de contenido aprobada 22 oct 2026 · rendimiento por día (Meta Business Suite) · keywords WhatsApp por cuenta.")
+
+
+# ============================================================ HOJA 6 — GUIONES · EVENTO Y RECAP (2–9 NOV)
+def hoja6():
+    rows = [
+        ("Lun 2<br>Ambas", "Apertura · horario extendido",
+         "“Abrió.”",
+         "Colas reales en la entrada, alfombra, mesa financiera lista. Cada concesionario filma el suyo. Texto en pantalla: <b>horario extendido</b>.",
+         "“Ven hoy.” Escribe <b>VIP</b>."),
+        ("Mar 3<br>Hyundai", "Bloque i10 + cuota",
+         "“Las 6 que están, se van esta semana.”",
+         "Las seis unidades en fila, cámara recorriendo una por una. Calculadora de cuota en pantalla. Horario extendido.",
+         "“Pide tu cuota por DM.” Escribe <b>VIP</b>."),
+        ("Mar 3<br>Chery", "Bloque Tiggo + cuota",
+         "“Seis SUV y ninguna vuelve.”",
+         "Las seis Tiggo en fila con el mismo recorrido de cámara. Calculadora de cuota en pantalla. Horario extendido.",
+         "“Pide tu cuota por DM.” Escribe <b>VIP</b>."),
+        ("Mié 4<br>Hyundai", "Banco aprobando · media day",
+         "“15 minutos y aprobado.”",
+         "Cliente firmando en la mesa financiera con permiso escrito, sin datos ni cara si no autoriza. Lives con los invitados. Horario extendido.",
+         "“Trae tus papeles.” Escribe <b>VIP</b>."),
+        ("Mié 4<br>Chery", "Media day · banco aprobando",
+         "“Aprobado en el mismo día.”",
+         "Live recorriendo la zona Chery con los invitados y la mesa financiera trabajando. Horario extendido.",
+         "“Ven a conocerlo.” Escribe <b>VIP</b>."),
+        ("Jue 5<br>Hyundai", "Entrega express",
+         "“Firmó hoy. Se lo lleva hoy.”",
+         "Llave en mano frente a la unidad, sin datos ni cara del cliente. Texto: <b>entrega express</b>. Horario extendido.",
+         "“Escribe <b>VIP</b>.”"),
+        ("Jue 5<br>Chery", "Producto · colores",
+         "“Seis colores. El mismo precio de evento.”",
+         "Secuencia rápida de los colores disponibles en piso, uno tras otro, 10 segundos. Horario extendido.",
+         "“Elige el tuyo.” Escribe <b>VIP</b>."),
+        ("Vie 6<br>Ambas", "Pocas unidades · CRM",
+         "“Quedan X.”",
+         "Captura del CRM con el número real al cierre del jueves, sin editar y sin datos de clientes. Horario extendido.",
+         "“Últimas unidades.” Escribe <b>VIP</b>."),
+        ("Sáb 7<br>Ambas", "Cierre 5 pm",
+         "“Hoy a las 5 pm se acaba.”",
+         "Reloj marcando las 5 y el cartel de precios bajando. Recorrido final del piso. Horario extendido.",
+         "“Última llamada.” Escribe <b>VIP</b>."),
+        ("Lun 9<br>Ambas", "Recap",
+         "“Seis días en 20 segundos.”",
+         "Megamix: colas, montaje, entregas y la mesa financiera trabajando. Cierre con el logo tachado.",
+         "“Lo que quedó sigue disponible.” Escribe <b>VIP</b>."),
+    ]
+    c = '''
+  <h1 style="font-size:22px">Guion por pieza. La semana que se vende.</h1>
+  <p class="subtitle">SPECIAL DAI · guiones 2 al 9 de noviembre · <b>10 piezas</b> · rodaje diario de 9:00 a 10:00 am · todas con horario extendido en pantalla y ninguna con precio de cierre anunciado antes del sábado 7.</p>
+
+  <div class="section-label">SEMANA DEL EVENTO · GRABADO EN VIVO, PUBLICACIÓN 10–11 AM</div><div class="rule"></div>
+  ''' + gtable(rows) + '''
+  <p class="note"><b>Regla de estas 7 fechas:</b> una sola idea por pieza, ningún plano del piso completo, la zona opuesta solo de paso. El número de “Quedan X” sale del CRM sin editar. Todo cierra el sábado 7 a las 5 pm.</p>
+  '''
+    return page(6, c, TOTAL, "Fuentes: grilla de contenido aprobada 22 oct 2026 · reglas de marca · CRM autoweb para “Quedan X” · Meta Business Suite (horarios de publicación).")

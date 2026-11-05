@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>{{TITULO}} — {{PERIODO}}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,300..900,0..100&family=Manrope:wght@300;400;500;600;700&family=JetBrains+Mono:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  /* ========================================================
+     DESIGN TOKENS — modificar solo si cambia el sistema
+     ======================================================== */
+  :root {
+    --ink:        #0E0D0B;
+    --ink-2:      #161412;
+    --ink-3:      #1F1C18;
+    --hair:       #2A2622;
+    --hair-soft:  #1F1B17;
+    --paper:      #EDE6D6;
+    --paper-soft: #C9C2B0;
+    --mute:       #8C8675;
+    --mute-2:     #5C5749;
+    --amber:      #C8954A;
+    --amber-soft: #8A6630;
+    --oxblood:    #B8472D;
+    --sage:       #8FA876;
+    --gold-line:  linear-gradient(90deg, transparent, var(--amber) 20%, var(--amber) 80%, transparent);
+
+    --serif: 'Fraunces', 'Times New Roman', serif;
+    --sans:  'Manrope', system-ui, sans-serif;
+    --mono:  'JetBrains Mono', 'Courier New', monospace;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  @page { size: A4; margin: 0; }
+
+  html, body {
+    background: var(--ink);
+    color: var(--paper);
+    font-family: var(--sans);
+    font-size: 10pt;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: geometricPrecision;
+  }
+
+  .page {
+    width: 210mm;
+    height: 297mm;
+    padding: 22mm 20mm 20mm 20mm;
+    position: relative;
+    page-break-after: always;
+    overflow: hidden;
+    background:
+      radial-gradient(ellipse at 20% 10%, rgba(200,149,74,0.04), transparent 50%),
+      radial-gradient(ellipse at 90% 90%, rgba(184,71,45,0.03), transparent 50%),
+      var(--ink);
+  }
+
+  .page::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image:
+      repeating-linear-gradient(0deg, transparent 0, transparent 2px,
+        rgba(237,230,214,0.008) 2px, rgba(237,230,214,0.008) 3px);
+    pointer-events: none;
+    opacity: 0.5;
+  }
+
+  .page-num {
+    position: absolute;
+    bottom: 12mm;
+    font-family: var(--mono);
+    font-size: 7.5pt;
+    color: var(--mute-2);
+    letter-spacing: 0.15em;
+  }
+  .page-num.left { left: 20mm; }
+  .page-num.right { right: 20mm; text-align: right; }
+  .page-num .accent { color: var(--amber); }
+
+  .footer-brand {
+    position: absolute;
+    bottom: 12mm;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: var(--mono);
+    font-size: 7pt;
+    color: var(--mute-2);
+    letter-spacing: 0.3em;
+  }
+
+  .top-bar {
+    position: absolute;
+    top: 12mm;
+    left: 20mm;
+    right: 20mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: var(--mono);
+    font-size: 7pt;
+    color: var(--mute-2);
+    letter-spacing: 0.2em;
+  }
+  .top-bar .mark { color: var(--amber); }
+  .top-bar .mark::before { content: "■ "; }
+
+  /* === COVER === */
+  .cover {
+    background:
+      radial-gradient(circle at 75% 30%, rgba(200,149,74,0.08), transparent 45%),
+      var(--ink);
+  }
+  .cover-grid {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+  }
+  .cover-left {
+    padding: 35mm 20mm 35mm 20mm;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+  }
+  .cover-right {
+    background:
+      linear-gradient(180deg, transparent 0%, rgba(14,13,11,0.4) 100%),
+      radial-gradient(ellipse at center, rgba(200,149,74,0.18) 0%, transparent 65%);
+    position: relative;
+    border-left: 1px solid var(--hair);
+  }
+  .cover-eyebrow {
+    font-family: var(--mono);
+    font-size: 8pt;
+    color: var(--amber);
+    letter-spacing: 0.35em;
+    margin-bottom: 8mm;
+    display: flex;
+    align-items: center;
+    gap: 6mm;
+  }
+  .cover-eyebrow::before {
+    content: "";
+    width: 18mm;
+    height: 1px;
+    background: var(--amber);
+  }
+  .cover h1 {
+    font-family: var(--serif);
+    font-weight: 350;
+    font-size: 56pt;
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+    color: var(--paper);
+    font-variation-settings: "opsz" 144, "SOFT" 30;
+  }
+  .cover h1 em {
+    font-style: italic;
+    font-weight: 300;
+    color: var(--amber);
+    font-variation-settings: "opsz" 144, "SOFT" 60;
+  }
+  .cover-subtitle {
+    font-family: var(--serif);
+    font-size: 14pt;
+    font-weight: 300;
+    color: var(--paper-soft);
+    margin-top: 4mm;
+    letter-spacing: 0.02em;
+  }
+  .cover-meta {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 4mm 8mm;
+    font-size: 9pt;
+    color: var(--paper-soft);
+    border-top: 1px solid var(--hair);
+    padding-top: 6mm;
+    max-width: 110mm;
+  }
+  .cover-meta .k {
+    font-family: var(--mono);
+    font-size: 7.5pt;
+    color: var(--mute-2);
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    padding-top: 1mm;
+  }
+  .cover-meta .v { color: var(--paper); font-weight: 500; }
+
+  .cover-right-content {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30mm;
+  }
+  .cover-stamp {
+    width: 120mm;
+    height: 120mm;
+    border: 1px solid var(--hair);
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: radial-gradient(circle, rgba(200,149,74,0.06), transparent 70%);
+  }
+  .cover-stamp::before {
+    content: "";
+    position: absolute;
+    inset: 4mm;
+    border: 1px dashed var(--hair-soft);
+    border-radius: 50%;
+  }
+  .cover-stamp .big {
+    font-family: var(--serif);
+    font-size: 28pt;
+    color: var(--amber);
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -0.02em;
+  }
+  .cover-stamp .big-num {
+    font-family: var(--serif);
+    font-size: 88pt;
+    color: var(--paper);
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -0.04em;
+    margin: 4mm 0 2mm 0;
+  }
+  .cover-stamp .lbl {
+    font-family: var(--mono);
+    font-size: 7pt;
+    color: var(--mute);
+    letter-spacing: 0.4em;
+    text-transform: uppercase;
+    margin-top: 2mm;
+  }
+
+  .cover-bottom {
+    position: absolute;
+    bottom: 18mm;
+    left: 20mm;
+    right: 20mm;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    font-family: var(--mono);
+    font-size: 7pt;
+    color: var(--mute-2);
+    letter-spacing: 0.25em;
+  }
+  .cover-bottom .l { color: var(--paper-soft); }
+  .cover-bottom .l strong { color: var(--paper); font-weight: 500; letter-spacing: 0.15em; }
+
+  /* === SECTION HEADERS === */
+  .section-header {
+    display: flex;
+    align-items: baseline;
+    gap: 6mm;
+    margin-bottom: 8mm;
+    border-bottom: 1px solid var(--hair);
+    padding-bottom: 4mm;
+  }
+  .section-num {
+    font-family: var(--mono);
+    font-size: 9pt;
+    color: var(--amber);
+    letter-spacing: 0.2em;
+  }
+  .section-title {
+    font-family: var(--serif);
+    font-size: 22pt;
+    font-weight: 350;
+    color: var(--paper);
+    letter-spacing: -0.015em;
+    font-variation-settings: "opsz" 144, "SOFT" 30;
+  }
+  .section-eyebrow {
+    font-family: var(--mono);
+    font-size: 7pt;
+    color: var(--mute);
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    margin-left: auto;
+  }
+  h3.sub {
+    font-family: var(--serif);
+    font-size: 12pt;
+    font-weight: 400;
+    color: var(--paper);
+    margin-bottom: 3mm;
+    letter-spacing: -0.01em;
+  }
+  .small-cap {
+    font-family: var(--mono);
+    font-size: 6.8pt;
+    color: var(--amber);
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    margin-bottom: 2mm;
+    display: block;
+  }
+  p { color: var(--paper-soft); font-size: 9.2pt; line-height: 1.55; }
+  p + p { margin-top: 2.5mm; }
+
+  /* === KPI ROW === */
+  .kpi-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0;
+    border-top: 1px solid var(--hair);
+    border-bottom: 1px solid var(--hair);
+    margin: 4mm 0 6mm 0;
+  }
+  .kpi { padding: 5mm 4mm 5mm 0; border-right: 1px solid var(--hair); }
+  .kpi:last-child { border-right: none; }
+  .kpi .lbl {
+    font-family: var(--mono);
+    font-size: 6.8pt;
+    color: var(--mute-2);
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    margin-bottom: 2mm;
+  }
+  .kpi .val {
+    font-family: var(--serif);
+    font-size: 26pt;
+    color: var(--paper);
+    line-height: 1;
+    font-weight: 350;
+    letter-spacing: -0.02em;
+    font-variation-settings: "opsz" 144;
+  }
+  .kpi .val .unit {
+    font-family: var(--mono);
+    font-size: 9pt;
+    color: var(--amber);
+    margin-left: 1mm;
+    font-weight: 400;
+  }
+  .kpi .sub {
+    font-family: var(--mono);
+    font-size: 7pt;
+    color: var(--mute);
+    margin-top: 2mm;
+    letter-spacing: 0.1em;
+  }
+
+  /* === INSIGHTS === */
+  .insights {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0;
+    border-top: 1px solid var(--hair);
+    border-bottom: 1px solid var(--hair);
+    padding: 5mm 0;
+  }
+  .insight { padding: 0 5mm; border-right: 1px solid var(--hair); }
+  .insight:first-child { padding-left: 0; }
+  .insight:last-child { border-right: none; padding-right: 0; }
+  .insight .ix {
+    font-family: var(--mono);
+    font-size: 8pt;
+    color: var(--amber);
+    margin-bottom: 3mm;
+    letter-spacing: 0.15em;
+  }
+  .insight h4 {
+    font-family: var(--serif);
+    font-size: 11.5pt;
+    font-weight: 400;
+    color: var(--paper);
+    line-height: 1.3;
+    margin-bottom: 2mm;
+  }
+  .insight p { font-size: 8.5pt; line-height: 1.5; }
+
+  /* === TABLE === */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 8.5pt;
+  }
+  thead th {
+    font-family: var(--mono);
+    font-size: 6.8pt;
+    color: var(--mute-2);
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    text-align: right;
+    padding: 2mm 0 2mm 3mm;
+    border-bottom: 1px solid var(--hair);
+    font-weight: 500;
+  }
+  thead th:first-child { text-align: left; padding-left: 0; }
+  thead th:last-child { text-align: right; padding-right: 0; }
+  tbody td {
+    padding: 2.4mm 0 2.4mm 3mm;
+    border-bottom: 1px solid var(--hair-soft);
+    color: var(--paper-soft);
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+  tbody td:first-child { text-align: left; padding-left: 0; color: var(--paper); }
+  tbody td:last-child { text-align: right; padding-right: 0; }
+  tbody td.num { font-family: var(--mono); font-size: 8.5pt; }
+  .pill {
+    display: inline-block;
+    padding: 0.5mm 2mm;
+    font-family: var(--mono);
+    font-size: 6.5pt;
+    letter-spacing: 0.15em;
+    border: 1px solid var(--hair);
+    border-radius: 2mm;
+    text-transform: uppercase;
+  }
+  .pill.good { color: var(--sage); border-color: rgba(143,168,118,0.4); }
+  .pill.warn { color: var(--amber); border-color: rgba(200,149,74,0.4); }
+  .pill.bad  { color: var(--oxblood); border-color: rgba(184,71,45,0.4); }
+  .pill.dim  { color: var(--mute); }
+
+  /* === BARS === */
+  .bars { display: flex; flex-direction: column; gap: 3mm; }
+  .bar-row {
+    display: grid;
+    grid-template-columns: 22mm 1fr 22mm;
+    align-items: center;
+    gap: 3mm;
+  }
+  .bar-row .lbl {
+    font-family: var(--mono);
+    font-size: 7.5pt;
+    color: var(--paper-soft);
+    letter-spacing: 0.05em;
+  }
+  .bar-row .val {
+    font-family: var(--mono);
+    font-size: 8pt;
+    color: var(--paper);
+    text-align: right;
+  }
+  .bar-track {
+    height: 8mm;
+    background: var(--ink-2);
+    border: 1px solid var(--hair-soft);
+    position: relative;
+    overflow: hidden;
+  }
+  .bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--amber-soft), var(--amber));
+  }
+  .bar-fill.alt  { background: linear-gradient(90deg, var(--mute-2), var(--mute)); }
+  .bar-fill.alt2 { background: linear-gradient(90deg, #5C4A2A, var(--amber)); }
+  .bar-grid {
+    display: grid;
+    grid-template-columns: 22mm 1fr 22mm;
+    gap: 3mm;
+    margin-top: 1mm;
+  }
+  .bar-grid .scale {
+    grid-column: 2;
+    display: flex;
+    justify-content: space-between;
+    font-family: var(--mono);
+    font-size: 6.5pt;
+    color: var(--mute-2);
+  }
+
+  /* === SCATTER === */
+  .scatter-wrap {
+    display: grid;
+    grid-template-columns: 1fr 60mm;
+    gap: 5mm;
+  }
+  .scatter-svg { width: 100%; height: 90mm; }
+
+  /* === TWO-COL === */
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 8mm; }
+
+  /* === CALLOUT === */
+  .callout {
+    border-left: 2px solid var(--amber);
+    padding: 3mm 5mm;
+    margin: 4mm 0;
+    background: linear-gradient(90deg, rgba(200,149,74,0.04), transparent);
+  }
+  .callout .ct {
+    font-family: var(--mono);
+    font-size: 7pt;
+    color: var(--amber);
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    margin-bottom: 1.5mm;
+  }
+  .callout p {
+    font-family: var(--serif);
+    font-size: 10pt;
+    color: var(--paper);
+    line-height: 1.5;
+    font-style: italic;
+    font-weight: 350;
+  }
+
+  .mt-2 { margin-top: 2mm; } .mt-4 { margin-top: 4mm; } .mt-6 { margin-top: 6mm; }
+  .amber { color: var(--amber); } .sage { color: var(--sage); } .ox { color: var(--oxblood); }
+  .mute { color: var(--mute); } .paper { color: var(--paper); }
+  .serif { font-family: var(--serif); } .mono { font-family: var(--mono); }
+  .right { text-align: right; } .small { font-size: 7.5pt; }
+  .gold-divider { height: 1px; background: var(--gold-line); margin: 5mm 0; }
+</style>
+</head>
+<body>
+
+<!-- ============================================================
+     PÁGINA 1: PORTADA
+     Datos a sustituir:
+       - {{EMPRESA}} · {{EMPRESA_TAG}}
+       - {{TITULO}}
+       - {{PERIODO_LABEL}} (ej: "Junio 2026")
+       - {{PERIODO_FECHA}} (ej: "03.06.2026 — 02.07.2026")
+       - {{DOC_ID}}, {{EMISION}}
+     ============================================================ -->
+<section class="page cover">
+  <div class="cover-grid">
+    <div class="cover-left">
+      <div>
+        <div class="cover-eyebrow">DEPARTAMENTO DE MARKETING</div>
+        <h1>{{TITULO_PARTE_1}}<br><em>{{TITULO_PARTE_2}}</em><br>{{TITULO_PARTE_3}}</h1>
+        <div class="cover-subtitle">Período evaluado: {{PERIODO_FECHA}}</div>
+      </div>
+      <div>
+        <div class="cover-meta">
+          <div class="k">Documento</div><div class="v">{{DOC_ID}}</div>
+          <div class="k">Clasificación</div><div class="v">Confidencial · Uso interno</div>
+          <div class="k">De</div><div class="v">Departamento de Marketing</div>
+          <div class="k">Emisión</div><div class="v">{{EMISION}}</div>
+        </div>
+      </div>
+    </div>
+    <div class="cover-right">
+      <div class="cover-right-content">
+        <div class="cover-stamp">
+          <div class="big">{{PERIODO_MES}}</div>
+          <div class="big-num">{{PERIODO_ANIO}}</div>
+          <div class="lbl">· F O L I O  ·  0 1 / 0 5 ·</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="cover-bottom">
+    <div class="l">{{EMPRESA}}<strong>{{EMPRESA_TAG}}</strong></div>
+    <div>{{VOLUMEN_TAG}}</div>
+  </div>
+</section>
+
+<!-- ============================================================
+     PÁGINA 2: RESUMEN EJECUTIVO
+     Datos a sustituir:
+       - 4 KPIs (gasto, impresiones, resultados, costo_por_resultado)
+       - 3 insights narrativos
+       - 1 conclusión operativa
+     ============================================================ -->
+<section class="page">
+  <div class="top-bar">
+    <div class="mark">INFORME MENSUAL · {{PERIODO_CORTO}}</div>
+    <div>{{DOC_ID}} · CONFIDENCIAL</div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-num">§ 01</div>
+    <div class="section-title">Resumen Ejecutivo</div>
+    <div class="section-eyebrow">Vista general del periodo</div>
+  </div>
+
+  <p><!-- TODO: párrafo 1 — contexto operacional --></p>
+  <p><!-- TODO: párrafo 2 — métricas headline con bold --></p>
+
+  <div class="kpi-row mt-6">
+    <div class="kpi">
+      <div class="lbl">Inversión total</div>
+      <div class="val">${{KPI_GASTO}}<span class="unit">{{KPI_GASTO_DEC}}</span></div>
+      <div class="sub">USD · {{DIAS}} días</div>
+    </div>
+    <div class="kpi">
+      <div class="lbl">Impresiones</div>
+      <div class="val">{{KPI_IMP}}<span class="unit">{{KPI_IMP_UNIT}}</span></div>
+      <div class="sub">Alcance único {{KPI_ALCANCE}}</div>
+    </div>
+    <div class="kpi">
+      <div class="lbl">{{KPI_RESULTADO_LABEL}}</div>
+      <div class="val">{{KPI_RESULTADO}}</div>
+      <div class="sub">CTR {{KPI_CTR}}</div>
+    </div>
+    <div class="kpi">
+      <div class="lbl">{{KPI_COSTO_LABEL}}</div>
+      <div class="val">${{KPI_COSTO}}<span class="unit">{{KPI_COSTO_DEC}}</span></div>
+      <div class="sub">USD por {{KPI_RESULTADO_SINGULAR}}</div>
+    </div>
+  </div>
+
+  <h3 class="sub mt-6">Hallazgos clave del periodo</h3>
+  <div class="insights">
+    <div class="insight">
+      <div class="ix">A · 01</div>
+      <h4><!-- TODO: insight 1 --></h4>
+      <p><!-- TODO: detalle insight 1 --></p>
+    </div>
+    <div class="insight">
+      <div class="ix">A · 02</div>
+      <h4><!-- TODO: insight 2 --></h4>
+      <p><!-- TODO: detalle insight 2 --></p>
+    </div>
+    <div class="insight">
+      <div class="ix">A · 03</div>
+      <h4><!-- TODO: insight 3 --></h4>
+      <p><!-- TODO: detalle insight 3 --></p>
+    </div>
+  </div>
+
+  <div class="page-num left">PÁGINA <span class="accent">02</span> / 05</div>
+  <div class="footer-brand">{{EMPRESA}} · MARKETING</div>
+  <div class="page-num right">{{DOC_ID}}</div>
+</section>
+
+<!-- ============================================================
+     PÁGINA 3: DESEMPEÑO POR AD SET
+     Datos a sustituir:
+       - Lista de ad sets con sus métricas
+       - 2 bar charts (impressions, CPL)
+       - Tabla comparativa
+     ============================================================ -->
+<section class="page">
+  <div class="top-bar">
+    <div class="mark">INFORME MENSUAL · {{PERIODO_CORTO}}</div>
+    <div>SECCIÓN 02 · DESEMPEÑO POR CONJUNTO</div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-num">§ 02</div>
+    <div class="section-title">Desempeño por Ad Set</div>
+    <div class="section-eyebrow">Comparativa de los {{N_ADSETS}} conjuntos</div>
+  </div>
+
+  <h3 class="sub">Inversión &amp; entrega</h3>
+  <p><!-- TODO: párrafo introductorio --></p>
+
+  <div class="mt-4">
+    <div class="small-cap">Impresiones por ad set ({{UNIDAD_IMP}})</div>
+    <div class="bars">
+      <!-- TODO: bar-row por cada ad set, width = % del máximo -->
+    </div>
+    <div class="bar-grid">
+      <div></div>
+      <div class="scale">
+        <span>0</span><span>{{SCALE_25}}</span><span>{{SCALE_50}}</span><span>{{SCALE_75}}</span><span>{{SCALE_100}}</span>
+      </div>
+      <div></div>
+    </div>
+  </div>
+
+  <h3 class="sub mt-6">Eficiencia &amp; costo por {{RESULTADO_SINGULAR}}</h3>
+  <div class="bars">
+    <!-- TODO: bar-row por cada ad set ordenado por CPL ascendente -->
+  </div>
+  <div class="bar-grid">
+    <div></div>
+    <div class="scale">
+      <span>$0.000</span><span>$0.010</span><span>$0.020</span><span>$0.030</span><span>$0.040</span>
+    </div>
+    <div></div>
+  </div>
+
+  <h3 class="sub mt-6">Tabla comparativa de KPIs</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Conjunto</th>
+        <th>Estado</th>
+        <th>Impresiones</th>
+        <th>Alcance</th>
+        <th>{{RESULTADO_LABEL}}</th>
+        <th>Gasto (USD)</th>
+        <th>CPM</th>
+        <th>{{COSTO_LABEL}}</th>
+        <th>Freq. imp.</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- TODO: tr por ad set, tr final con TOTAL -->
+    </tbody>
+  </table>
+
+  <div class="page-num left">PÁGINA <span class="accent">03</span> / 05</div>
+  <div class="footer-brand">{{EMPRESA}} · MARKETING</div>
+  <div class="page-num right">{{DOC_ID}}</div>
+</section>
+
+<!-- ============================================================
+     PÁGINA 4: TOP PERFORMERS
+     Datos a sustituir:
+       - Top 10 anuncios (visitas + CPL)
+       - Scatter plot Costo × Volumen
+     ============================================================ -->
+<section class="page">
+  <div class="top-bar">
+    <div class="mark">INFORME MENSUAL · {{PERIODO_CORTO}}</div>
+    <div>SECCIÓN 03 · TOP PERFORMERS</div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-num">§ 03</div>
+    <div class="section-title">Ranking de Anuncios</div>
+    <div class="section-eyebrow">Top 10 por {{RESULTADO_LABEL_LOWER}}</div>
+  </div>
+
+  <h3 class="sub">Los 10 anuncios de mayor tracción</h3>
+  <p><!-- TODO: párrafo sobre concentración de tráfico --></p>
+
+  <div class="two-col mt-4">
+    <div>
+      <table>
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Anuncio · Conjunto</th>
+            <th>{{RESULTADO_LABEL}}</th>
+            <th>{{COSTO_LABEL}}</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- TODO: top 10 anuncios -->
+        </tbody>
+      </table>
+    </div>
+
+    <div>
+      <div class="small-cap">Dispersión: costo × volumen</div>
+      <svg class="scatter-svg" viewBox="0 0 320 220" preserveAspectRatio="xMidYMid meet">
+        <!-- TODO: hand-craft SVG scatter con grid, axis, puntos y labels -->
+        <!-- Tip: y range = {{COSTO_MIN}} a {{COSTO_MAX}} para mejor resolución -->
+        <!-- x range = 0 a {{RESULTADO_MAX}} -->
+      </svg>
+      <p class="small mt-4">
+        <strong class="paper">Cuadrante superior derecho</strong> = máximo volumen &amp; mínimo costo.
+        <strong class="sage">Cuadrante superior izquierdo</strong> = alta eficiencia en escala baja.
+        <strong class="ox">Cuadrante inferior derecho</strong> = bajo rendimiento unitario.
+      </p>
+    </div>
+  </div>
+
+  <div class="page-num left">PÁGINA <span class="accent">04</span> / 05</div>
+  <div class="footer-brand">{{EMPRESA}} · MARKETING</div>
+  <div class="page-num right">{{DOC_ID}}</div>
+</section>
+
+<!-- ============================================================
+     PÁGINA 5: CIERRE & DECISIONES
+     Datos a sustituir:
+       - One-liner resumen
+       - Tabla de decisiones a aprobar (no incluir incremento de budget sin justificación)
+       - Calendario 4 semanas
+       - Bloque de firma (solo emitido por, NO incluir recibido)
+     ============================================================ -->
+<section class="page">
+  <div class="top-bar">
+    <div class="mark">INFORME MENSUAL · {{PERIODO_CORTO}}</div>
+    <div>SECCIÓN 04 · CIERRE &amp; FIRMA</div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-num">§ 04</div>
+    <div class="section-title">Síntesis &amp; Próximos Pasos</div>
+    <div class="section-eyebrow">Cierre del documento</div>
+  </div>
+
+  <h3 class="sub">Resumen de una línea</h3>
+  <p class="serif" style="font-size: 15pt; line-height: 1.35; color: var(--paper); font-weight: 350; font-style: italic; margin-bottom: 5mm;">
+    <!-- TODO: one-liner con {{CPL}} en amber -->
+  </p>
+
+  <h3 class="sub">Decisiones que requieren aprobación de Gerencia</h3>
+  <table>
+    <thead>
+      <tr>
+        <th style="width: 8mm;">#</th>
+        <th>Decisión</th>
+        <th>Impacto</th>
+        <th>Plazo</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- TODO: máximo 5 decisiones. NO proponer incremento de presupuesto si no hay justificación cuantitativa clara -->
+    </tbody>
+  </table>
+
+  <h3 class="sub mt-4">Calendario de seguimiento · {{PROXIMO_MES}}</h3>
+  <div class="two-col mt-2" style="gap: 4mm;">
+    <!-- TODO: 4 cards de semanas -->
+  </div>
+
+  <div style="margin-top: 6mm; border-top: 1px solid var(--hair); padding-top: 5mm; display: grid; grid-template-columns: 1fr 1fr; gap: 12mm;">
+    <div>
+      <div class="small-cap">Emitido por</div>
+      <div class="serif" style="font-size: 13pt; color: var(--paper); font-weight: 400; margin-top: 1mm;">Departamento de Marketing</div>
+      <div class="mono small mute mt-2">{{EMPRESA}} · {{EMPRESA_TAG}}</div>
+      <div class="mono small mute" style="margin-top: 0.5mm;">FECHA DE EMISIÓN · {{EMISION}}</div>
+    </div>
+  </div>
+
+  <div class="page-num left">PÁGINA <span class="accent">05</span> / 05</div>
+  <div class="footer-brand">FIN DEL DOCUMENTO</div>
+  <div class="page-num right">{{DOC_ID}}</div>
+</section>
+
+</body>
+</html>

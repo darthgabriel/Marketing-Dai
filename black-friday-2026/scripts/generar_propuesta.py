@@ -1,4 +1,4 @@
-"""Propuesta Black Friday 2026 para Gerencia - 3 hojas carta.
+"""Propuesta Black Friday 2026 para Gerencia - 3 hojas carta ("A la una, a las dos, de contado...").
 Salida: black-friday-2026/entregables/Propuesta-Black-Friday-2026.html + .pdf
 Datos: CRM autoweb Inventario Valorado (9 nov 2026), Corte de Cierre Special Dai (7 nov),
        Informe RRSS Octubre 2026.
@@ -14,9 +14,9 @@ OUT_PDF = os.path.join(OUT_DIR, "Propuesta-Black-Friday-2026.pdf")
 CREDITO = "Ing. Jose Paredes · Jefe IT & Marketing"
 
 UNIDADES = [
-    ("Hyundai en Dai Motors", "Accent 1.5L A/T GLS"),
-    ("Chery en Dai Motors", "Tiggo 4 Pro Max"),
-    ("Kaiyi en Yantai Motors", "X3 Pro 1.5T"),
+    ("Hyundai en Dai Motors", "2 Accent + 2 Creta"),
+    ("Chery en Dai Motors", "2 Tiggo 4 + 2 Himla"),
+    ("Kaiyi en Yantai Motors", "2 Kaiyi X3 Pro"),
 ]
 ADS = {"Hyundai": (20, 30, 35), "Chery": (18, 25, 29), "Yantai": (40, 25, 35)}
 BULK = {"Hyundai": 35, "Chery": 35, "Yantai": 30}
@@ -115,34 +115,34 @@ HTML = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
 
 <section class="page">
   <div class="hero">
-    <div><div class="k">PROPUESTA PARA GERENCIA</div><h1>BLACK FRIDAY 2026</h1>
+    <div><div class="k">PROPUESTA PARA GERENCIA · BLACK FRIDAY 2026</div><h1>A LA UNA, A LAS DOS, DE CONTADO...</h1>
     <div class="s">Hyundai en Dai Motors · Chery en Dai Motors · Kaiyi en Yantai Motors</div></div>
-    <div class="r"><b>Viernes 27 de noviembre</b>Solo contado · Borrador 9 nov 2026</div>
+    <div class="r"><b>Viernes 27 de noviembre</b>Solo contado · Actualizado 12 nov 2026</div>
   </div>
-  <p class="lead">Una sola unidad por marca, con descuento real, solo el viernes 27 y de contado. <em>Medios: {money(MEDIOS)}, {PCT_SPECIAL}% de lo gastado en Special Dai.</em></p>
+  <p class="lead">Diez unidades contadas, con descuento sobre el precio final, solo el viernes 27 y de contado. <em>Cada unidad es del primer cliente que la pague. Medios: {money(MEDIOS)}.</em></p>
   <div class="kpis">
-    <div class="kpi"><b>3</b><span>unidades, una por marca</span></div>
+    <div class="kpi"><b>10</b><span>unidades aprobadas en las tres cuentas</span></div>
     <div class="kpi"><b>{money(MEDIOS)}</b><span>medios: ads {money(ADS_T)} + bulk {money(BULK_T)}</span></div>
     <div class="kpi d"><b>{money(PEDIDO)}</b><span>presupuesto adicional a aprobar</span></div>  </div>
 
-  <h2><i>1</i>Por qué una sola unidad</h2>
+  <h2><i>1</i>Por qué unidades contadas y no toda la lista</h2>
   <ul>
-    <li>Special Dai cerró el 7 nov diciendo "precios solo en evento": bajar la lista 20 días después quema ese mensaje.</li>
-    <li>Una unidad específica tiene razón propia para bajar y no toca el precio de las demás.</li>
-    <li>La escasez es verdadera: hay una, y cuando se va se acabó.</li>
-    <li>El costo queda acotado y se conoce antes de arrancar.</li>
+    <li>Solo bajan las unidades aprobadas; el resto del inventario mantiene su precio.</li>
+    <li>La escasez es verdadera: cada cuenta dice cuántas hay y muestra cuántas quedan.</li>
+    <li>El costo del descuento se conoce antes de arrancar.</li>
   </ul>
 
-  <h2><i>2</i>Unidades recomendadas</h2>
+  <h2><i>2</i>Unidades aprobadas</h2>
   <div class="kpis">{units}</div>
+  <p class="note">Ventas confirma versión, color y placa de cada una y las bloquea en CRM antes del vie 13.</p>
 
-  <h2><i>3</i>Decisiones que necesitamos, a más tardar el jueves 12 de noviembre</h2>
+  <h2><i>3</i>Decisiones pendientes</h2>
   <table><tr><th style="width:24px">#</th><th>Decisión</th><th>Recomendación</th></tr>{rows([
-    ["1", "<b>Unidad por marca</b>", "Las tres anteriores"],
-    ["2", "<b>Descuento u obsequios</b>", "Descuento en la unidad, obsequios para el resto de la lista"],
-    ["3", "<b>Monto del descuento</b>", "Entre 3% y 5%, según precio público y margen de cada unidad"],
-    ["4", f"<b>Presupuesto adicional de {money(PEDIDO)}</b>", "Aprobar $100 de ads para Yantai y $100 de bulk WhatsApp"],
-    ["5", "<b>Regla de asignación</b>", "Primer cliente que pague de contado"],
+    ["1", "<b>Descuento por modelo</b>", "Un monto sobre el precio final para Accent, Creta, Tiggo 4, Himla y X3 Pro"],
+    ["2", f"<b>Presupuesto adicional de {money(PEDIDO)}</b>", "Aprobar $100 de ads para Yantai y $100 de bulk WhatsApp"],
+    ["3", "<b>Regla de asignación</b>", "Cada unidad, para el primer cliente que la pague de contado"],
+    ["4", "<b>Medios de pago aceptados</b>", "Definirlos antes del vie 13: van en el carrusel del vie 20"],
+    ["5", "<b>Si se agotan</b>", "Obsequios o descuentos en otra unidad, de contado, el mismo viernes"],
   ])}</table>
   {foot(1)}
 </section>
@@ -152,36 +152,36 @@ HTML = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
 
   <h2><i>4</i>Descuento, obsequios o ambos</h2>
   <table><tr><th>Opción</th><th>A favor</th><th>En contra</th></tr>
-  <tr><td><b>A.</b> Descuento en la unidad</td><td>Número claro para el gancho y la pauta</td><td>Costo directo en margen</td></tr>
-  <tr><td><b>B.</b> Obsequios en la unidad</td><td>Protege el precio; valor percibido mayor al costo</td><td>Gancho débil: "obsequio" no detiene el scroll</td></tr>
-  <tr class="rec"><td><b>C. Descuento en la unidad + obsequios en el resto · recomendada</b></td><td>La unidad atrae; el obsequio captura a quien no la gana</td><td>Hay que definir el paquete y su costo</td></tr></table>
-  <p class="note">Una unidad se vende una sola vez: sin plan B, todos los demás leads se pierden.</p>
+  <tr><td><b>A.</b> Descuento en las unidades aprobadas</td><td>Número claro para el gancho y la pauta</td><td>Costo directo en margen</td></tr>
+  <tr><td><b>B.</b> Obsequios en las unidades aprobadas</td><td>Protege el precio; valor percibido mayor al costo</td><td>Gancho débil: "obsequio" no detiene el scroll</td></tr>
+  <tr class="rec"><td><b>C. Descuento en las aprobadas + obsequios o descuentos en otras si se agotan · recomendada</b></td><td>Las unidades atraen; el plan B captura a quien llegue tarde</td><td>Hay que definir el paquete y su costo</td></tr></table>
+  <p class="note">Las unidades se venden una sola vez: sin plan B, los demás leads de contado se pierden.</p>
 
   <h2><i>5</i>Mecánica</h2>
   <div class="steps">
     <div class="st"><b>Desde 17 nov</b>Cliente comenta o escribe BLACK y entra a la lista en Kommo</div>
     <div class="st"><b>17 al 26 nov</b>Asesor confirma que puede comprar de contado</div>
-    <div class="st"><b>Lun 23</b>Se revela la unidad, sin el precio. Bases publicadas</div>
-    <div class="st"><b>Jue 26 · 7 am</b>La lista recibe el precio por WhatsApp: 24 h para preparar el pago</div>
-    <div class="st"><b>Vie 27 · 8 am</b>Precio público en las 3 cuentas</div>
-    <div class="st h"><b>Se la lleva</b>Primer cliente que pague de contado</div>
-    <div class="st"><b>Todo el vie 27</b>Los demás reciben obsequios en otra unidad, de contado</div>
+    <div class="st"><b>Lun 23</b>Se revelan las unidades, sin el precio. Bases publicadas</div>
+    <div class="st"><b>Jue 26 · 7 am</b>La lista recibe los precios por WhatsApp: 24 h para preparar el pago</div>
+    <div class="st"><b>Vie 27 · 8 am</b>Precios públicos en las 3 cuentas</div>
+    <div class="st h"><b>Cada unidad</b>Para el primer cliente que la pague de contado; contador público de las que quedan</div>
+    <div class="st"><b>Si se agotan</b>Obsequios o descuentos en otra unidad, de contado</div>
   </div>
-  <p class="note">Sorteo descartado: exige validación legal, no hay tiempo y no garantiza un comprador calificado.</p>
+  <p class="note">El mié 2 dic cada cuenta publica el reel de sus entregas. Sorteo descartado: exige validación legal y no garantiza un comprador calificado.</p>
 
-  <h2><i>6</i>Referencia creativa: carteles que llevan a la unidad</h2>
+  <h2><i>6</i>Referencia creativa: un hilo propio por cuenta</h2>
   <div class="reel">
-    <div class="card">Algo grande viene<small>puerta del showroom</small></div><span class="arr">›</span>
-    <div class="card">Caliente, caliente<small>máquina de café</small></div><span class="arr">›</span>
-    <div class="card">Black Friday<small>espalda del asesor</small></div><span class="arr">›</span>
-    <div class="card f">Esta es la única<small>parabrisas de la unidad</small></div>
+    <div class="card">Algo grande viene<small>arranca la expectativa · 17 nov</small></div><span class="arr">›</span>
+    <div class="card">Son 4 · Son 2<small>se dice cuántas hay</small></div><span class="arr">›</span>
+    <div class="card">Precio a la lista<small>jue 26 · 7 am</small></div><span class="arr">›</span>
+    <div class="card f">Quedan 4... 3... 2...<small>contador honesto · vie 27</small></div>
   </div>
-  <table><tr><th>Cuenta</th><th>Adaptación</th><th>Cierre</th></tr>{rows([
-    ["<b>@daimotorsmcbo</b>", "Humor zuliano: el asesor camina con el cartel en la espalda sin saberlo", "Hyundai en Dai Motors"],
-    ["<b>@cherymaracaibo</b>", "Tono emocional, sin broma: los carteles guían un recorrido hasta la unidad", "Chery en Dai Motors"],
-    ["<b>@yantaimotors</b>", "Directo: carteles hasta la Kaiyi X3 Pro", "Kaiyi en Yantai Motors"],
+  <table><tr><th>Cuenta</th><th>Hilo</th><th>Cierre</th></tr>{rows([
+    ["<b>@daimotorsmcbo</b><br>2 Accent + 2 Creta", "Humor zuliano: Alexis, el asesor con el cartel en la espalda que nunca sabe qué dice. El viernes el cartel cuenta: QUEDAN 4", "Hyundai en Dai Motors"],
+    ["<b>@cherymaracaibo</b><br>2 Tiggo 4 + 2 Himla", "Emotivo, sin broma: cuatro historias que todavía no empiezan, dos de familia y dos de trabajo", "Chery en Dai Motors"],
+    ["<b>@yantaimotors</b><br>2 Kaiyi X3 Pro", "Directo, nadie en cámara: los números escritos con marcador en el vidrio. El primero es el 2", "Kaiyi en Yantai Motors"],
   ])}</table>
-  <p class="note">Formato tomado de un Reel de @sephorauk de 15 segundos, grabado con celular: costo de producción cero. Al revisarlo tenía 2 horas, 864 likes y 16 comentarios; su rendimiento aún no está confirmado.</p>
+  <p class="note">Formato de carteles tomado de un Reel de @sephorauk de 15 segundos, grabado con celular: costo de producción cero. Guiones completos, día por día, en los PDF de guiones de cada cuenta.</p>
   {foot(2)}
 </section>
 
@@ -198,42 +198,41 @@ HTML = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
       <table><tr><th>Fase</th><th>Fechas</th><th>Hyu.</th><th>Che.</th><th>Yan.</th></tr>{fases}</table>
       <h2><i>9</i>Metas propuestas</h2>
       <table><tr><th>Indicador</th><th>Hyu.</th><th>Che.</th><th>Yan.</th></tr>{rows([
-        ["Unidad vendida", "1", "1", "1"],
+        ["Unidades vendidas", "4 de 4", "4 de 4", "2 de 2"],
         ["Leads lun 23 a vie 27", "33<small>normal 20</small>", "71<small>normal 61</small>", "Por definir<small>sin línea base</small>"],
       ])}</table>
-      <p class="note">Special Dai no es comparable: tuvo evento físico y {money(GASTO_SPECIAL)}.</p>
     </div>
     <div>
       <h2><i>10</i>Criterio de gasto</h2>
       <ul>
         <li><b>Hyundai recibe más que Chery:</b> la mediana de Reel de Chery fue 9 veces mayor (9.238 vs 1.036).</li>
-        <li><b>Objetivo de pauta: mensajes.</b> Special Dai pagó visitas al perfil a $0,05, que no miden conversación.</li>
+        <li><b>Objetivo de pauta: mensajes.</b> Las visitas al perfil no miden conversación.</li>
         <li><b>Yantai en dos partes:</b> $40 en expectativa; los $60 de revelación y viernes solo si esos $40 generan conversaciones (se evalúa el dom 22). Su costo por 1.000 alcanzados es el más alto ($1,81 vs $1,17 y $0,75) y sus interacciones cayeron 73% en octubre.</li>
         <li><b>Bulk:</b> 500 a 2.000 entregas, a $0,05 a $0,20 cada una (estimado, sin cotizar).</li>
-        <li><b>Primero la base caliente:</b> 169 leads de Special Dai, incluidos 52 sin cotizar. Yantai usa su propia base.</li>
+        <li><b>Primero la base caliente:</b> 169 leads recientes, incluidos 52 sin cotizar. Yantai usa su propia base.</li>
       </ul>
     </div>
   </div>
 
   <h2><i>11</i>Riesgos</h2>
   <table><tr><th>Riesgo</th><th>Mitigación</th></tr>{rows([
-    ["Quien compró en Special Dai reclama", "Unidad específica y única; no se baja la lista"],
-    ["La unidad se va en minutos", "Obsequios para el resto de la lista"],
+    ["Clientes recientes reclaman por el descuento", "Solo bajan las unidades aprobadas; el resto del inventario mantiene su precio"],
+    ["Las unidades se van en minutos", "Obsequios o descuentos en otras unidades para quien llegue tarde"],
+    ["Dos clientes pagan la misma unidad a la vez", 'Regla de pago escrita y publicada antes: qué cuenta como "pagó primero"'],
     ["El precio se filtra el jueves", "La venta abre solo el vie 27; la ventaja de la lista es preparar el pago"],
-    ["La unidad se vende antes del 27", "Bloquearla en CRM apenas Gerencia apruebe"],
-    ["Plantilla de bulk no aprobada a tiempo", "Enviar a Meta antes del 13 nov; solo contactos con opt-in"],
-    ["Contado reduce el público: 84% de los clientes cotizados en Special Dai incluyó financiamiento", "La lista filtra contado desde el 17 nov; el bulk prioriza clientes de contado"],
+    ["Una unidad se vende antes del 27", "Bloquearlas en CRM antes del vie 13"],
+    ["Contado reduce el público: 84% de los clientes cotizados recientemente incluyó financiamiento", "La lista filtra contado desde el 17 nov; el bulk prioriza clientes de contado"],
   ])}</table>
 
   <h2><i>12</i>Cronograma</h2>
   <div class="tl">
-    <div class="x"><b>Jue 12 nov</b>Decisiones de Gerencia</div>
-    <div><b>Vie 13</b>Plantillas bulk y base Kommo</div>
-    <div><b>Desde vie 13</b>Grabación en showrooms</div>
+    <div class="x"><b>Jue 12 nov</b>Unidades aprobadas</div>
+    <div><b>Vie 13</b>Descuentos, medios de pago, placas y bulk</div>
+    <div><b>Lun 16</b>Grabación</div>
     <div><b>17 al 22</b>Expectativa</div>
-    <div><b>23 al 26</b>Revelación de unidad</div>
+    <div><b>23 al 26</b>Revelación de las unidades</div>
     <div class="x"><b>Vie 27</b>Black Friday, solo contado</div>
-    <div><b>Lun 30</b>Corte de cierre</div>
+    <div><b>Lun 30 · Mié 2 dic</b>Cierre y entregas</div>
   </div>
   {foot(3)}
 </section>

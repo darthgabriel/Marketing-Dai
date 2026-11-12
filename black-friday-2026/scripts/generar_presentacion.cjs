@@ -56,10 +56,10 @@ const THEME = {
     color: C.accent5, margin: 0, isTextBox: true, objectName: "Subtítulo objetivos" });
 
   const objs = [
-    ["3", "unidades vendidas", "Una por marca: Accent, Tiggo 4 Pro Max y Kaiyi X3 Pro, las que llevan más tiempo en inventario."],
+    ["10", "unidades vendidas", "2 Accent y 2 Creta, 2 Tiggo 4 y 2 Himla, 2 Kaiyi X3 Pro. Cada una, al primero que la pague."],
     ["100%", "ventas de contado", "Todo lo que se venda el viernes entra de contado: caja inmediata, sin depender de aprobación bancaria."],
     ["BLACK", "lista propia de contado", "Clientes con pago verificado en Kommo. Base lista para diciembre."],
-    ["0", "cambios en la lista de precios", "Las demás unidades mantienen su precio. Solo baja la unidad elegida."],
+    ["0", "cambios en la lista de precios", "Solo bajan las unidades aprobadas. El resto del inventario mantiene su precio."],
   ];
   objs.forEach(([big, lab, t], i) => {
     const x = 0.6 + i * 3.08;
@@ -81,10 +81,10 @@ const THEME = {
   ], { x: 2.9, y: 5.5, w: 9.8, h: 0.85, valign: "top", margin: 0, isTextBox: true, objectName: "Medios detalle" });
   s1.addNotes(
     "Este Black Friday persigue cuatro cosas.\n" +
-    "1. Vender tres unidades específicas, una por marca, las que llevan más tiempo en inventario.\n" +
+    "1. Vender las diez unidades aprobadas: 2 Accent y 2 Creta, 2 Tiggo 4 y 2 Himla, 2 Kaiyi X3 Pro.\n" +
     "2. Que todo lo vendido ese viernes sea de contado: caja inmediata, sin depender de aprobación bancaria.\n" +
     "3. Construir una lista propia de clientes de contado (BLACK) que nos sirve para diciembre.\n" +
-    "4. Hacerlo sin tocar la lista de precios: solo baja la unidad elegida.\n" +
+    "4. Hacerlo sin tocar la lista de precios: solo bajan las unidades aprobadas.\n" +
     "Presupuesto de medios: 357$."
   );
 
@@ -98,10 +98,10 @@ const THEME = {
   const cell = (t, o = {}) => ({ text: t, options: { fontSize: 13, color: C.text1, ...o } });
   const rows = [
     [hdr("El cliente quiere", THEME.colors.dk1, C.background1), hdr("La campaña le da", THEME.colors.accent1, C.text1), hdr("La empresa gana", THEME.colors.dk1, C.background1)],
-    [cell("Un descuento que pueda creer", { bold: true }), cell("Descuento real en una unidad, sin \"50%\" de mentira"), cell("Credibilidad, sin bajar el precio del resto del inventario")],
-    [cell("Reglas claras", { bold: true }), cell("Bases publicadas: una unidad, solo contado, se la lleva el primero que pague"), cell("Asignación transparente y menos reclamos")],
+    [cell("Un descuento que pueda creer", { bold: true }), cell("Descuento real en unidades contadas, sin \"50%\" de mentira"), cell("Credibilidad, sin bajar el precio del resto del inventario")],
+    [cell("Reglas claras", { bold: true }), cell("Bases publicadas: unidades contadas, solo contado, cada una al primero que pague"), cell("Asignación transparente y menos reclamos")],
     [cell("Tiempo para prepararse", { bold: true }), cell("Lista BLACK: recibe el precio 24 horas antes"), cell("Una base propia de clientes de contado")],
-    [cell("No quedarse con las manos vacías", { bold: true }), cell("Obsequios o descuentos en otra unidad si no gana la de Black Friday"), cell("Más ventas de contado ese viernes, no solo tres")],
+    [cell("No quedarse con las manos vacías", { bold: true }), cell("Obsequios o descuentos en otra unidad si se agotan las de Black Friday"), cell("Más ventas de contado ese viernes, no solo diez")],
     [cell("Contenido que entretenga, no publicidad", { bold: true }), cell("Un hilo por cuenta: humor, historia y números"), cell("Alcance con formatos que ya funcionan en el nicho")],
   ];
   s2.addTable(rows, { x: 0.6, y: 1.95, w: 12.1, colW: [3.4, 4.6, 4.1], rowH: [0.5, 0.72, 0.72, 0.72, 0.72, 0.72],
@@ -111,21 +111,21 @@ const THEME = {
     { x: 0.6, y: 6.45, w: 12.1, h: 0.35, fontSize: 12, italic: true, color: C.accent4, margin: 0, isTextBox: true, objectName: "Evidencia" });
   s2.addNotes(
     "La estrategia funciona porque cada cosa que le damos al cliente es también un beneficio para la empresa.\n" +
-    "El público desconfía de los Black Friday de carros: por eso un descuento real en una sola unidad es más creíble que un 50%.\n" +
+    "El público desconfía de los Black Friday de carros: por eso un descuento real en unidades contadas es más creíble que un 50%.\n" +
     "Las reglas claras evitan reclamos. La lista BLACK le da al cliente 24 horas para preparar el pago y a nosotros una base de contado.\n" +
-    "Quien no gana la unidad recibe obsequios o descuentos en otra unidad de contado: así el viernes vende más de tres.\n" +
+    "Si se agotan, quien llegue tarde recibe obsequios o descuentos en otra unidad de contado: así el viernes vende más de diez.\n" +
     "El contenido se basa en lo que ya funciona en el nicho: sketches de concesionario y cuentas regresivas."
   );
 
   // ---------- 3. Ejecución y decisiones ----------
   pres.addSection({ title: "Decisiones" });
   const s3 = pres.addSlide({ masterName: "OSCURO", sectionTitle: "Decisiones" });
-  kicker(s3, "CÓMO LO EJECUTAMOS · PARA APROBAR HOY", true);
-  s3.addText("Cinco decisiones hoy para arrancar el martes 17", { placeholder: "title" });
+  kicker(s3, "CÓMO LO EJECUTAMOS · PENDIENTE ANTES DEL VIERNES 13", true);
+  s3.addText("Cinco definiciones para arrancar el martes 17", { placeholder: "title" });
 
   const steps = [
-    ["17 NOV", "Comenta BLACK"], ["23 NOV", "Se revela la unidad"], ["26 NOV · 7 AM", "Precio a la lista"],
-    ["27 NOV · 8 AM", "Precio público y venta"], ["2 DIC", "Reel de la entrega"],
+    ["17 NOV", "Comenta BLACK"], ["23 NOV", "Se revelan las unidades"], ["26 NOV · 7 AM", "Precio a la lista"],
+    ["27 NOV · 8 AM", "Precio público y venta"], ["2 DIC", "Reel de las entregas"],
   ];
   const stepW = 2.42;
   s3.addShape(pres.shapes.LINE, { x: 0.6 + stepW / 2, y: 2.15, w: stepW * 4, h: 0, line: { color: C.accent4, width: 2 },
@@ -142,11 +142,11 @@ const THEME = {
   });
 
   const dec = [
-    ["Unidades", "Accent, Tiggo 4 Pro Max y Kaiyi X3 Pro"],
-    ["Descuento sobre el precio final", "Solo en la unidad de Black Friday"],
+    ["Descuento sobre el precio final", "Un monto por modelo"],
     ["$200 adicionales", "$100 pauta Yantai + $100 WhatsApp masivo"],
-    ["Regla", "Se la lleva el primero que pague de contado"],
-    ["Medios de pago y obsequios", "Para las piezas del viernes 20"],
+    ["Regla", "Cada unidad, al primero que la pague de contado"],
+    ["Medios de pago", "Para las piezas del viernes 20"],
+    ["Si se agotan", "Obsequios o descuentos en otra unidad"],
   ];
   dec.forEach(([h, t], i) => {
     const y = 3.6 + i * 0.62;
@@ -174,9 +174,9 @@ const THEME = {
     { text: "El 84% de los clientes cotizados recientemente pidió financiamiento. La lista BLACK filtra contado desde el día 17.", options: { fontSize: 13, color: C.accent5 } },
   ], { x: 8.05, y: 4.45, w: 4.5, h: 2.0, valign: "top", margin: 0, isTextBox: true, objectName: "Total y riesgo" });
   s3.addNotes(
-    "Así se ejecuta: el 17 abre la lista BLACK, el 23 se revela la unidad, el 26 a las 7 am la lista recibe el precio, el 27 a las 8 am se publica y se vende, y el 2 dic mostramos la entrega.\n" +
-    "Para arrancar el martes 17 necesitamos hoy cinco decisiones:\n" +
-    "1. Las tres unidades. 2. Descuento sobre el precio final, solo en la unidad de Black Friday. 3. $200 adicionales: $100 de pauta para Yantai ($40 y $60 solo si funciona) y $100 de WhatsApp masivo. 4. Se la lleva el primero que pague de contado. 5. Medios de pago aceptados y obsequios.\n" +
+    "Así se ejecuta: el 17 abre la lista BLACK, el 23 se revelan las unidades, el 26 a las 7 am la lista recibe los precios, el 27 a las 8 am se publican y se vende, y el 2 dic mostramos las entregas.\n" +
+    "Las unidades ya están aprobadas: 10 en total. Para arrancar el martes 17 faltan cinco definiciones antes del viernes 13:\n" +
+    "1. Descuento sobre el precio final, un monto por modelo, solo en las unidades aprobadas. 2. $200 adicionales: $100 de pauta para Yantai ($40 y $60 solo si funciona) y $100 de WhatsApp masivo. 3. Cada unidad es del primero que la pague de contado. 4. Medios de pago aceptados. 5. Si se agotan, obsequios o descuentos en otra unidad.\n" +
     "Riesgo: el 84% de los clientes cotizados recientemente pidió financiamiento. Lo mitigamos filtrando contado en la lista desde el 17."
   );
 

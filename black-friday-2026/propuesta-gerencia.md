@@ -1,50 +1,46 @@
-# Black Friday 2026 · Propuesta para Gerencia (borrador)
+# Black Friday 2026 · "A la una, a las dos, de contado..." · Propuesta para Gerencia
 
-Cuentas: @daimotorsmcbo (Hyundai) · @cherymaracaibo (Chery) · @yantaimotors
+Cuentas: @daimotorsmcbo (Hyundai) · @cherymaracaibo (Chery) · @yantaimotors (Kaiyi)
 Fecha: viernes 27 de noviembre 2026 · Solo contado
-Elaborado: 9 nov 2026 · Calendario detallado: `.claude/instagram/plan.md`
+Actualizado: 12 nov 2026, con las unidades aprobadas · Calendario detallado: `.claude/instagram/plan.md` · Guiones: `contenido-diario.md`
 PDF: `entregables/Propuesta-Black-Friday-2026.pdf`, generado con `scripts/generar_propuesta.py`
 
 ---
 
 ## 1. La propuesta en una línea
 
-**Una sola unidad por marca, con descuento real, solo el viernes 27 y de contado.** Medios: **$357**, 7% de lo gastado en Special Dai ($5.057).
+**Diez unidades contadas, con descuento sobre el precio final, solo el viernes 27 y de contado.** Cada unidad es del primer cliente que la pague. Medios: **$357**.
 
-Por qué una sola unidad:
+Por qué unidades contadas y no toda la lista:
 
-- Special Dai cerró el 7 nov diciendo "precios solo en evento"; bajar la lista 20 días después quema ese mensaje.
-- Una unidad específica tiene razón propia para bajar, y no toca el precio de las demás.
-- La escasez es verdadera: hay una, y cuando se va se acabó.
-- El costo queda acotado y se conoce antes de arrancar.
-
----
-
-## 2. Unidades recomendadas
-
-- Hyundai en Dai Motors: Accent 1.5L A/T GLS
-- Chery en Dai Motors: Tiggo 4 Pro Max
-- Kaiyi en Yantai Motors: X3 Pro 1.5T
-
-Referencia interna, fuera del PDF (CRM, 9 nov):
-
-| Unidad | Placa | Días en inventario | Costo CRM |
-|---|---|---|---|
-| Accent blanco | AO712OA | 208 | $25.062 |
-| Tiggo 4 Pro Max blanca | AO923YB o AO924YB | 133 | $23.882 |
-| Kaiyi X3 Pro gris o plata | AO425AB o AO426AB | 340 | $25.006 |
+- Solo bajan las unidades aprobadas; el resto del inventario mantiene su precio.
+- La escasez es verdadera: cada cuenta dice cuántas hay y muestra cuántas quedan.
+- El costo del descuento se conoce antes de arrancar.
 
 ---
 
-## 3. Decisiones para Gerencia, a más tardar jueves 12 nov
+## 2. Unidades aprobadas
+
+| Cuenta | Unidades | Total |
+|---|---|---|
+| Hyundai en Dai Motors | 2 Accent + 2 Creta | 4 |
+| Chery en Dai Motors | 2 Tiggo 4 + 2 Himla | 4 |
+| Kaiyi en Yantai Motors | 2 Kaiyi X3 Pro | 2 |
+| **Total** | | **10** |
+
+Pendiente de Ventas, para el vie 13: versión, color y placa de cada una, y bloquearlas en CRM para que no se vendan antes del 27.
+
+---
+
+## 3. Decisiones pendientes para Gerencia
 
 | # | Decisión | Recomendación |
 |---|---|---|
-| 1 | Unidad por marca | Las tres anteriores |
-| 2 | Descuento u obsequios | Descuento en la unidad, obsequios para el resto de la lista |
-| 3 | Monto del descuento | Entre 3% y 5%, según precio público y margen de cada unidad |
-| 4 | Presupuesto adicional de $200 | Aprobar $100 de ads para Yantai y $100 de bulk WhatsApp |
-| 5 | Regla de asignación | Primer cliente que pague de contado |
+| 1 | Descuento por modelo | Un monto sobre el precio final para cada modelo: Accent, Creta, Tiggo 4, Himla y X3 Pro |
+| 2 | Presupuesto adicional de $200 | Aprobar $100 de ads para Yantai y $100 de bulk WhatsApp |
+| 3 | Regla de asignación | Cada unidad, para el primer cliente que la pague de contado |
+| 4 | Medios de pago aceptados | Definirlos antes del vie 13: van en el carrusel del vie 20 |
+| 5 | Si se agotan | Obsequios o descuentos en otra unidad, de contado, el mismo viernes |
 
 ---
 
@@ -52,9 +48,9 @@ Referencia interna, fuera del PDF (CRM, 9 nov):
 
 | Opción | A favor | En contra |
 |---|---|---|
-| A. Descuento en la unidad | Número claro para el gancho y la pauta | Costo directo en margen |
-| B. Obsequios en la unidad | Protege el precio; valor percibido mayor al costo | Gancho débil |
-| **C. Descuento en la unidad + obsequios en el resto (recomendada)** | La unidad atrae; el obsequio captura a quien no la gana | Hay que definir el paquete y su costo |
+| A. Descuento en las unidades aprobadas | Número claro para el gancho y la pauta | Costo directo en margen |
+| B. Obsequios en las unidades aprobadas | Protege el precio; valor percibido mayor al costo | Gancho débil |
+| **C. Descuento en las unidades aprobadas + obsequios o descuentos en otras si se agotan (recomendada)** | Las unidades atraen; el plan B captura a quien llegue tarde | Hay que definir el paquete y su costo |
 
 ---
 
@@ -62,23 +58,24 @@ Referencia interna, fuera del PDF (CRM, 9 nov):
 
 1. Desde 17 nov: el cliente comenta o escribe **BLACK** y entra a la lista en Kommo.
 2. Del 17 al 26 nov: el asesor confirma que puede comprar de contado.
-3. Lun 23 nov: se revela la unidad, sin el precio; bases publicadas.
-4. Jue 26 nov, 7:00 am: la lista recibe el precio por WhatsApp; tiene 24 h para preparar el pago.
-5. Vie 27 nov, 8:00 am: precio público.
-6. Se la lleva el primer cliente que pague de contado.
-7. Todo el vie 27: los demás reciben obsequios en otra unidad, de contado.
+3. Lun 23 nov: se revelan las unidades de cada cuenta, sin el precio; bases publicadas.
+4. Jue 26 nov, 7:00 am: la lista recibe los precios por WhatsApp; tiene 24 h para preparar el pago.
+5. Vie 27 nov, 8:00 am: precios públicos.
+6. Cada unidad es del primer cliente que la pague de contado. Cada cuenta muestra cuántas quedan y solo actualiza el número con la venta confirmada.
+7. Si se agotan: obsequios o descuentos en otra unidad, de contado, todo el vie 27.
+8. Mié 2 dic: reel de las entregas en las tres cuentas.
 
 ---
 
 ## 6. Referencia creativa
 
-Carteles que llevan a la unidad, formato de un Reel de @sephorauk de 15 segundos, grabado con celular.
+Misma campaña, un hilo propio por cuenta. Formato de carteles que llevan a las unidades, tomado de un Reel de @sephorauk de 15 segundos, grabado con celular.
 
-| Cuenta | Adaptación | Cierre |
+| Cuenta | Hilo | Cierre |
 |---|---|---|
-| @daimotorsmcbo | Humor zuliano: el asesor camina con el cartel en la espalda sin saberlo | Hyundai en Dai Motors |
-| @cherymaracaibo | Tono emocional, sin broma: los carteles guían un recorrido hasta la unidad | Chery en Dai Motors |
-| @yantaimotors | Directo: carteles hasta la Kaiyi X3 Pro | Kaiyi en Yantai Motors |
+| @daimotorsmcbo | Humor zuliano: Alexis, el asesor con el cartel en la espalda que nunca sabe qué dice. El viernes el cartel cuenta: QUEDAN 4 | Hyundai en Dai Motors |
+| @cherymaracaibo | Emotivo, sin broma: cuatro historias que todavía no empiezan, dos de familia (Tiggo 4) y dos de trabajo (Himla) | Chery en Dai Motors |
+| @yantaimotors | Directo, nadie en cámara: los números escritos con marcador en el vidrio. El primero es el 2 | Kaiyi en Yantai Motors |
 
 ---
 
@@ -104,7 +101,7 @@ Yantai en dos partes: $40 en expectativa; los $60 de revelación y viernes solo 
 
 | Indicador | Hyundai | Chery | Yantai |
 |---|---|---|---|
-| Unidad vendida | 1 | 1 | 1 |
+| Unidades vendidas | 4 de 4 | 4 de 4 | 2 de 2 |
 | Leads lun 23 a vie 27 | 33 (normal 20) | 71 (normal 61) | Por definir |
 
 ---
@@ -113,12 +110,13 @@ Yantai en dos partes: $40 en expectativa; los $60 de revelación y viernes solo 
 
 | Riesgo | Mitigación |
 |---|---|
-| Quien compró en Special Dai reclama | Unidad específica y única; no se baja la lista |
-| La unidad se va en minutos | Obsequios para el resto de la lista |
+| Clientes recientes reclaman por el descuento | Solo bajan las unidades aprobadas; el resto del inventario mantiene su precio |
+| Las unidades se van en minutos | Obsequios o descuentos en otras unidades para quien llegue tarde |
+| Dos clientes pagan la misma unidad a la vez | Regla de pago escrita y publicada antes: qué cuenta como "pagó primero" |
 | El precio se filtra el jueves | La venta abre solo el vie 27; la ventaja de la lista es preparar el pago |
-| La unidad se vende antes del 27 | Bloquearla en CRM apenas Gerencia apruebe |
+| Una unidad se vende antes del 27 | Bloquearlas en CRM antes del vie 13 |
 | Plantilla de bulk no aprobada a tiempo | Enviar a Meta antes del 13 nov; solo contactos con opt-in |
-| Contado reduce el público: 84% de los clientes cotizados en Special Dai incluyó financiamiento | La lista filtra contado desde el 17 nov; el bulk prioriza clientes de contado |
+| Contado reduce el público: 84% de los clientes cotizados recientemente incluyó financiamiento | La lista filtra contado desde el 17 nov; el bulk prioriza clientes de contado |
 
 ---
 
@@ -126,10 +124,11 @@ Yantai en dos partes: $40 en expectativa; los $60 de revelación y viernes solo 
 
 | Fecha | Hito |
 |---|---|
-| Jue 12 nov | Decisiones de Gerencia |
-| Vie 13 nov | Plantillas bulk enviadas; base Kommo depurada |
-| Desde vie 13 nov | Grabación de carteles en los showrooms |
+| Jue 12 nov | Unidades aprobadas |
+| Vie 13 nov | Descuento por modelo, medios de pago, placas; plantillas bulk enviadas; base Kommo depurada |
+| Lun 16 nov | Grabación de los primeros reels |
 | 17 al 22 nov | Expectativa |
-| 23 al 26 nov | Revelación de unidad |
+| 23 al 26 nov | Revelación de las unidades |
 | Vie 27 nov | Black Friday, solo contado |
 | Lun 30 nov | Corte de cierre |
+| Mié 2 dic | Reel de las entregas |

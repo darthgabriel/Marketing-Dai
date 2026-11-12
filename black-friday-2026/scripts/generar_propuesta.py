@@ -18,7 +18,7 @@ UNIDADES = [
     ("Chery en Dai Motors", "Tiggo 4 Pro Max"),
     ("Kaiyi en Yantai Motors", "X3 Pro 1.5T"),
 ]
-ADS = {"Hyundai": (20, 30, 35), "Chery": (18, 25, 29), "Yantai": (25, 35, 40)}
+ADS = {"Hyundai": (20, 30, 35), "Chery": (18, 25, 29), "Yantai": (40, 25, 35)}
 BULK = {"Hyundai": 35, "Chery": 35, "Yantai": 30}
 FONDO_ADS, GASTO_SPECIAL = 157, 5057.34
 
@@ -119,7 +119,7 @@ HTML = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
     <div class="s">Hyundai en Dai Motors · Chery en Dai Motors · Kaiyi en Yantai Motors</div></div>
     <div class="r"><b>Viernes 27 de noviembre</b>Solo contado · Borrador 9 nov 2026</div>
   </div>
-  <p class="lead">Una sola unidad por marca, con rebaja real, solo el viernes 27 y de contado. <em>Medios: {money(MEDIOS)}, {PCT_SPECIAL}% de lo gastado en Special Dai.</em></p>
+  <p class="lead">Una sola unidad por marca, con descuento real, solo el viernes 27 y de contado. <em>Medios: {money(MEDIOS)}, {PCT_SPECIAL}% de lo gastado en Special Dai.</em></p>
   <div class="kpis">
     <div class="kpi"><b>3</b><span>unidades, una por marca</span></div>
     <div class="kpi"><b>{money(MEDIOS)}</b><span>medios: ads {money(ADS_T)} + bulk {money(BULK_T)}</span></div>
@@ -139,8 +139,8 @@ HTML = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
   <h2><i>3</i>Decisiones que necesitamos, a más tardar el jueves 12 de noviembre</h2>
   <table><tr><th style="width:24px">#</th><th>Decisión</th><th>Recomendación</th></tr>{rows([
     ["1", "<b>Unidad por marca</b>", "Las tres anteriores"],
-    ["2", "<b>Rebaja u obsequios</b>", "Rebaja en la unidad, obsequios para el resto de la lista"],
-    ["3", "<b>Monto de la rebaja</b>", "Entre 3% y 5%, según precio público y margen de cada unidad"],
+    ["2", "<b>Descuento u obsequios</b>", "Descuento en la unidad, obsequios para el resto de la lista"],
+    ["3", "<b>Monto del descuento</b>", "Entre 3% y 5%, según precio público y margen de cada unidad"],
     ["4", f"<b>Presupuesto adicional de {money(PEDIDO)}</b>", "Aprobar $100 de ads para Yantai y $100 de bulk WhatsApp"],
     ["5", "<b>Regla de asignación</b>", "Primer cliente que pague de contado"],
   ])}</table>
@@ -150,11 +150,11 @@ HTML = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
 <section class="page">
   <div class="top"><b>La oferta y cómo funciona</b><span>Black Friday 2026</span></div>
 
-  <h2><i>4</i>Rebaja, obsequios o ambos</h2>
+  <h2><i>4</i>Descuento, obsequios o ambos</h2>
   <table><tr><th>Opción</th><th>A favor</th><th>En contra</th></tr>
-  <tr><td><b>A.</b> Rebaja en la unidad</td><td>Número claro para el gancho y la pauta</td><td>Costo directo en margen</td></tr>
+  <tr><td><b>A.</b> Descuento en la unidad</td><td>Número claro para el gancho y la pauta</td><td>Costo directo en margen</td></tr>
   <tr><td><b>B.</b> Obsequios en la unidad</td><td>Protege el precio; valor percibido mayor al costo</td><td>Gancho débil: "obsequio" no detiene el scroll</td></tr>
-  <tr class="rec"><td><b>C. Rebaja en la unidad + obsequios en el resto · recomendada</b></td><td>La unidad atrae; el obsequio captura a quien no la gana</td><td>Hay que definir el paquete y su costo</td></tr></table>
+  <tr class="rec"><td><b>C. Descuento en la unidad + obsequios en el resto · recomendada</b></td><td>La unidad atrae; el obsequio captura a quien no la gana</td><td>Hay que definir el paquete y su costo</td></tr></table>
   <p class="note">Una unidad se vende una sola vez: sin plan B, todos los demás leads se pierden.</p>
 
   <h2><i>5</i>Mecánica</h2>
@@ -162,7 +162,7 @@ HTML = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
     <div class="st"><b>Desde 17 nov</b>Cliente comenta o escribe BLACK y entra a la lista en Kommo</div>
     <div class="st"><b>17 al 26 nov</b>Asesor confirma que puede comprar de contado</div>
     <div class="st"><b>Lun 23</b>Se revela la unidad, sin el precio. Bases publicadas</div>
-    <div class="st"><b>Vie 27 · 7 am</b>La lista recibe el precio por WhatsApp</div>
+    <div class="st"><b>Jue 26 · 7 am</b>La lista recibe el precio por WhatsApp: 24 h para preparar el pago</div>
     <div class="st"><b>Vie 27 · 8 am</b>Precio público en las 3 cuentas</div>
     <div class="st h"><b>Se la lleva</b>Primer cliente que pague de contado</div>
     <div class="st"><b>Todo el vie 27</b>Los demás reciben obsequios en otra unidad, de contado</div>
@@ -208,7 +208,7 @@ HTML = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
       <ul>
         <li><b>Hyundai recibe más que Chery:</b> la mediana de Reel de Chery fue 9 veces mayor (9.238 vs 1.036).</li>
         <li><b>Objetivo de pauta: mensajes.</b> Special Dai pagó visitas al perfil a $0,05, que no miden conversación.</li>
-        <li><b>Yantai en dos partes:</b> $40, y $60 solo si la primera genera conversaciones. Su costo por 1.000 alcanzados es el más alto ($1,81 vs $1,17 y $0,75) y sus interacciones cayeron 73% en octubre.</li>
+        <li><b>Yantai en dos partes:</b> $40 en expectativa; los $60 de revelación y viernes solo si esos $40 generan conversaciones (se evalúa el dom 22). Su costo por 1.000 alcanzados es el más alto ($1,81 vs $1,17 y $0,75) y sus interacciones cayeron 73% en octubre.</li>
         <li><b>Bulk:</b> 500 a 2.000 entregas, a $0,05 a $0,20 cada una (estimado, sin cotizar).</li>
         <li><b>Primero la base caliente:</b> 169 leads de Special Dai, incluidos 52 sin cotizar. Yantai usa su propia base.</li>
       </ul>
@@ -219,6 +219,7 @@ HTML = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
   <table><tr><th>Riesgo</th><th>Mitigación</th></tr>{rows([
     ["Quien compró en Special Dai reclama", "Unidad específica y única; no se baja la lista"],
     ["La unidad se va en minutos", "Obsequios para el resto de la lista"],
+    ["El precio se filtra el jueves", "La venta abre solo el vie 27; la ventaja de la lista es preparar el pago"],
     ["La unidad se vende antes del 27", "Bloquearla en CRM apenas Gerencia apruebe"],
     ["Plantilla de bulk no aprobada a tiempo", "Enviar a Meta antes del 13 nov; solo contactos con opt-in"],
     ["Contado reduce el público: 84% de los clientes cotizados en Special Dai incluyó financiamiento", "La lista filtra contado desde el 17 nov; el bulk prioriza clientes de contado"],

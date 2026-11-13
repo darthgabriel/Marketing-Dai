@@ -18,7 +18,10 @@ VIE 13  descuento por modelo, medios de pago, placas; plantillas bulk a Meta; de
 
 SEMANA 16 NOV · EXPECTATIVA
 
-LUN 16  interacción + grabación de reels del 17 y 19
+LUN 16  7:00pm  REEL      TEASER   #18 Cold Open       - Hyundai y Chery: videos ya grabados "de negro" + VIERNES 27 + COMENTA BLACK
+                STORIES 3 frames  - encuesta / caja de preguntas · Yantai sin publicación
+                Kommo: respuesta automática a BLACK activa desde las 7pm
+        interacción + grabación de reels del 17 y 19
 MAR 17  7:00pm  REEL      STORY    #18 Cold Open Demo  - mano pega "Algo grande viene"
                 STORIES 4 frames  - encuesta / caja de preguntas
 MIE 18  sin publicación comercial (Bajada de La Chinita)

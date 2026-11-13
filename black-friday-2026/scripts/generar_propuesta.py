@@ -159,7 +159,7 @@ HTML = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
 
   <h2><i>5</i>Mecánica</h2>
   <div class="steps">
-    <div class="st"><b>Desde 17 nov</b>Cliente comenta o escribe BLACK y entra a la lista en Kommo</div>
+    <div class="st"><b>Desde 16 nov</b>Cliente comenta o escribe BLACK y entra a la lista en Kommo</div>
     <div class="st"><b>17 al 26 nov</b>Asesor confirma que puede comprar de contado</div>
     <div class="st"><b>Lun 23</b>Se revelan las unidades, sin el precio. Bases publicadas</div>
     <div class="st"><b>Jue 26 · 7 am</b>La lista recibe los precios por WhatsApp: 24 h para preparar el pago</div>
@@ -228,7 +228,7 @@ HTML = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
   <div class="tl">
     <div class="x"><b>Jue 12 nov</b>Unidades aprobadas</div>
     <div><b>Vie 13</b>Descuentos, medios de pago, placas y bulk</div>
-    <div><b>Lun 16</b>Grabación</div>
+    <div><b>Lun 16</b>Teaser Hyundai y Chery</div>
     <div><b>17 al 22</b>Expectativa</div>
     <div><b>23 al 26</b>Revelación de las unidades</div>
     <div class="x"><b>Vie 27</b>Black Friday, solo contado</div>

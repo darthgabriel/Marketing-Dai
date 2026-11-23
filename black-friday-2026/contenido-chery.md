@@ -107,63 +107,62 @@ Después: guardar las respuestas. Las mejores se usan en el reel del mié 25, co
 
 ---
 
-## Jue 19 · 7:00 pm · REEL · El descuento que puedes creer · 20 s
+## Jue 19 · 7:00 pm · REEL · Cuatro unidades y una lista · 18 s
 
-**Objetivo:** bajar la expectativa de descuento antes de que salga el número, sin humor y en el tono de la cuenta.
+**Objetivo:** dos datos y nada más: son cuatro unidades, y quien escribe BLACK entra a la lista de preventa (recibe el precio el jueves 26 a las 7 am, un día antes que el resto). Sin porcentajes. Lo dice a cámara la asesora que atiende esa lista.
 
 | Ficha | |
 |---|---|
-| Duración | 20 s |
-| Salen | Solo manos |
-| Graba | Un asesor, cámara sobre una mesa de madera con luz de tarde |
-| Lugar | Mesa de la sala de espera |
-| Props | Periódico o volantes con anuncios "50% OFF", cuatro llaves, nota "VIERNES 27" |
+| Duración | 18 s |
+| Estilo | El del teaser del lun 16: blanco y negro con contraste alto, letras con contorno, la misma música y la misma placa final. Aquí el contraste es ella: la única de blanco |
+| Sale | Una asesora vestida de blanco, con lentes oscuros negros. Habla a cámara. Es la excepción a "solo manos" en Chery |
+| Graba | Un asesor, celular en vertical a la altura de los ojos de ella; micrófono de solapa |
+| Lugar | Showroom. Las unidades al fondo, fuera de foco: no se dice cuáles son hasta el lun 23 |
+| Props | Lentes oscuros negros, cuatro llaves, celular con un chat de WhatsApp de Dai Motors (sin datos de clientes a la vista) |
 
 **Hooks**
 
 | Opción | Fórmula | Hablado | Texto en pantalla |
 |---|---|---|---|
-| **A (elegida)** | #3 Nobody Tells You | "Nadie te dice esto: el descuento que vale es el que puedes creer." | EL QUE PUEDES CREER |
-| B | #22 Contrarian | "En carros no existe el 50%. Y está bien." | NO EXISTE EL 50% |
-| C | #20 Permission | "No necesitas un 50% para empezar algo nuevo." | NO NECESITAS 50% |
+| **A (elegida)** | #23 Statistic | "4 unidades. Ni una más." | SOLO 4 UNIDADES |
+| B | #19 Deadline | "Jueves, 7 am: te escribo yo." | JUEVES 7 AM · TE ESCRIBO |
+| C | #14 Callout | "Hay una lista. Y te quiero en ella." | LA LISTA BLACK |
 
-Por qué A: dice lo mismo que Hyundai (el 50% no existe), pero con calma y sin burla.
+Por qué A: el número es lo primero que se lee y lo que hace que la lista importe. Si fueran muchas, nadie necesitaría anotarse.
 
 **Plano a plano**
 
-| # | Tiempo | Qué se ve | Qué dice la voz en off | Texto en pantalla |
+| # | Tiempo | Qué se ve | Qué dice la asesora | Texto en pantalla |
 |---|---|---|---|---|
-| 1 | 0:00-0:02 | Una mano pasa despacio las páginas llenas de anuncios "50% OFF". | "Nadie te dice esto:" | EL QUE PUEDES CREER |
-| 2 | 0:02-0:05 | La mano se detiene en un anuncio. | "el descuento que vale es el que puedes creer." | (sin texto) |
-| 3 | 0:05-0:08 | La mano cierra el periódico y lo aparta. | "En carros, el 50% no existe." | EL 50% NO EXISTE |
-| 4 | 0:08-0:11 | La mano coloca cuatro llaves en fila sobre la mesa, con la luz de la tarde. | "Lo que sí existe son cuatro unidades." | CUATRO UNIDADES |
-| 5 | 0:11-0:15 | La mano deja la nota VIERNES 27 junto a las llaves. | "Con un descuento de verdad, el viernes 27, de contado." | VIERNES 27 · CONTADO |
-| 6 | 0:15-0:17 | La mano toma una de las llaves. | "Comenta BLACK." | COMENTA BLACK |
-| 7 | 0:17-0:20 | Quedan tres llaves y la nota. | "Chery en Dai Motors. Esto sí te lo decimos." | CHERY EN DAI MOTORS |
+| 1 | 0:00-0:03 | Blanco y negro. La asesora de blanco camina hacia cámara y se pone los lentes negros. | "4 unidades. Ni una más." | SOLO 4 UNIDADES |
+| 2 | 0:03-0:06 | Abre la mano: cuatro llaves. | "Y para llegar primero, hay una lista: la lista BLACK." | LISTA DE PREVENTA |
+| 3 | 0:06-0:08 | Plano cerrado: se baja un poco los lentes y señala la cámara. | "Escribe BLACK y te anoto." | ESCRIBE BLACK |
+| 4 | 0:08-0:11 | Gira el celular hacia la cámara: chat de WhatsApp, borroso. | "El jueves 26 a las 7 am te mando el precio." | JUEVES 26 · 7 AM |
+| 5 | 0:11-0:15 | Camina entre las unidades, fuera de foco, y se detiene a cámara. | "El viernes 27, cada una es de quien pague primero." | VIERNES 27 · CONTADO |
+| 6 | 0:15-0:18 | Se sube los lentes; en los cristales se lee BLACK, como en el teaser. Corta a la placa negra. | "4. Escríbeme BLACK." | 4 UNIDADES · ESCRIBE BLACK |
 
 **Texto para decir**
 
 ```guion
-Nadie te dice esto:
-el descuento que vale es el que puedes creer.
-En carros, el 50% no existe.
-Lo que sí existe son cuatro unidades.
-Con un descuento de verdad, el viernes 27, de contado.
-Comenta BLACK.
-Chery en Dai Motors. Esto sí te lo decimos.
+4 unidades. Ni una más.
+Y para llegar primero, hay una lista: la lista BLACK.
+Escribe BLACK y te anoto.
+El jueves 26 a las 7 am te mando el precio.
+El viernes 27, cada una es de quien pague primero.
+4. Escríbeme BLACK.
 ```
 
-**Audio y edición:** el sonido de las páginas al principio, y la música entra en la toma 3. Que se escuche cada llave al tocar la mesa.
+**Audio y edición:** la música del teaser, baja debajo de la voz. Todo en blanco y negro: el vestido blanco contra el showroom y los lentes negros tienen que ser lo que más resalta. Textos con las letras con contorno del teaser. Cierra con la placa negra: Black Friday · Dai Motors Chery.
 
 **Stories 19 nov · 5 frames · caja de preguntas**
 
 | # | Qué se ve | Texto | Sticker |
 |---|---|---|---|
-| 1 | Mano sosteniendo una taza de café en el showroom | "Hoy respondemos todo." | |
-| 2 | Foto suave del showroom | "Sin letra pequeña. Sin promesas raras." | |
-| 3 | Foto de las cuatro llaves | "Cuatro unidades. Un día. Un descuento real." | |
-| 4 | Foto de la nota VIERNES 27 | "¿Qué te gustaría saber antes del 27?" | Caja de preguntas |
-| 5 | Fondo crema | "Te respondemos mañana, con calma." | |
+| 1 | La asesora de blanco, con los lentes, a cámara | "Hoy respondo todo." | |
+| 2 | Foto de las cuatro llaves en su mano | "Cuatro. Y una lista para llegar primero." | |
+| 3 | Foto de los lentes sobre el escritorio | "Cuatro unidades. Un día. Un descuento real." | |
+| 4 | La asesora a cámara | "¿Qué te gustaría saber antes del 27?" | Caja de preguntas |
+| 5 | Fondo negro, letras con contorno | "Te respondo mañana." | |
 
 ---
 
@@ -176,7 +175,7 @@ Chery en Dai Motors. Esto sí te lo decimos.
 | 1 | El día que pagas tu carro completo se siente distinto. | Manos firmando, luz cálida |
 | 2 | Nada pendiente. Solo una fecha que recordar. | Calendario con el 27 marcado a mano |
 | 3 | Para que ese día salga bien, ten listo el monto completo. | Sobre cerrado sobre la mesa de madera |
-| 4 | Tus documentos al día. Y saber cómo vas a pagar: `{{medios de pago aceptados}}`. | Carpeta con documentos |
+| 4 | Tus documentos al día: cédula y RIF vigentes. | Carpeta con documentos |
 | 5 | Si estás en la lista BLACK, el precio te llega el jueves 26. Un día para prepararte. | Celular sobre la mesa |
 | 6 | Comenta BLACK. Chery en Dai Motors. | Faro fuera de foco |
 
@@ -197,64 +196,65 @@ Fin de semana: sin publicaciones. Las DM se responden el lunes, salvo respuesta 
 
 ---
 
-## Lun 23 · 7:00 pm · REEL · La revelación · 15 s
+## Lun 23 · 7:00 pm · REEL · Te dije que eran 4 · 18 s
 
-**Objetivo:** mostrar las cuatro unidades: dos Tiggo 4 y dos Himla. Todavía sin precio. Que se sepa que la lista recibe el precio el jueves.
+**Objetivo:** seguir al reel del jue 19 con la misma asesora y revelar las cuatro unidades: dos Tiggo 4 y dos Himla. Todavía sin precio. Decir las reglas en voz: de contado, viernes 27, cada una de quien la pague primero, y el precio llega el jueves a la lista BLACK.
 
-Referencia de formato: el reel de carteles de @sephorauk. Aquí son notas que guían un recorrido.
+Storyboard para producción: `entregables/Storyboard-Chery-Lun23.pdf`.
 
 | Ficha | |
 |---|---|
-| Duración | 15 s |
-| Salen | Solo manos |
-| Graba | Un asesor caminando despacio con estabilizador o con el celular apoyado en el pecho |
-| Lugar | De la entrada del showroom a las cuatro unidades: dos Tiggo 4 a un lado, dos Himla al otro |
-| Props | Notas "SIGUE", "UN POCO MÁS" y "CASI". En cada parabrisas, una nota distinta: "SU PRIMERA HISTORIA" en las Tiggo 4, "SU PRIMERA JORNADA" en las Himla. La nota CASI la sostiene la mano frente al lente |
+| Duración | 18 s |
+| Estilo | El del teaser y del jue 19: blanco y negro con contraste alto, letras con contorno, la música del teaser y la placa final |
+| Sale | La misma asesora del jue 19, vestida de blanco, con los mismos lentes negros. Habla a cámara |
+| Graba | Un asesor, celular en vertical a la altura de los ojos de ella; micrófono de solapa |
+| Lugar | Showroom: dos Tiggo 4 a un lado, dos Himla al otro, en fila |
+| Props | Lentes negros. En cada parabrisas una nota a mano en papel crema: "SU PRIMERA HISTORIA" en las Tiggo 4, "SU PRIMERA JORNADA" en las Himla |
 
 **Hooks**
 
 | Opción | Fórmula | Hablado | Texto en pantalla |
 |---|---|---|---|
-| **A (elegida)** | #24 Reveal | "Estas son. Dos Tiggo 4 y dos Himla." | CUATRO HISTORIAS |
-| B | #18 Cold Open | "Sigue las notas." | SIGUE LAS NOTAS |
-| C | #23 Statistic | "Dos Tiggo 4. Dos Himla. Un solo día." | 2 TIGGO 4 · 2 HIMLA |
+| **A (elegida)** | #24 Reveal | "Te dije que eran 4." | TE DIJE: 4 |
+| B | #23 Statistic | "Dos Tiggo 4. Dos Himla. Un solo día." | 2 TIGGO 4 · 2 HIMLA |
+| C | #21 Mid-Sentence | "...y estas son las cuatro." | ESTAS SON |
 
-Por qué A: revela las unidades y abre el hilo de las cuatro historias.
+Por qué A: retoma lo que ella dijo el jueves ("4 unidades. Ni una más") y lo cumple a cámara.
 
 **Plano a plano**
 
-| # | Tiempo | Qué se ve | Qué dice la voz en off | Texto en pantalla |
+| # | Tiempo | Qué se ve | Qué dice la asesora | Texto en pantalla |
 |---|---|---|---|---|
-| 1 | 0:00-0:01 | La cámara entra por la puerta. Nota SIGUE en el vidrio. | (sin voz, solo música) | SIGUE |
-| 2 | 0:01-0:02 | Nota UN POCO MÁS en el piso. | (sin voz) | UN POCO MÁS |
-| 3 | 0:02-0:03 | La mano pone la nota CASI frente al lente. Todo lo demás, fuera de foco. | (sin voz) | CASI |
-| 4 | 0:03-0:05 | La mano baja la nota: detrás están las cuatro unidades, en foco. | "Estas son." | CUATRO HISTORIAS |
-| 5 | 0:05-0:08 | Plano lento de las dos Tiggo 4, con su nota en el parabrisas. | "Dos Tiggo 4, para la familia y la ciudad." | 2 TIGGO 4 |
-| 6 | 0:08-0:11 | Plano lento de las dos Himla, con su nota en el parabrisas. | "Dos Himla, para el trabajo de todos los días." | 2 HIMLA |
-| 7 | 0:11-0:13 | Plano abierto de las cuatro. | "El viernes 27 bajan. La lista conoce el precio el jueves." | VIERNES 27 · CONTADO |
-| 8 | 0:13-0:15 | Primer plano de una nota. | "Comenta BLACK. Chery en Dai Motors. Estas son." | CHERY EN DAI MOTORS |
+| 1 | 0:00-0:03 | Blanco y negro. Ella de frente, con los lentes puestos; detrás, las cuatro unidades fuera de foco. | "Te dije que eran 4." | TE DIJE: 4 |
+| 2 | 0:03-0:05 | Se quita los lentes y da un paso al lado; el foco pasa a las cuatro. | "Estas son." | CUATRO HISTORIAS |
+| 3 | 0:05-0:08 | Camina junto a las dos Tiggo 4, con su nota en el parabrisas. | "Dos Tiggo 4, para la familia." | 2 TIGGO 4 |
+| 4 | 0:08-0:11 | Pasa junto a las dos Himla, con su nota en el parabrisas. | "Dos Himla, para el trabajo." | 2 HIMLA |
+| 5 | 0:11-0:13 | Se detiene frente a las cuatro, a cámara. | "De contado, el viernes 27." | VIERNES 27 · CONTADO |
+| 6 | 0:13-0:15 | Plano medio, seria, a cámara. | "Cada una, para quien la pague primero." | QUIEN PAGUE PRIMERO |
+| 7 | 0:15-0:18 | Se vuelve a poner los lentes; en los cristales se lee BLACK (en edición). Corta a la placa negra. | "El jueves te mando el precio. Escríbeme BLACK." | ESCRIBE BLACK |
 
 **Texto para decir**
 
 ```guion
+Te dije que eran 4.
 Estas son.
-Dos Tiggo 4, para la familia y la ciudad.
-Dos Himla, para el trabajo de todos los días.
-El viernes 27 bajan.
-La lista conoce el precio el jueves.
-Comenta BLACK. Chery en Dai Motors. Estas son.
+Dos Tiggo 4, para la familia.
+Dos Himla, para el trabajo.
+De contado, el viernes 27.
+Cada una, para quien la pague primero.
+El jueves te mando el precio. Escríbeme BLACK.
 ```
 
-**Audio y edición:** las tomas 1 a 3 cortan al ritmo de la música, una nota por golpe. La voz entra cuando baja la nota; que se escuche el papel. El enfoque pasa de la nota a las unidades en el mismo movimiento.
+**Audio y edición:** la música del teaser, baja debajo de la voz. Golpe de sonido cuando el foco pasa a las cuatro. Todo en blanco y negro: el vestido blanco y los lentes negros son lo que más resalta.
 
 **Stories 23 nov · 5 frames**
 
 | # | Qué se ve | Texto | Sticker |
 |---|---|---|---|
-| 1 | Video de la nota CASI bajando y las cuatro detrás | "Ya las conoces." | |
+| 1 | Video: se quita los lentes y aparecen las cuatro | "Ya las conoces." | |
 | 2 | Foto de las Tiggo 4 | "Dos Tiggo 4. `{{versión}}`." | |
 | 3 | Foto de las Himla con el platón a la vista | "Dos Himla. `{{versión}}`." | |
-| 4 | Fondo crema | "¿Cuál es tu próxima historia?" | Encuesta: Familia (Tiggo 4) / Trabajo (Himla) |
+| 4 | La asesora a cámara | "¿Cuál es tu próxima historia?" | Encuesta: Familia (Tiggo 4) / Trabajo (Himla) |
 | 5 | Fondo crema | "Mañana: todo lo que necesitas saber." | |
 
 Después: escribirle por DM a cada persona que vote, según el modelo que eligió.

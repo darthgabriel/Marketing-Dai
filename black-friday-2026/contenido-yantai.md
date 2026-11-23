@@ -112,13 +112,13 @@ Después: en Kommo, los del "Sí" entran a la lista. Los de "Todavía no" van al
 
 ---
 
-## Jue 19 · 7:00 pm · REEL · Adivina cuál es · 15 s
+## Jue 19 · 7:00 pm · REEL · Adivina cuál es · 18 s
 
-**Objetivo:** dar tres datos del modelo sin decir cuál es y que la gente comente para adivinar. Es lo propio de la cuenta: números, no promesas.
+**Objetivo:** dar tres datos del modelo sin decir cuál es, que la gente comente para adivinar, y dejar claro el trato: son 2 unidades y solo se venden de contado el viernes 27. Es lo propio de la cuenta: números, no promesas.
 
 | Ficha | |
 |---|---|
-| Duración | 15 s |
+| Duración | 18 s |
 | Sale | Nadie en cámara: una mano y voz en off |
 | Graba | Otra persona, en trípode |
 | Lugar | Vidrio del showroom; las Kaiyi no salen en cuadro, solo detalles |
@@ -129,10 +129,10 @@ Después: en Kommo, los del "Sí" entran a la lista. Los de "Todavía no" van al
 | Opción | Fórmula | Hablado | Texto en pantalla |
 |---|---|---|---|
 | **A (elegida)** | #11 Numbered | "Tres datos. Adivina cuál es." | ¿CUÁL ES? |
-| B | #23 Statistic | "Turbo. 154 caballos. Y son solo dos." | TURBO · 154 HP |
+| B | #23 Statistic | "Turbo. 154 caballos. Y son solo 2." | TURBO · 154 HP |
 | C | #18 Cold Open | "Esto es todo lo que te voy a decir." | SOLO 3 DATOS |
 
-Por qué A: convierte el teaser en un juego, y cada respuesta es un comentario.
+Por qué A: convierte el teaser en un juego, y cada respuesta es un comentario. El 2 y el contado llegan después, como el dato que cierra el juego.
 
 **Plano a plano**
 
@@ -141,11 +141,11 @@ Por qué A: convierte el teaser en un juego, y cada respuesta es un comentario.
 | 1 | 0:00-0:02 | La mano escribe "¿?" en grande en el vidrio. | "Tres datos. Adivina cuál es." | ¿CUÁL ES? |
 | 2 | 0:02-0:04 | Escribe "1. TURBO". Corte a un primer plano del motor, sin que se vea el carro. | "Uno: turbo." | TURBO |
 | 3 | 0:04-0:06 | Escribe "2. 154 HP". | "Dos: 154 caballos." | 154 HP |
-| 4 | 0:06-0:09 | Escribe "3. `{{LITROS}}` L DE MALETA". Primer plano de la maleta abierta, vacía. | "Tres: `{{litros}}` litros de maleta." | `{{LITROS}}` L DE MALETA |
-| 5 | 0:09-0:12 | La mano encierra los tres datos en un círculo. | "El lunes te digo si acertaste." | LUNES 23 · 7 PM |
-| 6 | 0:12-0:15 | La mano escribe BLACK debajo. | "Comenta BLACK. Kaiyi en Yantai Motors. Adivina." | COMENTA BLACK |
-
-Pendiente: litros de maleta de la X3 Pro desde la ficha técnica. Sin ese dato, el tercero pasa a ser "Dos unidades".
+| 4 | 0:06-0:09 | Escribe "3. 5 ASIENTOS". Corte a la puerta trasera abierta: se ven los asientos, sin que se vea el carro completo. | "Tres: 5 asientos." | 5 ASIENTOS |
+| 5 | 0:09-0:12 | Debajo, escribe un "2" grande y lo subraya dos veces. | "Y solo hay 2. De contado." | SOLO 2 · DE CONTADO |
+| 6 | 0:12-0:14 | Escribe "VIE 27" al lado del 2. | "El viernes 27." | VIERNES 27 |
+| 7 | 0:14-0:16 | La mano encierra todo en un círculo. | "El lunes te digo si acertaste." | LUNES 23 · 7 PM |
+| 8 | 0:16-0:18 | La mano escribe BLACK debajo del círculo. | "Comenta BLACK. Adivina." | COMENTA BLACK |
 
 **Texto para decir**
 
@@ -153,19 +153,33 @@ Pendiente: litros de maleta de la X3 Pro desde la ficha técnica. Sin ese dato, 
 Tres datos. Adivina cuál es.
 Uno: turbo.
 Dos: 154 caballos.
-Tres: {{litros}} litros de maleta.
+Tres: 5 asientos.
+Y solo hay 2. De contado.
+El viernes 27.
 El lunes te digo si acertaste.
-Comenta BLACK. Kaiyi en Yantai Motors. Adivina.
+Comenta BLACK. Adivina.
 ```
 
-**Audio y edición:** el sonido del marcador en cada dato y un golpe seco con el círculo.
+**Audio y edición:** el sonido del marcador en cada dato, dos rayas secas al subrayar el 2 y un golpe seco con el círculo. La firma "Kaiyi en Yantai Motors" va en la placa final, no en la voz.
+
+**Caption** (el reel ya trae el gancho: el caption solo pide BLACK y deja los datos que se buscan)
+
+```caption
+Comenta BLACK y el jueves 26 te mando el precio, un día antes que el resto.
+
+Tres datos y una pregunta: ¿cuál es? El lunes 23 a las 7 pm te digo si acertaste.
+
+Son 2 unidades y solo se venden de contado, el viernes 27. Black Friday en Maracaibo, en Yantai Motors: Av. 8 Santa Rita con 82B y 83.
+
+#BlackFridayMaracaibo #Kaiyi #YantaiMotors
+```
 
 **Stories 19 nov · 5 frames · encuesta + caja de preguntas**
 
 | # | Qué se ve | Texto | Sticker |
 |---|---|---|---|
 | 1 | Foto del vidrio con los tres datos | "¿Ya adivinaste?" | |
-| 2 | Primer plano del motor | "Pista: es turbo." | |
+| 2 | Foto del "2" subrayado en el vidrio | "Son 2. Solo de contado." | |
 | 3 | Fondo gris | "¿Cuál crees que es?" | Encuesta: `{{opción A}}` / `{{opción B}}` |
 | 4 | Fondo gris | "¿Qué quieres saber del viernes 27?" | Caja de preguntas |
 | 5 | Fondo gris | "Mañana respondo dudas. El lunes, la respuesta." | |
@@ -182,7 +196,7 @@ Encuesta: dos modelos de Kaiyi que vendan en el showroom, sin decir cuál es el 
 |---|---|
 | 1 | Checklist para comprar de contado el viernes 27. |
 | 2 | ☐ Monto completo disponible. |
-| 3 | ☐ Cédula y RIF vigentes. ☐ Medio de pago: `{{medios de pago aceptados}}`. |
+| 3 | ☐ Cédula y RIF vigentes. |
 | 4 | ☐ Estar en la lista BLACK: precio el jueves 26, 7 am. |
 | 5 | Comenta BLACK. Kaiyi en Yantai Motors · Av. 8 Santa Rita con calles 82B y 83. |
 
@@ -192,7 +206,7 @@ Diseño: fondo gris oscuro, letra blanca, casillas amarillas como el marcador de
 
 | # | Qué se ve | Texto | Sticker |
 |---|---|---|---|
-| 1 | Mano marcando casillas en una hoja impresa | "4 casillas." | |
+| 1 | Mano marcando casillas en una hoja impresa | "3 casillas." | |
 | 2 | Fondo gris | "Ayer preguntaron. Respondo dos." | |
 | 3 | Pregunta 1 + respuesta en una línea | | |
 | 4 | Pregunta 2 + respuesta | | |
@@ -203,61 +217,59 @@ Fin de semana: sin publicaciones. Las DM se responden el lunes, salvo respuesta 
 
 ---
 
-## Lun 23 · 7:00 pm · REEL · Un paso atrás · 15 s
+## Lun 23 · 7:00 pm · REEL · ¿Acertaste? · 15 s
 
-**Objetivo:** mostrar las dos Kaiyi X3 Pro con su dato más fuerte (turbo, 154 HP). Todavía sin precio. Que se sepa que la lista recibe el precio el jueves.
+**Objetivo:** cerrar el juego del jue 19 ("el lunes te digo si acertaste") y revelar las dos Kaiyi X3 Pro en el mismo vidrio. Todavía sin precio. Dejar las reglas en una línea cada una: son 2, de contado, el precio llega el jueves a la lista y cada una es de quien la pague primero.
 
 | Ficha | |
 |---|---|
 | Duración | 15 s |
 | Sale | Nadie en cámara: una mano y voz en off |
 | Graba | Otra persona, en trípode para la toma 1 y a mano para el resto |
-| Lugar | Las dos Kaiyi, lado a lado, detrás del vidrio |
-| Props | "154" escrito con marcador en el vidrio, frente a las Kaiyi; maleta vacía y limpia |
+| Lugar | La misma ventana lateral de la X3 Pro del reel del jue 19, ya limpia. Al lado, la otra X3 Pro |
+| Reusar | Los últimos 2 s del reel del jue 19 (ventana escrita "1. TURBO · 2. CVT · 3. 5") para la toma 1. Pedir el archivo original |
 
 **Hooks**
 
 | Opción | Fórmula | Hablado | Texto en pantalla |
 |---|---|---|---|
-| **A (elegida)** | #24 Reveal | "Kaiyi X3 Pro. Son dos. Turbo, 154 caballos." | SON DOS |
-| B | #18 Cold Open | "Un paso atrás." | UN PASO ATRÁS |
-| C | #26 Superlative | "Las únicas dos X3 Pro con precio Black Friday." | SOLO DOS |
+| **A (elegida)** | #24 Reveal | "¿Acertaste? Es la Kaiyi X3 Pro." | ¿ACERTASTE? |
+| B | #18 Cold Open | (corte de la ventana escrita a la ventana limpia) "Respuesta:" | RESPUESTA |
+| C | #23 Statistic | "Turbo, CVT, 5 asientos. Y son 2." | Y SON 2 |
 
-Por qué A: revela las unidades y da el dato fuerte en el mismo segundo.
+Por qué A: paga lo que prometió el reel del jueves. Quien comentó para adivinar vuelve a ver si acertó, y el final repite "acertaste", así que el reel enlaza al repetirse.
 
 **Plano a plano**
 
 | # | Tiempo | Qué se ve | Qué dice la voz en off | Texto en pantalla |
 |---|---|---|---|---|
-| 1 | 0:00-0:02 | Primer plano del "154" escrito en el vidrio. La cámara se aleja rápido y detrás aparecen las dos Kaiyi. | "Kaiyi X3 Pro. Son dos." | SON DOS |
-| 2 | 0:02-0:04 | Primer plano del frente de una de ellas. | "Turbo, 154 caballos." | TURBO · 154 HP |
-| 3 | 0:04-0:07 | La mano escribe "2" en el parabrisas de cada una. | "Dos unidades. Viernes 27. De contado." | 2 UNIDADES · VIERNES 27 |
-| 4 | 0:07-0:10 | La mano abre una maleta. Plano del espacio vacío. | "`{{dato de la maleta en litros}}`." | `{{LITROS}}` DE MALETA |
-| 5 | 0:10-0:12 | La mano cierra la maleta. | "Precio el jueves a las 7 am, solo a la lista." | PRECIO JUEVES 7 AM: LISTA |
-| 6 | 0:12-0:13 | Primer plano de un parabrisas escrito. | "Comenta BLACK." | COMENTA BLACK |
-| 7 | 0:13-0:15 | Plano abierto de las dos Kaiyi. | "Kaiyi en Yantai Motors. Son dos." | KAIYI EN YANTAI MOTORS |
+| 1 | 0:00-0:03 | Se reusan los últimos 2 s del reel del jueves (la ventana escrita) y corte a la misma ventana, ya limpia, en el mismo encuadre. | "¿Acertaste? Es la Kaiyi X3 Pro." | ¿ACERTASTE? · KAIYI X3 PRO |
+| 2 | 0:03-0:05 | La cámara se aleja de la ventana en un solo movimiento: aparece la X3 Pro completa y la otra al lado. | "Y solo hay 2." | SOLO 2 |
+| 3 | 0:05-0:08 | La mano escribe "2" en el parabrisas de cada una. | "De contado, el viernes 27." | DE CONTADO · VIERNES 27 |
+| 4 | 0:08-0:11 | La mano abre la puerta trasera de una. | "El precio llega el jueves 26, solo a la lista." | PRECIO JUEVES 7 AM |
+| 5 | 0:11-0:13 | La mano cierra la puerta. | "Cada una, para quien la pague primero." | QUIEN PAGUE PRIMERO |
+| 6 | 0:13-0:15 | Plano abierto de las dos detrás del vidrio. | "Comenta BLACK si acertaste." | COMENTA BLACK |
 
 **Texto para decir**
 
 ```guion
-Kaiyi X3 Pro. Son dos.
-Turbo, 154 caballos.
-Dos unidades. Viernes 27. De contado.
-{{dato de la maleta en litros}}.
-Precio el jueves a las 7 am, solo a la lista.
-Comenta BLACK.
-Kaiyi en Yantai Motors. Son dos.
+¿Acertaste? Es la Kaiyi X3 Pro.
+Y solo hay 2.
+De contado, el viernes 27.
+El precio llega el jueves 26, solo a la lista.
+Cada una, para quien la pague primero.
+Comenta BLACK si acertaste.
 ```
 
-**Audio y edición:** golpe de sonido cuando aparecen las dos. Que se escuche un motor encendido, de fondo, en la toma 2.
+**Audio y edición:** golpe seco cuando el plano abierto muestra las dos. Los textos van en edición, en naranja tipo marcador: la ventana no se vuelve a escribir. Mismo color de video que el jueves (verde azulado oscuro) y la misma placa final, cambiando "Muy pronto..." por "Kaiyi en Yantai Motors". Storyboard: `entregables/Storyboard-Yantai-Lun23.pdf`.
 
 **Stories 23 nov · 5 frames**
 
 | # | Qué se ve | Texto | Sticker |
 |---|---|---|---|
-| 1 | Video: la cámara se aleja del "154" y aparecen las dos | "Ahí están. ¿Acertaste?" | |
-| 2 | Foto de las dos X3 Pro de lado | "X3 Pro 1.5T. Son dos." | |
-| 3 | Foto del motor | "Turbo. 154 HP." | |
+| 1 | Video: la cámara se aleja de la ventana y aparecen las dos | "Ahí están. ¿Acertaste?" | |
+| 2 | Foto de las dos X3 Pro de lado | "Kaiyi X3 Pro. Son 2." | |
+| 3 | Foto del motor | "Turbo. Caja CVT." | |
 | 4 | Foto de una de frente | "¿Vienes a verlas antes del viernes?" | Encuesta: Esta semana / El viernes |
 | 5 | Mapa o foto de la fachada | "Av. 8 Santa Rita con 82B y 83. Mañana: las reglas." | |
 

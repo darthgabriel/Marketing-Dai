@@ -110,40 +110,41 @@ Después: a cada persona que vote, responderle por DM: "¿Y tú qué carro andas
 
 ---
 
-## Jue 19 · 7:00 pm · REEL · El cliente que pide 50% · 20 s
+## Jue 19 · 7:00 pm · REEL · POV: pides 50% · 22 s
 
-**Objetivo:** bajar la expectativa de descuento antes de que salga el número, para que un descuento real no decepcione. Lo dice un cliente en un sketch, no un vendedor dando un sermón.
+**Objetivo:** bajar la expectativa de descuento antes de que salga el número, para que un descuento real no decepcione, y explicar la dinámica de la lista: quien escribe BLACK recibe el precio el jueves 26, un día antes que el resto. El que pide el 50% es el que mira el reel: la cámara es el cliente, así que nadie tiene que actuar de cliente y cualquiera se ve en esa silla.
 
 | Ficha | |
 |---|---|
-| Duración | 20 s |
-| Salen | Alexis y un "cliente" (otro asesor o un amigo, con lentes oscuros y camisa playera) |
-| Graba | Un tercero, cámara fija en trípode más dos tomas a mano |
+| Duración | 22 s |
+| Salen | Solo Alexis. El cliente nunca se ve: es la cámara. De él solo aparecen las manos y su voz |
+| Graba | El que hace de cliente, con el celular a la altura de sus ojos: camina, se sienta y graba sentado frente al escritorio |
 | Lugar | Escritorio de ventas, carros fuera de foco al fondo |
-| Props | Lentes oscuros, taza de guayoyo, cartel "SON 4" pegado en la espalda de Alexis |
+| Props | Lentes oscuros (los pone el cliente sobre el escritorio), taza de guayoyo, celular con un chat de WhatsApp de Dai Motors y el mensaje "BLACK" enviado, cartel "SON 4" pegado en la espalda de Alexis |
 
 **Hooks**
 
 | Opción | Fórmula | Hablado | Texto en pantalla |
 |---|---|---|---|
-| **A (elegida)** | Sketch POV | "Vengo por mi Black Friday. Cincuenta por ciento." | POV: EL CLIENTE QUE PIDE 50% |
+| **A (elegida)** | Sketch POV | "Vengo por mi Black Friday. Cincuenta por ciento." | POV: PIDES 50% |
 | B | #22 Contrarian | "En carros no existe el 50%. Y el que te lo ofrece, revísalo." | NO EXISTE EL 50% |
 | C | #12 Objection | "'Black Friday en carros es puro cuento.' Tienes razón. Casi." | ¿PURO CUENTO? |
 
-Por qué A: los sketches de concesionario dieron 4 reels atípicos en 3 cuentas (ver `swipe.md`), y el cliente dice en voz alta lo que el público piensa.
+Por qué A: los sketches de concesionario dieron 4 reels atípicos en 3 cuentas (ver `swipe.md`). En POV el chiste le pasa al que mira, no a un actor: Alexis le habla directo a cámara.
 
 **Plano a plano**
 
 | # | Tiempo | Qué se ve | Qué se dice | Texto en pantalla |
 |---|---|---|---|---|
-| 1 | 0:00-0:03 | El cliente entra al encuadre con lentes oscuros, se sienta frente al escritorio y apoya los codos. | CLIENTE: "Vengo por mi Black Friday. Cincuenta por ciento." | POV: EL CLIENTE QUE PIDE 50% |
-| 2 | 0:03-0:05 | Contraplano: Alexis lo mira en silencio y toma un sorbo de guayoyo, despacio. | (silencio, solo el sorbo) | (sin texto) |
-| 3 | 0:05-0:07 | Alexis deja la taza. | ALEXIS: "Mi pana, en carros no existe el 50%." | NO EXISTE EL 50% |
-| 4 | 0:07-0:09 | El cliente se quita los lentes, ofendido. | CLIENTE: "¿Y entonces qué hay?" | (sin texto) |
-| 5 | 0:09-0:13 | Alexis se levanta y señala al fondo, hacia los carros fuera de foco. Al darse la vuelta se ve el cartel SON 4 en su espalda. | ALEXIS: "Cuatro unidades, con descuento de verdad." | SON 4 UNIDADES |
-| 6 | 0:13-0:15 | Primer plano de Alexis, serio. | ALEXIS: "Viernes 27, de contado." | VIERNES 27 · CONTADO |
-| 7 | 0:15-0:17 | El cliente ve el cartel en la espalda de Alexis y se aguanta la risa. | CLIENTE (a cámara): "Comenta BLACK." | COMENTA BLACK |
-| 8 | 0:17-0:20 | Alexis se sienta otra vez, sin enterarse de nada. | ALEXIS: "Hyundai en Dai Motors. Cincuenta, no." | HYUNDAI EN DAI MOTORS |
+| 1 | 0:00-0:03 | POV: la cámara llega al escritorio y se sienta. Las manos del cliente dejan unos lentes oscuros sobre la mesa. Alexis, al frente, levanta la mirada. | CLIENTE (fuera de cuadro): "Vengo por mi Black Friday. Cincuenta por ciento." | POV: PIDES 50% |
+| 2 | 0:03-0:05 | Alexis mira a cámara en silencio y toma un sorbo de guayoyo, despacio. | (silencio, solo el sorbo) | (sin texto) |
+| 3 | 0:05-0:07 | Alexis deja la taza y se inclina hacia la cámara. | ALEXIS: "Mi pana, en carros no existe el 50%." | NO EXISTE EL 50% |
+| 4 | 0:07-0:09 | Las manos del cliente se abren sobre el escritorio, indignadas. La cámara se echa un poco hacia atrás. | CLIENTE (fuera de cuadro): "¿Y entonces qué hay?" | (sin texto) |
+| 5 | 0:09-0:13 | Alexis se levanta, se voltea y señala los carros del fondo. De espaldas, a cámara, queda el cartel SON 4. | ALEXIS: "Cuatro unidades, con descuento de verdad." | SON 4 UNIDADES |
+| 6 | 0:13-0:15 | Alexis vuelve a mirar a cámara, serio. | ALEXIS: "Viernes 27, de contado." | VIERNES 27 · CONTADO |
+| 7 | 0:15-0:17 | La cámara tiembla: el cliente se ríe fuera de cuadro y su mano señala la espalda de Alexis. Alexis se mira el hombro, no ve nada. | ALEXIS: "¿Qué? Escribe BLACK." | ESCRIBE BLACK |
+| 8 | 0:17-0:20 | Alexis toma el celular del escritorio y lo voltea hacia la cámara: chat de WhatsApp con "BLACK" enviado. | ALEXIS: "Y el precio te llega el jueves, un día antes." | PRECIO: JUEVES 26 · 7 AM |
+| 9 | 0:20-0:22 | Alexis se sienta otra vez y toma la taza, sin enterarse de nada. | ALEXIS: "Hyundai en Dai Motors. Cincuenta, no." | HYUNDAI EN DAI MOTORS |
 
 **Texto para decir**
 
@@ -153,18 +154,19 @@ Mi pana, en carros no existe el 50%.
 ¿Y entonces qué hay?
 Cuatro unidades, con descuento de verdad.
 Viernes 27, de contado.
-Comenta BLACK.
+¿Qué? Escribe BLACK.
+Y el precio te llega el jueves, un día antes.
 Hyundai en Dai Motors. Cincuenta, no.
 ```
 
-**Audio y edición:** diálogo con micrófono de solapa o celular cerca. El silencio de la toma 2 es el chiste, no hay que cortarlo. Sonido de "ding" opcional cuando aparece el cartel.
+**Audio y edición:** la voz del cliente sale del mismo celular que graba, así suena más cerca que la de Alexis; eso vende el POV. Alexis con micrófono de solapa. El silencio de la toma 2 es el chiste, no hay que cortarlo. La risa de la toma 7 tiene que ser real. Sonido de "ding" opcional cuando aparece el cartel. Nunca girar la cámara hacia el cliente.
 
 **Stories 19 nov · 5 frames · caja de preguntas**
 
 | # | Qué se ve | Texto | Sticker |
 |---|---|---|---|
 | 1 | Alexis a cámara, con guayoyo | "Pregúntame lo que quieras del 27." | |
-| 2 | Foto del cliente del reel con lentes | "Menos esto." | |
+| 2 | Foto de los lentes del cliente sobre el escritorio | "Menos esto." | |
 | 3 | Fondo blanco con letras de cartel | "50% no. Descuento real, sí." | |
 | 4 | Alexis a cámara | "¿Qué le quieres preguntar a Alexis?" | Caja de preguntas |
 | 5 | Alexis de espaldas, cartel nuevo: PREGÚNTAME | "Respondo mañana. Si me quitan esto." | |
@@ -173,31 +175,57 @@ Después: guardar las preguntas tal cual llegan. Las dos mejores se responden en
 
 ---
 
-## Vie 20 · 7:00 pm · CARRUSEL · Lo que NO sirve para pagar el viernes 27 · 6 slides
+## Vie 20 · 7:00 pm · CARRUSEL · 4 unidades, 1 sola condición · 6 slides
 
-**Objetivo:** explicar qué hace falta para comprar de contado, con humor primero y el dato útil después.
+**Objetivo:** el reel del jue 19 ya dijo que son 4. Este carrusel dice la otra mitad: esas 4 se venden únicamente de contado. Se lo deja claro a quien piensa financiar antes del viernes 27, para que nadie llegue a pedir cuotas.
 
-| Slide | Texto | Foto |
-|---|---|---|
-| 1 | Lo que NO sirve para pagar el viernes 27 | Alexis serio, con una vaca de peluche en brazos |
-| 2 | Tu carro viejo "que está buenísimo". | Alexis señalando un caucho viejo |
-| 3 | "Te pago la mitad en enero". | Calendario de enero tachado con marcador |
-| 4 | Lo que SÍ sirve: `{{medios de pago aceptados}}`. | Alexis sonriendo, pulgar arriba |
-| 5 | Y estar en la lista BLACK: te llega el precio el jueves 26. | Celular con un WhatsApp borroso |
-| 6 | Comenta BLACK. Hyundai en Dai Motors. | Alexis de pie delante de los carros, tapándolos con el cuerpo |
+**Estrategia:** Alexis sale en los 6 slides, siempre de espaldas, con el mismo cartel SOLO CONTADO. Entre el slide 1 y el 2 el cartel queda partido en el borde: en la portada se lee "SOLO" y "CONTADO" aparece al deslizar. Esa palabra cortada es la que hace pasar al slide 2. Del 3 al 6, Alexis va caminando por el showroom y el cartel siempre está a la vista: la condición no se pierde en ningún slide. El slide 5 resume todo en 4 líneas, para guardar y reenviar.
 
-Diseño: fondo blanco, letras negras grandes como los carteles de la espalda, foto debajo.
+**Diseño:** 1080x1350. Fondo blanco, letras negras grandes como los carteles, foto de Alexis. Número de slide arriba a la derecha (1/6), @daimotorsmcbo pequeño abajo en cada slide. El cartel SOLO CONTADO siempre en el mismo tamaño y en el mismo lugar del cuerpo de Alexis.
+
+**Cómo armar el corte del slide 1 al 2:** foto horizontal de Alexis de espaldas, con el cartel a la altura del centro. Se divide en dos piezas de 1080x1350 de modo que el corte pase justo entre "SOLO" y "CONTADO". La portada lleva la mitad izquierda; el slide 2, la derecha.
+
+| Slide | Titular | Texto debajo | Foto de Alexis (siempre con el cartel SOLO CONTADO) |
+|---|---|---|---|
+| 1 · Portada | 4 UNIDADES. 1 SOLA CONDICIÓN. | Desliza: la tiene en la espalda. | De espaldas, en el borde derecho. Se ve solo "SOLO" del cartel |
+| 2 | SOLO DE CONTADO | Las 4 del viernes 27 no se financian. Ni cuotas, ni inicial, ni "te pago en enero". | La otra mitad: "CONTADO". Alexis mira por encima del hombro, sin entender |
+| 3 | ¿POR QUÉ DE CONTADO? | Porque el descuento es para quien paga completo. Pagas todo, pagas menos. | Caminando de espaldas entre los carros, fuera de foco |
+| 4 | SIN APARTADOS. SIN RESERVAS. | Las 4 no se apartan. Cada una es de quien la pague completa primero. | De espaldas frente a los carros, con los brazos abiertos |
+| 5 · Resumen | EL VIERNES 27, EN 4 LÍNEAS | 1. Son 4 unidades. 2. Solo de contado. 3. Escribe BLACK: el precio te llega el jueves 26, 7 am. 4. Cada una es de quien la pague primero. | Pequeño, en una esquina, de espaldas |
+| 6 · Cierre | COMENTA BLACK | Hyundai en Dai Motors. | De espaldas, tapando los carros con el cuerpo |
+
+Pendiente antes de publicar: confirmar con Ventas que estas 4 unidades no se apartan ni se reservan (slide 4).
+
+**Texto alternativo de la portada:** "Alexis, asesor de Dai Motors, de espaldas con un cartel que dice SOLO. Texto: 4 unidades, 1 sola condición."
+
+**Para grabar hoy:** una foto horizontal para los slides 1 y 2, y una foto por cada slide del 3 al 6, siempre con el mismo cartel SOLO CONTADO.
+
+**Caption** (en un carrusel el caption sí trabaja: la portada ya gastó sus 6 palabras)
+
+```caption
+Las 4 unidades del Black Friday, el viernes 27, tienen una sola condición: se pagan de contado.
+
+Sin cuotas, sin inicial y sin financiamiento. El descuento es para quien paga completo, y por eso bajan.
+
+Si vas a comprar, escribe BLACK. El jueves 26 a las 7 am te llega el precio y tienes 24 horas para preparar el pago. El viernes, cada una es de quien la pague primero.
+
+Comenta BLACK. Hyundai en Dai Motors, Maracaibo.
+
+#BlackFridayMaracaibo #Hyundai #DaiMotors
+```
 
 **Stories 20 nov · 6 frames**
 
 | # | Qué se ve | Texto | Sticker |
 |---|---|---|---|
-| 1 | Video: Alexis intenta pagar un guayoyo con la vaca de peluche | "Así no se paga el 27." | |
+| 1 | Video: Alexis pasa frente a la cámara con el cartel SOLO CONTADO en la espalda; alguien se ríe fuera de cuadro | "Lo dice su espalda." | |
 | 2 | Alexis a cámara | "Respondo dos de las que me mandaron ayer." | |
 | 3 | Pregunta 1 en pantalla + Alexis respondiendo en video | | |
 | 4 | Pregunta 2 + respuesta | | |
-| 5 | Slide 5 del carrusel | "¿Cuándo le llega el precio a la lista BLACK?" | Quiz: Viernes / **Jueves 26** / Nunca |
+| 5 | Slide 2 del carrusel | "¿Las 4 unidades se pueden financiar?" | Quiz: Sí / **No, solo contado** |
 | 6 | Alexis tapando los carros con el cuerpo, sonriendo sin saber | "Lunes 23, 7 pm: las cuatro." | Cuenta regresiva |
+
+Preguntas de los frames 3 y 4: las dos mejores de la caja de preguntas del jue 19. Si alguien preguntó por financiamiento, esa va primero.
 
 Fin de semana: sin publicaciones. Las DM se responden el lunes, salvo respuesta automática a BLACK en Kommo.
 
@@ -213,7 +241,7 @@ Fin de semana: sin publicaciones. Las DM se responden el lunes, salvo respuesta 
 | Sale | Alexis |
 | Graba | Un asesor, cámara en mano siguiendo a Alexis, que también hace la voz en off susurrada |
 | Lugar | Entrada, pasillo y las cuatro unidades en fila: Accent, Accent, Creta, Creta |
-| Props | Cartel "SÍGUEME" en la espalda de Alexis, cartel "CASI" en una columna, un cartel "SON 4" en cada parabrisas |
+| Props | Cartel "SÍGUEME" en la espalda de Alexis, con "CONTADO" impreso por detrás, cartel "CASI" en una columna, un cartel "SON 4" en cada parabrisas |
 
 **Hooks**
 
@@ -233,7 +261,7 @@ Por qué A: Alexis ya es conocido por su cartel y ahora el cartel lleva a las un
 | 2 | 0:03-0:05 | Pasan junto al cartel CASI en la columna. | (sin voz) | CASI |
 | 3 | 0:05-0:09 | Alexis se aparta y aparecen las cuatro unidades en fila, cada una con SON 4 en el parabrisas. | "Dos Accent, dos Creta. El viernes 27 bajan." | 2 ACCENT · 2 CRETA |
 | 4 | 0:09-0:12 | Alexis se voltea, ve su cartel y pone cara de "¿en serio?". | "Precio el jueves, solo para la lista. Comenta BLACK." | PRECIO EL JUEVES: LISTA BLACK |
-| 5 | 0:12-0:15 | Alexis se quita el cartel y se lo pega a un Creta. | "Hyundai en Dai Motors. Sigue a Alexis." | HYUNDAI EN DAI MOTORS |
+| 5 | 0:12-0:15 | Alexis se quita el cartel, lo voltea (por detrás dice CONTADO) y lo pega en el parabrisas de una Creta. | "Hyundai en Dai Motors. Sigue a Alexis." | HYUNDAI EN DAI MOTORS |
 
 **Texto para decir**
 

@@ -73,3 +73,4 @@ Sin clasificar y que vale revisar: la causa social de Kaiyi (16 mil likes) es un
 | Collab + sketch | Descartado para Black Friday: Hyundai no tendrá collab. Queda como opción para campañas futuras. | |
 | Sketch POV | "POV: el cliente que pide 50% en Black Friday" | Hyundai y Yantai, jue 19 |
 | #19 Deadline | "Solo falta 1 día. La lista ya tiene el precio." | Las 3, jue 26 |
+| #23 Statistic, a cámara | "4 unidades. Ni una más." | Chery, jue 19 (asesora de blanco) |

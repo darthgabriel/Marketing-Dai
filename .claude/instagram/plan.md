@@ -26,7 +26,7 @@ MAR 17  7:00pm  REEL      STORY    #18 Cold Open Demo  - mano pega "Algo grande 
                 STORIES 4 frames  - encuesta / caja de preguntas
 MIE 18  sin publicación comercial (Bajada de La Chinita)
                 STORIES opcional  - saludo de La Chinita, sin oferta
-JUE 19  7:00pm  REEL      OPINION  #22 Contrarian Flip - en carros no existe el 50% de descuento
+JUE 19  7:00pm  REEL      OPINION  #22 Contrarian Flip - Hyundai: POV pides 50% · Chery: asesora de blanco, 4 unidades + lista de preventa (sin 50%) · Yantai: adivina cuál es
                 STORIES 5 frames  - caja de preguntas (se responden el vie 20)
 VIE 20  7:00pm  CARRUSEL  TEACH                        - qué tener listo para comprar de contado el 27
                 STORIES 6 frames  - 2 respuestas + quiz "jueves 26" + cuenta regresiva al lun 23

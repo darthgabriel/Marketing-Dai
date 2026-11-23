@@ -118,11 +118,11 @@ code { background: #FEF3C7; padding: 0 3px; border-radius: 2px; font-family: Con
 """
 
 
-def build(src, name, title, color):
+def build(src, name, title, color, extra=""):
     md = open(os.path.join(BASE, src), encoding="utf-8").read()
     body = md_to_html(md)
     doc = f"""<!doctype html><html lang="es"><head><meta charset="utf-8"><title>{name}</title>
-<style>:root {{ --c: {color} }}{CSS}</style></head><body>
+<style>:root {{ --c: {color} }}{CSS}{extra}</style></head><body>
 <div class="top"><b>Black Friday 2026 · Guiones</b><span>{html.escape(title)}</span><span>Borrador · uso interno</span></div>
 {body}
 </body></html>"""
@@ -136,7 +136,49 @@ def build(src, name, title, color):
     return out_pdf
 
 
+# Una sola hoja para los reels sueltos.
+COMPACTO = """
+@page { margin: 7mm 9mm }
+body { font-size: 8.6px; line-height: 1.24 }
+.top { margin-bottom: 4px; padding-bottom: 2px }
+h1 { font-size: 13px; margin: 0 0 2px }
+h2 { font-size: 12px; padding: 3px 8px; margin: 0 0 4px }
+p { margin: 1px 0 }
+table { margin: 2px 0 4px }
+th { padding: 2px 5px; font-size: 7.8px }
+td { padding: 2px 5px }
+.code { margin: 3px 0 4px }
+.code span { font-size: 7.8px; padding: 1px 6px }
+.code pre { font-size: 10px; line-height: 1.35; padding: 3px 10px; columns: 2 }
+"""
+
+
+# Reels sueltos: se extraen del archivo de la cuenta para que nunca queden desfasados.
+SUELTOS = [
+    ("contenido-hyundai.md", "## Jue 19 ", "reel-hyundai-jue19.md", "Guiones-BF2026-Hyundai-Jue19",
+     "@daimotorsmcbo · Reel jue 19 · POV: pides 50%", "#002C5F"),
+    ("contenido-chery.md", "## Jue 19 ", "reel-chery-jue19.md", "Guiones-BF2026-Chery-Jue19",
+     "@cherymaracaibo · Reel jue 19 · Cuatro unidades y una lista", "#8A1C2B"),
+    ("contenido-hyundai.md", "## Vie 20 ", "carrusel-hyundai-vie20.md", "Guiones-BF2026-Hyundai-Vie20",
+     "@daimotorsmcbo · Carrusel vie 20 · 4 unidades, 1 sola condición", "#002C5F"),
+    ("contenido-yantai.md", "## Jue 19 ", "reel-yantai-jue19.md", "Guiones-BF2026-Yantai-Jue19",
+     "@yantaimotors · Reel jue 19 · Adivina cuál es", "#374151"),
+]
+
+
+def extraer(src, inicio, dst):
+    md = open(os.path.join(BASE, src), encoding="utf-8").read()
+    a = md.index(inicio)
+    b = md.find("\n## ", a + 1)
+    seccion = md[a:b if b != -1 else len(md)].rstrip().rstrip("-").rstrip()
+    with open(os.path.join(BASE, dst), "w", encoding="utf-8") as f:
+        f.write(f"# Black Friday 2026 · Reel suelto\n\nGenerado desde `{src}`: edita allá, no aquí.\n\n{seccion}\n")
+
+
 if __name__ == "__main__":
     os.makedirs(OUT_DIR, exist_ok=True)
     for d in DOCS:
         print(build(*d))
+    for src, inicio, dst, name, title, color in SUELTOS:
+        extraer(src, inicio, dst)
+        print(build(dst, name, title, color, COMPACTO))

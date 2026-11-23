@@ -35,7 +35,6 @@ Base: `propuesta-gerencia.md` · Calendario corto: `.claude/instagram/plan.md` �
 | Versión, color y placas de las 10 unidades | Ventas | vie 13 |
 | `{{medios de pago}}` y `{{regla de pago}}` | Administración | vie 13 (antes del carrusel del vie 20) |
 | Paquete de obsequios o descuentos en otras unidades | Gerencia | lun 23 |
-| Litros de maleta de la X3 Pro | Ventas, ficha técnica | mié 18 (reel del jue 19) |
 | Permiso de los seguidores citados en el reel Chery del mié 25 | Community | mar 24 |
 | Entregas de Black Friday, con permiso de los clientes para salir en video | Asesores | grabar entre el lun 30 y el mié 2 dic |
 
@@ -56,10 +55,10 @@ La campaña es una sola: unidades contadas por marca, descuento real, solo conta
 | Lun 16 | Interacción + grabación | Interacción + grabación | Interacción + grabación |
 | Mar 17 · 7 pm | Reel #18: "Ya se lo pegué. Él no sabe." | Reel #21: "...y esa noche dejaron una nota." | Reel #19: "Viernes 27. Dos unidades. Hoy no te digo cuáles." |
 | Mié 18 | La Chinita, sin oferta | La Chinita, sin oferta | La Chinita, sin oferta |
-| Jue 19 · 7 pm | Reel POV: el cliente que pide 50% | Reel #3: "el descuento que puedes creer" | Reel #11: "Tres datos. Adivina cuál es." |
-| Vie 20 · 7 pm | Carrusel: lo que NO sirve para pagar | Carrusel: el día que lo pagas completo | Carrusel: checklist de contado |
+| Jue 19 · 7 pm | Reel POV: pides 50%; escribe BLACK y el precio te llega el jueves | Reel #23: asesora de blanco, "4 unidades. Ni una más." + lista de preventa BLACK | Reel #11: "Tres datos. Adivina cuál es." + solo 2, de contado |
+| Vie 20 · 7 pm | Carrusel: 4 unidades, 1 sola condición: contado | Carrusel: el día que lo pagas completo | Carrusel: checklist de contado |
 | Sáb 21 · Dom 22 | Libre | Libre | Libre |
-| Lun 23 · 7 pm | Reel #24: Alexis se aparta y aparecen 2 Accent y 2 Creta | Reel #24: la mano baja la nota CASI y detrás están 2 Tiggo 4 y 2 Himla | Reel #24: la cámara se aleja del "154" y aparecen las dos X3 Pro |
+| Lun 23 · 7 pm | Reel #24: Alexis se aparta y aparecen 2 Accent y 2 Creta | Reel #24: asesora de blanco, "Te dije que eran 4": 2 Tiggo 4 y 2 Himla | Reel #24: "¿Acertaste?": de la ventana del jueves, un paso atrás y aparecen las dos X3 Pro |
 | Mar 24 · 7 pm | Carrusel: bases explicadas por Alexis + bulk 1 | Carrusel: sin letra pequeña + bulk 1 | Carrusel: 5 reglas numeradas + bulk 1 |
 | Mié 25 · 7 pm | Reel #21: Alexis les habla a las cuatro | Reel #16: las historias que escribieron los seguidores | Reel #11: "dos, siete, ocho" |
 | Jue 26 · 7 am | Bulk 2: precios a la lista | Bulk 2: precios a la lista | Bulk 2: precio a la lista |
@@ -80,8 +79,8 @@ Todas se publican el mismo día del reel o carrusel. Detalle frame por frame en 
 | Mar 17 · 4 frames | Alexis con el cartel: "Shhh. No le digas." · Encuesta: ¿Le decimos? | La nota en el vidrio, un faro fuera de foco · Caja: ¿cuál sería la primera historia de tu próximo carro? | El marcador en el vidrio, el rin · Encuesta: ¿tienes el contado listo? |
 | Mié 18 · opcional | Showroom cerrado con flores: "Feliz día, Zulia." | Vela sobre el vidrio: "Hoy la historia es otra." | Fondo azul: "Feliz día de La Chinita." |
 | Jue 19 · 5 frames | Alexis con guayoyo: "50% no. Descuento real, sí." · Caja: ¿qué le preguntas a Alexis? | Las cuatro llaves, la nota VIERNES 27 · Caja: ¿qué quieres saber antes del 27? | Los tres datos del vidrio, "Pista: es turbo" · Encuesta: ¿cuál es? · Caja de preguntas |
-| Vie 20 · 6 frames | Alexis paga con la vaca de peluche, responde 2 preguntas · Quiz: jueves 26 · Cuenta regresiva al lun 23 | La mano marca el 27, responden 2 preguntas · Quiz: jueves 26 · Cuenta regresiva al lun 23 | Hoja con 4 casillas, responde 2 preguntas · Quiz: jueves 26 · Cuenta regresiva al lun 23 |
-| Lun 23 · 5 frames | Las cuatro en fila, Alexis dentro de una Creta · Encuesta: Accent / Creta | La nota CASI baja y aparecen las cuatro · Encuesta: Familia (Tiggo 4) / Trabajo (Himla) | Se aleja del "154", motor turbo, dirección · Encuesta: ¿vienes esta semana o el viernes? |
+| Vie 20 · 6 frames | Cartel SOLO CONTADO, responde 2 preguntas · Quiz: ¿se pueden financiar? · Cuenta regresiva al lun 23 | La mano marca el 27, responden 2 preguntas · Quiz: jueves 26 · Cuenta regresiva al lun 23 | Hoja con 4 casillas, responde 2 preguntas · Quiz: jueves 26 · Cuenta regresiva al lun 23 |
+| Lun 23 · 5 frames | Las cuatro en fila, Alexis dentro de una Creta · Encuesta: Accent / Creta | La asesora se quita los lentes y aparecen las cuatro · Encuesta: Familia (Tiggo 4) / Trabajo (Himla) | "¿Acertaste?", las dos detrás del vidrio, dirección · Encuesta: ¿vienes esta semana o el viernes? |
 | Mar 24 · 4 frames | Alexis lee las bases con cartel LEYENDO · Caja: ¿qué no quedó claro? | Mano sobre las bases impresas · Caja: ¿algo que no quedó claro? | "5 reglas. Ninguna escondida." · Caja: ¿alguna regla no está clara? |
 | Mié 25 · 4 frames | Alexis les habla a los carros · Cuenta regresiva al jue 26, 7 am | Las notas de los seguidores en los vidrios · Cuenta regresiva al jue 26, 7 am | El vidrio con 2 · 7 · 8 · Cuenta regresiva al jue 26, 7 am |
 | Jue 26 · 5 frames | "7 am. Ya salió." · Cuenta regresiva al vie 8 am · Caja: ¿qué te falta? | "Su última noche sin dueño." · Cuenta regresiva · Caja: ¿qué sientes la noche antes? | El 7 tachado: "Queda uno." · Cuenta regresiva · Caja: ¿qué te falta? |

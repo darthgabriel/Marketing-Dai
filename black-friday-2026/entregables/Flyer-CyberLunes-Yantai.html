@@ -1,0 +1,54 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><title>Flyer Cyber Lunes · Yantai</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0 }
+body { width: 1080px; height: 1350px; overflow: hidden; position: relative; font-family: Inter, 'Segoe UI', Arial, sans-serif;
+  color: #fff; background: #0B0E14; -webkit-print-color-adjust: exact; print-color-adjust: exact }
+.bgr { position: absolute; right: -180px; top: -180px; width: 640px; height: 640px; border-radius: 50%;
+  background: radial-gradient(circle, var(--c), transparent 68%); opacity: .38 }
+.bgb { position: absolute; left: -220px; bottom: -260px; width: 700px; height: 700px; border-radius: 50%;
+  background: radial-gradient(circle, #0032C0, transparent 70%); opacity: .30 }
+.band { position: absolute; left: 0; right: 0; top: 0; height: 14px; background: var(--c) }
+.head { display: flex; justify-content: space-between; align-items: center; padding: 56px 70px 0; position: relative; z-index: 2 }
+.head img { height: 64px }
+.head img.tall { height: 46px; margin-top: 6px }
+.fecha { text-align: right }
+.fecha b { display: block; font: 900 30px Inter, Arial; letter-spacing: .04em }
+.fecha span { font: 700 16px Inter, Arial; color: #94A3B8; letter-spacing: .22em; text-transform: uppercase }
+.mid { padding: 120px 70px 0; position: relative; z-index: 2 }
+.mid .lbl { font: 800 26px Inter, Arial; letter-spacing: .3em; text-transform: uppercase; color: #FFD84D }
+.mid h1 { font: 900 180px/0.95 'Arial Black', Inter, Arial; letter-spacing: .01em; margin-top: 20px }
+.mid h1 em { color: var(--c); font-style: normal; -webkit-text-stroke: 2px #fff; text-stroke: 2px #fff }
+.mid .sub { font: 700 44px/1.25 Inter, Arial; margin-top: 34px; color: #E2E8F0 }
+.mid .sub b { color: #FFD84D }
+.chips { display: flex; gap: 18px; margin-top: 70px; flex-wrap: wrap }
+.chips span { font: 900 36px 'Arial Black', Inter, Arial; padding: 22px 32px; border-radius: 16px;
+  background: rgba(255,255,255,.07); border: 2px solid rgba(255,255,255,.22) }
+.price { margin: 60px 70px 0; border: 3px solid #FFD84D; border-radius: 18px; padding: 26px 32px;
+  display: flex; align-items: center; gap: 20px; position: relative; z-index: 2 }
+.price i { font-style: normal; font-weight: 900; width: 52px; height: 52px; border-radius: 50%; background: #FFD84D;
+  color: #0B0E14; display: grid; place-items: center; font-size: 30px; flex: none }
+.price b { font: 900 38px 'Arial Black', Inter, Arial; letter-spacing: .02em }
+.price small { display: block; font: 600 20px Inter, Arial; color: #94A3B8; margin-top: 6px }
+.price, .car { position: relative }
+.car { position: absolute; left: 0; right: 0; top: 985px; text-align: center; z-index: 1 }
+.car svg { width: 700px; display: block; margin: 0 auto; opacity: .55 }
+.foot { position: absolute; bottom: 0; left: 0; right: 0; padding: 40px 70px 46px; display: flex;
+  justify-content: space-between; align-items: flex-end; background: linear-gradient(transparent, rgba(0,0,0,.65)) }
+.cta { font: 900 34px 'Arial Black', Inter, Arial; color: #FFD84D }
+.cta small { display: block; font: 600 20px Inter, Arial; color: #CBD5E1; margin-top: 8px }
+.marca { text-align: right; font: 700 20px Inter, Arial; color: #94A3B8; line-height: 1.45 }
+</style></head><body>
+<div class="bgr"></div><div class="bgb"></div><div class="band"></div>
+<div class="head"><img src="data:image/png;base64,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" class="tall"><div class="fecha"><span>Lunes</span><b>30 NOV</b></div></div>
+<div class="mid">
+  <div class="lbl">Solo hoy</div>
+  <h1>CYBER<br><em>LUNES</em></h1>
+  <div class="sub">El <b>precio de Black Friday</b>, por si lo dejaste pasar el viernes.</div>
+  <div class="chips"><span>2 KAIYI X3 PRO</span></div>
+</div>
+<div class="car"><svg viewBox="0 0 700 240"><path d="M40 190 L55 120 Q62 78 110 68 L180 56 Q250 -8 380 -8 L470 -8 Q540 -8 580 40 L610 62 Q660 74 665 120 L662 190" fill="none" stroke="#3A4652" stroke-width="9" stroke-linejoin="round"/><path d="M210 48 Q262 -2 368 -2 L460 -2 Q522 -2 556 40 L568 52 L232 52 Q200 52 210 48 Z" fill="none" stroke="#3A4652" stroke-width="7"/><line x1="240" y1="20" x2="480" y2="20" stroke="var(--c)" stroke-width="6" stroke-linecap="round" opacity=".8"/><circle cx="170" cy="190" r="46" fill="none" stroke="#3A4652" stroke-width="10"/><circle cx="540" cy="190" r="46" fill="none" stroke="#3A4652" stroke-width="10"/><line x1="20" y1="190" x2="124" y2="190" stroke="#3A4652" stroke-width="9"/><line x1="216" y1="190" x2="494" y2="190" stroke="#3A4652" stroke-width="9"/><line x1="586" y1="190" x2="662" y2="190" stroke="#3A4652" stroke-width="9"/><line x1="60" y1="130" x2="128" y2="122" stroke="var(--c)" stroke-width="8" stroke-linecap="round"/></svg></div>
+<div class="foot">
+  <div class="cta">VISÍTANOS HOY<small>Hasta las 6:00 pm · cada unidad, al primero que la pague</small></div>
+  <div class="marca">Av. 8 Santa Rita con calles 82B y 83 · Kaiyi en Yantai Motors</div>
+</div>
+</body></html>
